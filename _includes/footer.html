@@ -1,0 +1,28 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+<!--            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}-->
+            </li>
+        </ul>
+        <script async src="https://eomail5.com/form/c5d4e9da-2f51-11f1-ba12-ab30d27be5f8.js" data-form="c5d4e9da-2f51-11f1-ba12-ab30d27be5f8"></script>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <p>{%- include social-compact.html -%}</p>
+        <p style="padding-left:5px;color:#555">{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

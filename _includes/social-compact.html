@@ -1,0 +1,8 @@
+<ul class="social-media-list">
+  {%- for mst in site.mastodon -%}{%- if mst.username and mst.instance -%}<a href="https://{{ mst.instance| cgi_escape | escape}}/@{{mst.username}}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#mastodon' | relative_url }}"></use></svg> Mastodon </a>{%- endif -%}{%- endfor -%}
+  {%- if site.github_username -%} | <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> GitHub </a>{%- endif -%}
+  {%- if site.linkedin_username -%} | <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> LinkedIn </a>{%- endif -%}
+  {%- if site.bluesky_username -%} | <a href="https://bsky.app/profile/{{ site.bluesky_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/bsky_icon.svg#bluesky' | relative_url }}"></use></svg> Bluesky </a>{%- endif -%}
+  {%- if site.substack_username -%} | <a href="https://{{ site.substack_username | cgi_escape | escape }}.substack.com"><img src="{{ '/assets/substack.png' | relative_url }}" class="png-icon" > Substack </a>{%- endif -%}
+  {%- if site.rss -%} | <a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> RSS </a>{%- endif -%}
+</ul>

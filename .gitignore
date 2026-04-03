@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.env
+*.csv
+convert_bearblog.py
+.venv
+email-stuff*
