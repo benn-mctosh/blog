@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/posse-setup-guide.md",
+                "file": "_posts/2024-02-01-science-paper-thursday.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "posse-setup-guide"
+              "title": "2024-02-01-science-paper-thursday"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/posse-setup-guide.md",
+                "file": "_posts/2024-02-01-science-paper-thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for posse-setup-guide"
+              "title": "Backlinks for 2024-02-01-science-paper-thursday"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/posse-setup-guide.md",
+                "file": "_posts/2024-02-01-science-paper-thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from posse-setup-guide"
+              "title": "Outgoing links from 2024-02-01-science-paper-thursday"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/posse-setup-guide.md",
+                "file": "_posts/2024-02-01-science-paper-thursday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of posse-setup-guide"
+              "title": "Outline of 2024-02-01-science-paper-thursday"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "6d3196512f5318c0",
   "lastOpenFiles": [
+    "_drafts/posse-setup-guide.md",
     "CNAME",
     "_drafts/YYYY-MM-DD-Model-Weights-Like-DNA.md",
     "_site/assets/manhapple.png",
@@ -198,7 +199,6 @@
     "_site/email-stuff",
     "out.html",
     "email-stuff/email_template.html",
-    "email-stuff/build_email.py",
     "_drafts/YYYY-MM-DD-post-template.md",
     "_posts/2025-01-28-what-pluralism-on-ai-could-actually-look-like.md",
     "_posts/2024-02-01-science-paper-thursday.md",
@@ -215,7 +215,6 @@
     "_posts/2023-02-14-the-foundational-science.md",
     "_posts/2023-02-10-against-efficiency.md",
     "_posts/2023-01-30-statement-of-purpose.md",
-    "_drafts/posse-setup-guide.md",
     "_drafts/2026-03-31-welcome-to-jekyll.md",
     "books.md",
     "index.md",

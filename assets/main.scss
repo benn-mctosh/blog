@@ -59,13 +59,17 @@ blockquote {
   display: flex;
   gap: 20px;
   align-items: flex-start;
-  margin: 1.5em 10%;
+  margin: auto;
+  margin-bottom: 16px ;
+  max-width: 500px;
 
   img {
-    width: 100px;
+    width: 100px !important;
     height: auto;
     flex-shrink: 0;
     display: block;
+    margin: 0px !important;
+    padding: 0px !important; 
   }
 
   &-body {
@@ -80,6 +84,10 @@ blockquote {
     font-weight: bold;
     color: gray;
     text-decoration: underline;
+
+    &:visited {
+      color: gray;
+    }
   }
 
   &-dek {
@@ -105,6 +113,7 @@ blockquote {
 .post-content img { 
     display: block;
     margin: auto;
+    width: 60%;
     max-width: 500px;
 }
 

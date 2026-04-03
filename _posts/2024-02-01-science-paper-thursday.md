@@ -31,10 +31,10 @@ I was scrolling through my feed the other day, as one does, and saw someone post
 A few minutes later, I saw one from *Science News*:
 
 <div class="link-preview">
-  <a href="https://www.theatlantic.com/science/archive/2024/01/bigheaded-ant-lion-ecosystem-cascade/677241/"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706476670-0.jpg" alt="Thumbnail of lions"></a>
+  <a href="https://www.sciencenews.org/article/invasive-ant-lion-dinner-trees-ecosystem"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706476670-0.jpg" alt="Thumbnail of lions"></a>
   <div class="link-preview-body">
     <a href="https://www.sciencenews.org/article/invasive-ant-lion-dinner-trees-ecosystem" class="link-preview-hed">How an invasive ant changed a lion's dinner menu</a>
-    <span class="link-preview-dek">The impact rippled up from ants to trees to elephants to lions and their prey</span>
+    <span class="link-preview-dek">The impact rippled up from ants to trees to elephants to lions and their prey.</span>
     <em class="link-preview-outlet">Science News</em>
   </div>
 </div>

@@ -8,3 +8,4 @@ vendor
 convert_bearblog.py
 .venv
 email-stuff*
+_drafts*
