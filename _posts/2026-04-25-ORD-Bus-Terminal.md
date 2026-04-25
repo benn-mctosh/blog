@@ -11,7 +11,7 @@ syndicate_to:
 microblog_content: I went to the Midwest Junto for the History of Science last week and the best bus route from Madison WI, to Lafayette, IN required some light trespassing at ORD.
 masto_content:
 bsky_content:
-syndicated: false
+syndicated: true
 ---
 I went to the Midwest Junto for the History of Science[^1] last week, which this year was held at Purdue University, in West Lafayette Indiana. There was [a lot of interesting work](https://midwestjunto.wordpress.com/) shared at the conference, including:  
 - ⚗️ ⚔️ [Patrick Gamez](https://reilly.nd.edu/people/patrick-gamez/) at Notre Dame connecting chemical weapons, the CIA's Cold War obsession with chemistry, and the blossoming of a totalizing and terrifying approach to war he called "chemist's way of war" 

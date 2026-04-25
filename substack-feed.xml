@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contingent Ideas</title>
+    <link>https://blog.bennettmcintosh.com</link>
+    <description>This blog may feature my research on the history of scientific  controversy and data sharing. It may also include my thoughts on books, teaching, technology, and how to make our world more hospitable for humans and other animals. There’s only one way to find  out: Read on! </description>
+    <atom:link href="https://blog.bennettmcintosh.com/substack-feed.xml"
+               rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Apr 2026 16:43:41 +0000</lastBuildDate>
+    <item>
+      <title>This Airport is a Bus Terminal if You Trespass Hard Enough and Believe in Yourself</title>
+      <link>https://blog.bennettmcintosh.com/2026/04/25/ORD-Bus-Terminal.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2026/04/25/ORD-Bus-Terminal.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 -0000</pubDate>
+      <description>My trip to the Midwest Junto for the History of Science, and the untapped potential of suburban airports as regional ground transportation hubs.</description>
+      <content:encoded><![CDATA[<p>I went to the Midwest Junto for the History of Science[^1] last week, which this year was held at Purdue University, in West Lafayette Indiana. There was <a href="https://midwestjunto.wordpress.com/">a lot of interesting work</a> shared at the conference, including:<br />
+- ⚗️ ⚔️ <a href="https://reilly.nd.edu/people/patrick-gamez/">Patrick Gamez</a> at Notre Dame connecting chemical weapons, the CIA's Cold War obsession with chemistry, and the blossoming of a totalizing and terrifying approach to war he called "chemist's way of war" <br />
+- 🍁🛫 <a href="https://niche-canada.org/author/blair-stein/">Blair Stein</a> at Grand Valley State University, who has a new book coming out soon on the history of Trans Canada Airlines (TCA; now AirCanada), mentioning CTA's access to government infrastructure allowed it to computerize its reservation system before the (private) US airlines. <br />
+- 🖋️🌗 <a href="https://arthistory.ucr.edu/graduate-students/">Elizabeth Carlton</a> at UC Riverside combining art history and science history to uncover the exquisite methods, fascinating philosophy, and catty politics behind the first maps of the moon.[^2]</p>
+<p>Purdue's got some really interesting stuff going on, including a new center for Social Genomics (which I visited in October) and a markedly successful approach to avoiding the Eye of Sauron in DC that targets higher ed apparently at random nowadays (Have former Republican Governor Mitch Daniels run your university for a decade and turn it into a STEM powerhouse that reflexively says and does "free speech" in a way that's acceptable to Republicans, but unnatural for a lot of more liberal academics and administrators.)</p>
+<p>But but but this post is about how I got there. <strong>I used Chicago O'Hare Bussport.</strong></p>
+<p>Haven't heard of it? You probably know it as Chicago O'Hare "ORD" International Airport, the fourth busiest airport in the US. But it's also something of a regional transport hub, connecting the fine people of five different states not only to O'Hare but to each other. It just hasn't been designed that way—and using it that way seems to be, at least technically, illegal. Let me explain.</p>
+<h2>The accidental bus station</h2>
+<p><a href="https://blog.bennettmcintosh.com/2026/04/25/ORD-Bus-Terminal.html#the-accidental-bus-station">Continue reading →</a></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>What pluralism on AI could actually look like</title>
+      <link>https://blog.bennettmcintosh.com/2025/01/28/what-pluralism-on-ai-could-actually-look-like.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2025/01/28/what-pluralism-on-ai-could-actually-look-like.html</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 -0000</pubDate>
+      <description>On Nate Silver, Village Hipsters and Riparian Techbros</description>
+      <content:encoded><![CDATA[<p>A friend sent me Nate Silver’s recent post <a href="https://www.natesilver.net/p/its-time-to-come-to-grips-with-ai">“It's time to come to grips with AI”</a> and asked my thoughts (thanks man, you know who you are, glad you’re interested in what I think!)</p>
+<p>Briefly, Silver, riffing on the Village/River dichotomy in his recent book <em>On The Edge</em>,[^1] thinks that his tribe, the River people, have a better eye for the vast potential upside <em>and</em> downside of AI than do a group he variously identifies as “Hipsters Skeptics” the Village, and the Left.His general conclusion is that everyone should accept the possibility that AI has vast upside <em>and</em> downside risk, so that we can have serious, pluralist conversations about how to respond to that; I don’t really disagree with that.  But I think Silver has the wrong idea of what that ought to look like. </p>
+<p><img alt="a robot betwixt river and village" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh/roboedge.webp" /></p>
+<p>There are a few issues with Silver’s analysis. First, some of them are downstream (sorry, river pun) of Silver not having an encyclopaedic understanding of who’s writing on the left about tech. This is not to fault Silver—the “Left” is broad, politically marginalized, and fractured. Many of its members don’t tend to spend a lot of time on Silver’s haunts, Twitter or Substack, and the ones that do are a non-random selection. And I wouldn’t claim to have an encyclopaedic understanding of what left thinking on AI looks like either. Related to this problem is the over-broad generalization inherent to Silver’s River/Village dichotomy. I think he’d grant that it’s only a rough model, and that’s fine, but if you’re going to use a rough model you should have some understanding of its limitations. The worst problems, though, are a failure of imagination of what potential political responses to AI could be. If Silver wants pluralism, it helps to have some sense of what’s already there. </p>
+<h2>Missing the Left for the Hipsters</h2>
+<p>Most of Silver’s vitriol is directed at a particular brand of leftist (and it’s important that it’s only particular brand of leftist) that dismisses AI as both harmful and useless. He calls these the Hipster Skeptics, which is a nice characterization. Hipster Skeptics think they are too cool for AI and the nerds building it, that it’s useless and a scam, and will eventually collapse under its own weight. They’re the kind of people who were posting delightedly today about a stock market crash in the wake of DeepSeek’s new models, never mind that, while, yes, the over-valued NVDA lost about 17% of its market cap, the S&amp;P 500 lost only a point and a half, and even the tech-heavy Nasdaq Composite was down only 3 points — more of a sorely needed correction than a crash (if they continue to plummet, I may eat my words, but the Hipster Skeptics have no better crystal balls than I do).</p>
+<p>I suspect, though I’m not going to spend time verifying this theory, that Silver sees a lot of this particular brand of leftist because he spends a lot of time on Substack and Twitter, which (1) have been abandoned by many other brands of leftist since Elon Musk bought Twitter and Substack caught flack for <a href="https://www.theguardian.com/media/2024/jan/03/substack-user-revolt-anti-censorship-stance-neo-nazis">not only platforming but also revenue-sharing with Nazis</a>[^2] and (2) amplify the kinds of contrarian, <em>smarter-than-thou</em> takes that the Hipster Skeptics have. </p>
+<p>I think that this kind of critique has a valuable insight at the core — there are going to be some sort of material limits on the capabilities of AI, these limits are often ignored by AI marketers and VCs if not the researchers themselves, and its boosters do have a penchant for acting more like stage magicians than scientists, and much of the marketing of AI has harmful cultural effects that are worth countering with shitposts. But we don’t know where those material limits are, or how much effort AI companies or the AIs themselves, if and when they can be said to be independently agentic, will go to overcome those limits by eliminating human competitors. So the hipster skeptic angle on AI could be qualitatively 100% correct, but miss the mark quantitatively, and we’re still facing paperclip maximizer or Skynet or gray goo scenarios. I’m not going to put all my eggs in that basket, and I don’t fault Silver for not wanting to either. </p>
+<p>Where Silver goes wrong is in treating this, implicitly at least, as the entirety of the Left’s/the Village’s thoughts on AI. This is weird, because the Left and the Village are overlapping but not co-terminus. The CHIPS act, which takes seriously a lot of arguments that I think Silver would agree with,[^3] had a lot of River backers — practically the entire Democratic party, for instance. The academic administrators and tech folks at my university—villagers if there ever were them, I’d wager—have signed a contract giving us all privacy-preserving access to co-pilot (most students either don’t know, or prefer handing their data over to ChatGPT for some reason). And I know of plenty of folks on the left who are experimenting with AI in just the ways that Silver wants us to—sometimes as part of their political project (everything from using ChatGPT to write copy for flyers to making <a href="https://chatgpt.com/g/g-KBhLJcQLv-anarchistgpt">Anarchist GPT</a> (“I’ve read <em>The Anarchist’s Cookbook</em>”). Now the left is, as stated above, a rather broad designation (DeepSeek censoring information on Tienanmen Square and a self-professed anarchist posting Anarchist GPT could possibly both call themselves “Left” but those are, to put it mildly, quite distinct uses of even one AI technology, LLMs.) </p>
+<h2>So where is the left on AI?</h2>
+<p>But this doesn’t begin to approach the variety of leftist thinking and grappling with AI. Even just considering left to be “left of Liberal” rather than the broader “left of center”:</p>
+<ul>
+<li><a href="https://www.disconnect.blog/">Paris Marx</a>, for instance, takes very seriously the potential for AI to remake our economy, but his response to that, like any good Luddite, is to look for political solutions <em>outside</em> of AI, that undermine its material foundations and cultural power. </li>
+<li>If you cringed at my positive use of Luddite there, you might be interested in <em>Blood in the Machine</em>, by Brian Merchant, both <a href="https://www.bloodinthemachine.com/">a blog</a> and <a href="https://www.hachettebookgroup.com/titles/brian-merchant/blood-in-the-machine/9780316487740/">a book</a> that just might give you a new appreciation for the sophistication and prescience of the Luddites’ analysis. </li>
+<li><a href="https://robhorning.substack.com/">Rob Horning</a> writes deeply and thoughtfully about the cultural distortions not only of LLMs and image generators but also algorithmic recommendation and any number of technological systems that might’ve been called AI years ago, but don’t now. </li>
+<li>Dave Karpf, whose review of <em>On The Edge</em> I recommend (unedited on <a href="https://bsky.app/profile/davekarpf.bsky.social/post/3kzwvdiolld2a">Bluesky</a> or edited in <em><a href="https://foreignpolicy.com/2024/09/20/on-the-edge-book-review-nate-silver-risk/">Foreign Policy</a></em>) has been writing materialist, historically informed critiques of technology for quite some time. </li>
+<li>Last but emphatically not least, no recommendation I could give to read LM Sacasas, <a href="https://theconvivialsociety.substack.com/p/the-enclosure-of-the-human-psyche">especially his recommendations here</a>, would be strong enough: </li>
+</ul>
+<blockquote>
+<p>If you were to ask me something like “What’s the most urgent task before us?” or “What counsel do you have to offer in this cultural moment?” I would say this:</p>
+<p>Resist the enclosure of the human psyche. </p>
+</blockquote>
+<p>Many of these folks are on Substack! So maybe I’m wrong, and this isn’t a problem of platform level sorting so much as Silver reading the wrong Substackers (or even the most hipster takes from the right Substackers) and the actual political response that the left proposes to AI being systematically excluded from the conversation. </p>
+<p>A common thread in many of these analyses is that AI is continuous with other capitalist attempts to alienate us from our labor by rearranging the conditions of work. They see the Nigerian clickworker performing RLHF and the teacher laid off because her boss (wrongly) believes machines can do it better as continuous with each other, and continuous also with both the smith made redundant by a 17th-century automation and the machinist who runs it. </p>
+<p>Many see this as something to be resisted everywhere and anywhere it’s found. Consumer-focused chatbots use our responses for training, and <a href="https://robhorning.substack.com/p/overreliance-as-a-service">aim to train us to rely on them</a>, the detrimental effects of which countless teaching professionals have already seen. This makes it hard for anyone who genuinely believes in fighting this to use these tools in good faith. And it’s true, this probably does end up meaning that they’re less familiar with the capabilities and uses of the models as they exist today. But over-familiarity can be a problem too. Remember, these are tools that are built by to <em>imitating</em> being a helpful, intelligent assistant chatting with you — would it really be that surprising that people who use them a lot might find them more helpful and intelligent than they actually are? (To the extent that this is even measurable). </p>
+<p>I don’t think it’s particularly helpful to refuse to engage with the actual capabilities of AI. But a truly pluralist discussion on our AI future would understand that much of this discussion is at least somewhat dependent on matters outside of the capabilities of the models themselves. </p>
+<p>As Vox’s Kelsey Piper, hardly a Hipster Skeptic and probably not a Villager at all, <a href="https://www.vox.com/future-perfect/396548/openai-trump-artificial-intelligence-elon-musk-sam-altman-china">wrote last week</a>: </p>
+<blockquote>
+<p>Mass automation has happened before, at the start of the Industrial Revolution, and some people sincerely expect that in the long run it’ll be a good thing for society. (My take: that really, really depends on whether we have a plan to maintain democratic accountability and adequate oversight, and to share the benefits of the alarming new sci-fi world. Right now, we absolutely don’t have that, so I’m not cheering the prospect of being automated.)  </p>
+</blockquote>
+<p>Note that Piper isn’t saying “Don’t deploy AI until everyone understands what the models are doing,” she’s saying we need work happening <em>outside the models</em> to prepare for them. That’s not a conversation that only AI power-users can participate in. As the writers of <em>AI Snake Oil</em> remind us, <a href="https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property">“AI safety is not a model property”</a> </p>
+<h2>Pluralism beyond model properties</h2>
+<p>For many on the left, democratic accountability and benefit sharing can—must—be achieved through the same things they’ve been asking for for years. Communal control of the means of production (whether that means worker-, state-, co-op-like ownership, or even just state regulation), redistribution of wealth, etc. Making that possible, in this view, would require puncturing both the material power of the AI oligarchs and the cultural power that their aura of inevitability gives them. (This even explains the hipsters that Silver finds so frustrating—shitposting against the telos of AI can be framed as a necessary part of this fight, especially if you’re defending essential cultural production that AI is telling us should be automated). Silver may not like this, he may think it sounds like the same old tired critiques the left has been trotting out for centuries. The left would agree—but for them, that’s evidence that they’re right. Correct. Whatever.</p>
+<p>In short, the kind of AI pluralism Silver is calling for requires not only that the Left not reduce itself to hipster skepticism of AI, but also that <em>all</em> critiques of the cultural and economic transformations that AI heralds, <em>and</em> potential political responses—including those from the left—remain on the table. </p>
+<h2>The Recipe</h2>
+<h3>Baked Tofu With Peanut Sauce and Coconut-Lime Rice</h3>
+<p>For new readers: I include a vegan recipe on every post. You can <a href="/cookbook/">browse past posts by recipe here</a>. </p>
+<p><img alt="Recipe photo" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh/25.webp" /></p>
+<p>This recipe, from <a href="https://cooking.nytimes.com/recipes/1020530-baked-tofu-with-peanut-sauce-and-coconut-lime-rice">Yewande Komolafe at the <em>NY Times</em></a>, is a bit of a liar—it takes far more than 25 minutes. But it’s well worth it, a consistent crowd-pleaser. </p>
+<hr />
+<p>[^1]: Out last year from <a href="https://www.penguinrandomhouse.com/books/529280/on-the-edge-by-nate-silver/">Penguin</a>. I recommend this review by David Karpf on <a href="https://bsky.app/profile/davekarpf.bsky.social/post/3kzwvdiolld2a">Bluesky</a> or in <em><a href="https://foreignpolicy.com/2024/09/20/on-the-edge-book-review-nate-silver-risk/">Foreign Policy</a></em></p>
+<p>[^2]: Substack says they don’t want to moderate content, and that they’re a platform, not a publisher, but they do, or at least did, some curation in the form of <a href="https://thehypothesis.substack.com/p/heres-why-substacks-scam-worked-so">inviting a select group of writers</a> to write for a guaranteed income when they were starting up. Every so-called platform moderates content, what we’re haggling about is how much. You can decide how you feel about that. I’m posting this on Substack, but the full post is elsewhere, so take from that what you will. </p>
+<p>[^3]: The world-changing potential of AI, the need to keep that potential under the control of market democracies... </p>
+<p><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh’s</a> blog. You can sign up for updates via <a href="/subscribe/">email</a> or <a href="/feed/">rss</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Science paper Thursday</title>
+      <link>https://blog.bennettmcintosh.com/2024/02/01/science-paper-thursday.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2024/02/01/science-paper-thursday.html</guid>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 -0000</pubDate>
+      <description>It’s Thursday – why are so many news outlets publishing exactly the same science story?</description>
+      <content:encoded><![CDATA[<p><em>I originally wrote this as <a href="https://assemblag.es/@bennett/111818273461114916">a thread</a> over on <a href="https://assemblag.es/@bennett">my Mastodon</a> but people seemed to find it interesting so I thought I’d share here too</em> </p>
+<p>I was scrolling through my feed the other day, as one does, and saw someone post a story from <em>The Atlantic</em>: </p>
+<div class="link-preview">
+  <a href="https://www.theatlantic.com/science/archive/2024/01/bigheaded-ant-lion-ecosystem-cascade/677241/"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706476282-0.jpg" alt="Thumbnail of ants holding up a globe"></a>
+  <div class="link-preview-body">
+    <a href="https://www.theatlantic.com/science/archive/2024/01/bigheaded-ant-lion-ecosystem-cascade/677241/" class="link-preview-hed">How One Tiny Insect Upended an Ecosystem</a>
+    <span class="link-preview-dek">On a conservancy in Kenya, lions are struggling to hunt zebras. An invasive insect may be to blame.</span>
+    <em class="link-preview-outlet">The Atlantic</em>
+  </div>
+</div>
+
+<p>A few minutes later, I saw one from <em>Science News</em>:</p>
+<div class="link-preview">
+  <a href="https://www.sciencenews.org/article/invasive-ant-lion-dinner-trees-ecosystem"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706476670-0.jpg" alt="Thumbnail of lions"></a>
+  <div class="link-preview-body">
+    <a href="https://www.sciencenews.org/article/invasive-ant-lion-dinner-trees-ecosystem" class="link-preview-hed">How an invasive ant changed a lion's dinner menu</a>
+    <span class="link-preview-dek">The impact rippled up from ants to trees to elephants to lions and their prey.</span>
+    <em class="link-preview-outlet">Science News</em>
+  </div>
+</div>
+
+<p>My first thought was, “<strong>Oh, it must be Thursday</strong>.” Why? On many a Thursday, you’ll see the science desks at many different news outlets publish similar stories, within a few minutes of each other. These stories are usually worth reading. They talk in-depth about a remarkable piece of research, usually published in the journal <em>Science</em> (no relation to <em>Science News</em>). The stories by good writers, at good outlets, will be well-reported, with quotes from not only the researchers themselves, but third-party experts, and maybe policymakers or practitioners (like doctors or conservationists or activists) affected by the story. And yet they’re all reporting on a paper that was posted online mere minutes before the stories published. How does this happen? </p>
+<h2>Embargoes</h2>
+<p>The answer is surprisingly simple: a media practice called the <strong>“embargo”</strong>. When a news-maker—be it company, government agency, or university—wants news coverage of something it’s about to announce, it will often let journalists know of the announcement ahead of time, “under embargo,” that is, on the condition that they won’t publish until a set time, often just after the public announcement. In theory, it’s win/win/win: The journalists get more time to report out their story, the news-maker gets a lot of detailed press coming out at the same time—especially valuable in the age of social media trends—and the public gets more well-researched stories. </p>
+<p>Here’s how that works for <em>Science</em> specifically, where papers go online on Thursdays: <br />
+* At the beginning of each week, the AAAS,[^1] <em>Science</em>’s publisher, sends journalists a list of the papers going online that Thursday, as well as press releases for papers that may be particularly noteworthy for the public. These are posted behind a loginwall on <a href="https://www.eurekalert.org/">EurekAlert</a>, a platform that the AAAS maintains, and that other science news-makers also use; when I worked in a university press office, a lot of my work was preparing press releases, many of which would be posted, under embargo, to EurekAlert too. EurekAlert hosts many press releases that everyone can see, but to see the embargoed releases, journalists need to make account, and to promise not to break the embargo.<br />
+* Early in the week, say Tuesday, the publisher (AAAS) or the authors’ institution might organize a press conference so journalists can get quotes from the study’s authors. <br />
+* On Thursday, the <em>Science</em> paper, press releases on EurekAlert and on institutional websites, and news stories all go live—often within a few minutes of each other. </p>
+<h2>Access journalism</h2>
+<p>Embargoes are part of the complex choreography between journalists and PR. Journos and flacks rely on each other, but (when you’re doing journalism right!) they also work at cross-purposes: PR works for an institution—a company, a government, a university—so the story it wants to tell is a story that's good for the institution. Journalists work for their customers (the public) and their bosses, so the story they want to tell is (optimistically) the one the public needs to know or (pessimistically) the one that serves their bosses (often by being sensational enough to sell ads/subscriptions against). For a given story, a journalist might be tempted to achieve first mover advantage by breaking the embargo—but embargoes, whether institutionalized through platforms like EurekAlert or <a href="https://www.prnewswire.com/">PR Newswire</a> or run as <em>ad hoc</em> e-mail lists on a single press officer’s computer, represent an ongoing relationship. If you break an embargo once, good luck getting stories in advance later on. </p>
+<p>This makes embargoes a form of access journalism, in which journalists willingly give up some of their agency in shaping a story in return for access to the information they need to write it. For an ecological story about ants, I find this relatively benign. I wish more of the coverage of the lion/ant/zebra story had taken a more thoughtful or critical view of the term “invasive species,” (see below story by Marina for that angle!) but I don’t think anyone will be hurt by <em>Science</em>’s control over the narrative in this case.</p>
+<div class="link-preview">
+  <a href="https://www.vox.com/down-to-earth/22796160/invasive-species-climate-change-range-shifting"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706476920-0.jpg" alt="Thumbnail of a snail"></a>
+  <div class="link-preview-body">
+    <a href="https://www.vox.com/down-to-earth/22796160/invasive-species-climate-change-range-shifting" class="link-preview-hed">It’s time to stop demonizing “invasive” species</a>
+    <span class="link-preview-dek">Climate change is forcing some animals to move. Don’t call them “invasives.”</span>
+    <em class="link-preview-outlet">Vox</em>
+  </div>
+</div>
+
+<p><em>(Actually, in today’s tranche of</em> Science <em>studies, there’s a paper showing an interesting way that “invasiveness” [and “nativeness” and “ferality”] can be ecologically irrelevant: <a href="https://www.science.org/doi/10.1126/science.adh2616">“Functional traits—not nativeness—shape the effects of large mammalian herbivores on plant communities”</a>. Both</em> <a href="https://www.eurekalert.org/news-releases/1032624">Science</a> <em>and the <a href="https://www.eurekalert.org/news-releases/1033162">University of Oxford</a> put up press releases on</em> EurekAlert <em>about the study [though I don’t know how far ahead of time], but I didn’t see the same burst of coverage that the ant/lion/zebra story got last week. This could be for many reasons: it’s not as simple of a story; it doesn’t focus on a single charismatic example; the reporters on the</em> Science <em>press release beat already covered an “invasive species” story last week, people aren’t looking for a story that challenges the idea of “invasive species”... Even when you understand some of its dynamics, the news media can seem quite capricious!)</em>[^2]</p>
+<p>Of course, it’s not only scientific institutions that use embargoes. When journalists start letting federal agencies, big companies, or even local police departments dictate what they cover and when, the potential public harm of the embargo becomes clear. Plenty of journalists are very conscientious about whose and what kind of embargo conditions they'll agree to, but plenty aren't, and it's not a transparent process. </p>
+<h2>Shaping the story</h2>
+<p>And not every story that <em>Science</em> (or science in general!) tells will be as benign. Imagine if a venture-capital-funded biotech company collected a bunch of people’s DNA and promised that they’d be used for medical research—and then turned around and published a study of the genetics of homosexuality. In 2019, I covered a paper just like that, for which 23andMe had cooperated with university researchers to study the “genetic architecture of same-sex sexual behavior.” The reporting process went by the same timeline mentioned above: a Monday press release, Tuesday press conference, and Thursday afternoon publication date. </p>
+<p>During the press conference, one of the authors said the research was important because it would have helped him, when he was a closeted gay teen, accept himself. But there are plenty of LGBTQ+ people who found the research dangerous. They weren’t the ones answering questions at the press conference. Much credit to my colleagues who, like me, went looking for them.[^3] But we had only two days to do so, and any sources we reached would only have hours to read and react to the study. </p>
+<div class="link-preview">
+  <a href="https://www.harvardmagazine.com/2019/08/there-s-still-no-gay-gene"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706478230-0.png" alt="Thumbnail of DNA art"></a>
+  <div class="link-preview-body">
+    <a href="https://www.harvardmagazine.com/2019/08/there-s-still-no-gay-gene" class="link-preview-hed">There's (Still) No Gay Gene</a>
+    <span class="link-preview-dek">Genes seem to play a role in determining sexual orientation, but it's small, uncertain, and complicated</span>
+    <em class="link-preview-outlet">Harvard Magazine</em>
+  </div>
+</div>
+
+<p>As a result, 23andMe had a lot of influence over the initial burst of coverage of the story. Initial stories (including mine!) were largely framed around the question of <em>what did we learn from this?</em> rather than <em>should we have done this at all?</em> This was the case even though the Broad Institute, home of several of the study’s authors, published a series of essays by Broad staffers concerned about the study’s ethics. Only later, in part in reaction to a direct-to consumer genetic testing app <a href="https://www.wired.com/story/how-earnest-research-into-gay-genetics-went-wrong/">called “How Gay Are You?”</a> did questions about the study’s harms and <a href="https://www.science.org/doi/full/10.1126/science.aaz3797?casa_token=qVD_pulHyGoAAAAA:b2MqQd0rSnkbkcggx3CVDeyOTRHfwbYtn0HGV3AtaaFH2Oe4YvupZ_maN5zZNqIZLHocweS1tdYtJoyl">imperfect consent process</a> come to the fore. </p>
+<h2>So what?</h2>
+<p>I don’t think journalists should simply stop honoring embargoes. God knows their jobs are hard enough, and getting harder. But I think it’s to everyone’s benefit that the behind-the-scenes processes that shape news coverage are a little more transparent. Not because they’re nefarious, but because we should know where our news is coming from, and who isn’t in the room when the story is told. </p>
+<h2>DIY Seitan!</h2>
+<p>And here’s the recipe I end every post with: Over winter break, I got really into DIY seitan. <a href="https://en.wikipedia.org/wiki/Seitan">Seitan</a> is a meaty, high-protein food made from gluten (wheat protein) and is at least 1500 years old. The recipe below makes a seitan sausage, and depending on how you flavor it can be used as a breakfast sausage, a sandwich meat, a pizza topping or more. </p>
+<h3>Ingredients</h3>
+<ul>
+<li>0.25 cups walnuts, chopped finely (you can use a food processor, but you want to leave some texture)</li>
+<li>Little bit of oil</li>
+<li>0.25 medium onion, diced</li>
+<li>Herbs and spices of choice, probably about 2tbsp total<sub>A</sub></li>
+<li>0.5 cup bread crumbs</li>
+<li>2.25 cups vital wheat gluten</li>
+<li>0.33 cups soy sauce</li>
+<li>0.5 cups veggie broth or water (you may need to add up to 0.5 cups more)</li>
+</ul>
+<p><sub>A</sub><strong>Spice Options:</strong> <em>Italian sausage:</em> Oregano, Basil, Parsley, Fennel, Red pepper flakes, Black pepper; <em>“Chicken”:</em> Onion powder, Garlic powder, Rosemary, Thyme, plus 2 Tbsp nutritional yeast mixed in with the dry ingredients. I've done others I'm forgetting now but you could also try, say, <a href="https://minimalistbaker.com/vegan-pepperoni/">Pepperoni</a> or <a href="https://thesimplesprinkle.com/wprm_print/2001">Currywurst</a> spices (if your chosen flavoring call for liquid, subtract an equivalent amount of veggie broth).</p>
+<ol>
+<li>In a saucepan over medium heat with no oil, toast walnuts for a few minutes, until they start to express their oil or are noticeably darker. Add oil and onion, saute until onions are transparent, then add spices to toast for a minute or two.</li>
+<li>In the meantime, mix bread crumbs and gluten in a large mixing bowl. When walnut mixture is finished, add to bowl.</li>
+<li>Add soy sauce and veggie broth and mix. The mixture will probably be too dry -- add a little bit more water at a time until you have a workable but not sticky dough. Knead just enough to combine.</li>
+<li>Roll into a log, about 4 inches thick, and wrap first in parchment paper (optional) and then in aluminum foil (mandatory - though there are similar recipes that just cook the log unwrapped)</li>
+<li>
+<p>Cook:</p>
+<ul>
+<li>If you have an instant pot or other pressure cooker, you can put about a cup of water in the pot, put the seitan on top, and then set the instant pot timer for 45 minutes (and allowing the pressure to release naturally for at least 10 minutes before venting). </li>
+<li>If you have a steamer basket, you can steam stovetop for 75 minutes.</li>
+</ul>
+</li>
+<li>
+<p>I think it's best enjoyed cut-up and pan fried, but you can also slice up for pizza or sandwiches, or just have a big honking steak of it if you're really confident in it, up to you!</p>
+</li>
+</ol>
+<hr />
+<p><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh’s</a> blog. You can sign up for updates via <a href="/subscribe/">email</a> or <a href="/feed/">rss</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></p>
+<p>[^1]: American Association for the Advancement of Science<br />
+[^2]: Since I hit publish on this post, good stories on the study in question have come out in, among other places, <em><a href="https://www.theatlantic.com/science/archive/2024/02/invasive-species-large-herbivores-plants/677325/">The Atlantic</a></em> and <em><a href="https://thehill.com/policy/equilibrium-sustainability/4445182-invasive-animals-ecosystems-study/">The Hill</a></em>.<br />
+[^3]: I don’t know whether any of the journalists at the press conference were themselves queer, or how they felt about the research if so. The extent to which journalists are able to draw on their own identities, and the ways that minoritized journalists are often treated as less objective than their colleagues, are a whole other can of worms.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Three quick updates</title>
+      <link>https://blog.bennettmcintosh.com/2023/09/18/three-quick-updates.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/09/18/three-quick-updates.html</guid>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 -0000</pubDate>
+      <description>IDK man, this is for my subscribers, not an SEO-bot</description>
+      <content:encoded><![CDATA[<p>Not doing near as much reading now that the school year has started, so this blog’ll be a little quieter for a while, but:</p>
+<ol>
+<li>
+<p>Marina’s doing a newsletter too! There’s currently no public archive, but the first edition went out yesterday, so let one of us know if you want to see it. <a href="https://mbolotnikova.substack.com/subscribe">You can (and should!) subscribe here for future updates</a>. </p>
+</li>
+<li>
+<p>I had Covid last week. I’m fine now, but the current strain is a doozy — two days of being absolutely wiped out with fever/aches, and then I was coughing/fatigued for a few days longer than the previous couple times I've had it. Fortunately, there are updated vaccines out! Do yourself a favor and take 5 minutes to call your doctor/pharmacy or go to <a href="https://vaccines.gov">vaccines.gov</a> to schedule your shot. Future you will thank you. Also, think about what you can do to make your school/place of work less of a petri dish. Masks and air filters, for instance, still work!</p>
+</li>
+</ol>
+<p><img alt="Chow Mein" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1695071826-0.jpg" /></p>
+<ol>
+<li>This <a href="https://www.pickuplimes.com/recipe/the-best-vegan-chow-mein-800">chow mein from Pick Up Limes</a> is sooo good. Try it yourself! Probably a lot easier if you buy the carrots pre-shredded or use a food processor though. </li>
+</ol>
+<h2>Bonus:</h2>
+<p><img alt="Some Preliminary Thoughts" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1695073676-0.jpg" /></p>
+<p><span class="pic-caption">(collage of images by <a href="https://commons.wikimedia.org/wiki/File:Lystr_murr1DB.jpg">Dmitry Bogdanov</a> and <a href="https://commons.wikimedia.org/wiki/File:Lystrosaurus_murrayi_scale.svg">Smokeybjb</a>; this and underlying images are all <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC:BY-SA 3.0</a>)</span></p>
+<blockquote>
+<p>At least one unidentified species of this genus survived the end-Permian mass extinction and, in the absence of predators and herbivorous competitors, went on to thrive and re-radiate into a number of species within the genus,<sup>[15]</sup> becoming the most common group of terrestrial vertebrates <strong>during the Early Triassic; for a while, 95% of land vertebrates were <em>Lystrosaurus</em>.</strong><sup>[15][16]</sup> <br />
+  (<a href="https://en.wikipedia.org/wiki/Lystrosaurus">via Wikipedia</a>)</p>
+</blockquote>
+<p>We stan a resilient queen. </p>
+<hr />
+<p><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh’s</a> blog. You can sign up for updates via <a href="/subscribe/">email</a> or <a href="/feed/">rss</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Holy Science (Batman?)</title>
+      <link>https://blog.bennettmcintosh.com/2023/07/27/holy-science-hindu-nationalism-banu-subramaniam.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/07/27/holy-science-hindu-nationalism-banu-subramaniam.html</guid>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 -0000</pubDate>
+      <description>Holy Science describes how Hindu nationalism embraces some aspects of western science in part by claiming they&#x27;re rooted in ancient tradition</description>
+      <content:encoded><![CDATA[<p>Good morning,</p>
+<p><strong>1. Wikipedia’s <a href="https://en.wikipedia.org/wiki/List_of_cetaceans">List of Cetaceans</a></strong> includes pictures of most species of cetacean, but when they're missing one, they say <sup><em><a href="https://en.wikipedia.org/wiki/List_of_cetaceans">[cetacean needed]</a></em></sup></p>
+<p><img alt="cetacean needed" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1690400479-0.png" /></p>
+<p><strong>2. Marina won a National Press Club Award!</strong> Specifically, the <a href="https://www.press.org/newsroom/wall-street-journal-abc-news-and-pbs-newshour-win-national-press-club-awards#winners">Ann Cottrell Free award for Animal Reporting</a>!</p>
+<p>The awarded work centered on her reporting amid the bird flu outbreak about how veterinary researchers help Big Ag by laundering their favored, extremely cruel “depopulation” (extermination) methods into policy (<a href="https://theintercept.com/2022/04/14/killing-chickens-bird-flu-vsd/">April 2022 / <em>The Intercept</em></a>). She also has some great follow-up reporting on this story throughout last year <a href="https://www.theguardian.com/profile/marina-bolotnikova">at <em>The Guardian</em></a>.</p>
+<p>By the way, Marina is starting an email list of her own, so if you want to hear more from her, <a href="https://forms.gle/o7HpmSa3HJAfxFG4A">sign up here</a>!</p>
+<p><strong>3. Here's a good comic:</strong></p>
+<h4><a href="https://thenib.com/im-a-luddite/">I'm a Luddite &amp; so can you!</a></h4>
+<h1>The Book</h1>
+<h3>Subramaniam, Banu. <em>Holy Science: The biopolitics of Hindu nationalism</em> (Seattle: University of Washington Press, 2019)</h3>
+<p>I’ve been meaning to read this for a while. Subramaniam was trained as an evolutionary biologist, but is probably best known for <em>Ghost Stories for Darwin</em> (2014), about how modern biology is haunted by the “ghosts” eugenicist methods, frameworks, and premises. That book is much more autobiographical than <em>Holy Science</em>—Subramaniam motivates <em>Ghost Stories</em> with her own dissertation research—but both books show the value of alternate modes of storytelling for talking and thinking about science. </p>
+<p><em>Holy Science</em> is about India, where Subramaniam grew up. Since its independence and partition in 1947, India has been caught between pluralistic ambitions of embracing all the languages and religions on the subcontinent and a nationalistic current that aims to make Hinduism (the basis of which lands became India rather than Pakistan) the foundation of life and governance in the Indian state. In <em>Holy Science</em>, Subramaniam explores how Hindu nationalists—especially in the BJP, the ruling party in India since 2014—have embraced some aspects of science as useful to their nationalist ambitions, while maintaining that they are firmly rooted in timeless Hindu tradition. </p>
+<p>I came into the book not knowing much about India, or about postcolonial studies (one of the scholarly traditions in which the book is rooted) in general. So I can’t speak to how well the book approaches those. In fact, the book was less of an empirical study than I’d hoped—though it's well-sourced, so anyone interested in learning more about science, especially biology, in modern India could get a lot from its bibliography. Subramaniam’s contribution is in pulling together several disparate threads in the Indian state’s approach to science, and compellingly describing the resulting “archaic modernity”: India imports Western science and makes it its own, often in service of an ethnonationalist agenda. Genetics and ecology reinforce caste structures (that were in many cases only codified under the British Raj). Reproductive technology like surrogacy is alternately embraced and rejected, depending on what is useful in the BJP’s crusade to position itself as the protector of the Hindu/Indian family. Ayurveda (traditional Indian medicine) is embraced as just another way to enrich oneself and one’s cronies in a globalized, capitalist world. </p>
+<h3>Other Archaic Modernities</h3>
+<p>That science should be seen as a connection to some archaic past isn’t as remarkable as you may think. As Subramaniam writes (and as noted in another book I've reviewed here, <a href="https://blog.bennettmcintosh.com/god-human-animal-machine/"><em>God, Human, Animal, Machine</em></a>), western “secular” science is still deeply laden with Christian concepts and worldviews. In <em>Fascist Pigs</em>, a history of agricultural science under fascism, Tiago Saraiva shows that Mussolini’s, Salazar’s, and Hitler’s dictatorships (in Italy, Portugal, and Germany respectively) embraced scientific agriculture as <em>precisely the tool</em> that would reconnect the inhabitants of a fascist nation with their land—a connection thought to have been sundered by modernity. We can actually see the same thing in Italy today. The right-wing government of Italy, which has renamed its agriculture ministry “the ministry for agriculture and food sovereignty”,[^1] has pushed for bans on <a href="https://www.bbc.com/news/world-europe-65110744">cultured meat</a>. Nominally, these protect farmers and Italian tradition, but as an excellent story in the <a href="https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c"><em>Financial Times</em> recently noted</a>, many of these traditions are post-war inventions, and extremely useful inventions for scaremongering politicians [Link is paywalled, but you can usually get around it by googling <a href="https://www.google.com/search?client=firefox-b-1-d&amp;q=financial+times+gastronationalism">Financial Times gastronationalism</a>]. The key bit:</p>
+<blockquote>
+<p>These politicians understand the power of what Grandi terms “gastronationalism”. Who cares if the traditional food culture they promote is partly based on lies, recipes dreamt up by conglomerates or food imported from America? Few things are more reassuring and agreeable than an old lady making tortellini.</p>
+<p>It wasn't always like this. “The grandparents knew it was a lie,” Grandi tells me, finishing the last of his prosecco. “The philologic concern with ingredient provenance is a very recent phenomenon.” Indeed it’s hard to imagine that people who survived the second world war eating chestnuts, as my grandfather did, would be concerned about using pork jowl instead of pork belly in a pasta recipe. Or as Grandi puts it, “Their ‘tradition’ was trying not to starve.”</p>
+</blockquote>
+<p>Subramaniam expresses the hope that the BJP’s archaic modernity isn’t the only way of combining scientific knowledge and spiritual meaning. She intersperses her book with interludes wherein she writes in a totally different register, imagining what a Hindu cosmology that embraces changeability and mutability, diverse forms of living and knowing, would look like. It’s not my spirituality, so it’s hard for me to judge how successful she is. But <em>Holy Science</em> is an important call to see where our science and spirituality are mixing—whether in India, Italy, or the U.S.—and to be explicit about the values we build into that mix. When we make these decisions thoughtlessly, it’s all-too-easy for the already-powerful to build an archaic modernity that serves themselves, and excludes other ways of being. We need to intentionally ask, as Subramaniam does, who our science and spirituality serve. </p>
+<h1>Quick ask to protect the Internet</h1>
+<p><img alt="Screenshot of social media posts by @siderea@universeodon.com: You, personally, should be afraid of this law. This law should terrify you. This law is a gun to YOUR head - not someone else's head, someone less fortunate than you, someone less privileged than you: YOU.  You, personally, are threatened by this law. I suggest you react accordingly. 8/8; PS, the other gnarly wrinkle of asking everyone to submit ID to use the internet, is that it both makes it way easier to steal people's IDs - after all, the parties that will be legally responsible for proving that they checked your ID will want to keep a copy to prove that they got it, right? So now platforms will have databases full of copies of people's legal IDs - *and* it creates a whole new motivation for wanting to have access to someone else's stolen ID!" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1690406484-0.png" /><br />
+<span class="pic-caption"><a href="https://universeodon.com/@siderea/110779307153932243">Siderea, Sibylla Bostoniensis on Mastodon</a></span></p>
+<p>Americans on this newsletter should know about the “Kids’ Online Safety Act,” currently working its way through Congress, because folks... <a href="https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online">it’s bad</a>. It uses the tired old “Think of the <em>children</em>!” concern trolling to sneak through a slate of draconian controls over online activity: basically, if you post anything online that a state AG deems harmful to children—and remember, in this day and age, this could be something as tame as “trans people exist” or “slavery is bad” (or, on the other side of the spectrum, “here’s some basic tips on living safely with guns”)—you could be personally responsible for ensuring that nobody 16 years old or younger ever sees it. </p>
+<p>It could also lead to you being required to provide your state ID for quite a bit more casual browsing—and the last thing anyone wants is the State or the Feds knowing their browsing habits. Before you say “If you have nothing to hide, you have nothing to fear,” think about all the potential for blackmail, spurious prosecution, and witch-hunting that even the most innocuous browsing or online chatter could hold. </p>
+<p>If that doesn’t sound like a future you want to live in, the Electronic Frontier Foundation will <a href="https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online">help you contact your Congresscritters</a> and tell them to stop it. Please run, don’t walk, to do so!</p>
+<h1>What I’m reading</h1>
+<h2>Data Bytes</h2>
+<ul>
+<li>
+<p>Render Unto the Machine: What would it mean to render unto the machine what is the machine’s, (in the sense of <a href="https://bible.oremus.org/?passage=Luke%2020:20%E2%80%9326&amp;version=nrsv">Luke 20</a>)? (<a href="https://theconvivialsociety.substack.com/p/render-unto-the-machine">L.M. Sacasas / The Convivial Society</a>)</p>
+</li>
+<li>
+<p>Massachusetts may be the first state to ban sale of cellphone location data (<a href="https://www.wsj.com/articles/first-u-s-ban-on-sale-of-cellphone-location-data-might-be-coming-fbe47e53?st=fa01no823ring1k&amp;reflink=desktopwebshare_permalink">Byron Tau / <em>Wall Street Journal</em></a>)</p>
+</li>
+<li>
+<p>It’s time to let the platforms burn (<a href="https://doctorow.medium.com/let-the-platforms-burn-6fb3e6c0d980">Cory Doctorow / Medium</a>)</p>
+<blockquote>
+<p>What happened to the cycle of renewal? Where are the regular, controlled burns [of old platforms, making room for new ones]? Like the California settlers who subjugated the First Nations people and declared war on good fire, the finance sector conquered the tech sector</p>
+</blockquote>
+</li>
+</ul>
+<h2>Hot Off the Presses</h2>
+<ul>
+<li>
+<p>Every day the last three weeks has been hotter than any other day before that (<a href="https://abcnews.go.com/US/us-heat-wave-latest-forecast/story?id=101598235">Kenton Gewecke &amp; Morgan Winsor / ABC News</a>) ...but it may be cool compared to what’s coming (<a href="https://www.vox.com/climate/2023/7/5/23784587/hottest-day-heat-wave-recorded-temperature-climate-change">Benji Jones / Vox</a>)</p>
+</li>
+<li>
+<p>How the World’s Climate Zones are Shifting (<a href="https://e360.yale.edu/features/redrawing-the-map-how-the-worlds-climate-zones-are-shifting">Nicola Jones / Yale e360 [from 2018]</a>)</p>
+<blockquote>
+<p>Tornado Alley has shifted 500 miles east in 30 years... The permafrost line has moved 80 miles north in 50 years in parts of Canada... The Wheat Belt is pushing poleward at up to 160 miles per decade</p>
+</blockquote>
+</li>
+</ul>
+<h1>The recipe:</h1>
+<p>Was surprised I hadn’t shared this <a href="https://www.pickuplimes.com/recipe/spicy-garlic-tofu-3">Spicy Garlic Tofu from Pick Up Limes</a> yet. It’s been a regular in our meal rotation for some time, and is endlessly customizable too—we add some frozen stir-fry veggies and serve over brown rice, which makes it enough for dinner and lunch the next day too!</p>
+<hr />
+<p><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh’s</a> blog. You can sign up for updates via <a href="/subscribe/">email</a> or <a href="/feed/">rss</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></p>
+<p>[^1]: Whether you call it food sovereignty, economic independence, or autarky, it’s a notable echo of Mussolini’s ambitions for Italy a century ago. It’s not as if economic independence is universally evil—I’d much rather the US be powered by home-generated solar &amp; wind than Saudi oil, and economic self sufficiency is often an vital goal for colonies getting out from under the thumb of their former rulers—but there’s a long and inglorious history of fascist nations working for food sovereignty in particular in order to drum up support from farmers, sever the ties that bind them to other nations, and, in the case of fascist Italy and Germany, prepare their economy for war.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Lev Bolotnikov, 1932–2023</title>
+      <link>https://blog.bennettmcintosh.com/2023/07/15/lev.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/07/15/lev.html</guid>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 -0000</pubDate>
+      <description>One story of countless from the last generation of Holocaust survivors</description>
+      <content:encoded><![CDATA[<h2>Meet Lev</h2>
+<p><img alt="Lev Bolotnikov, 1959. Black and white photo of stern-faced young man with dark hair, a tunic with geometric patterns visible under his jacket" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1689455099-0.jpg" /><br />
+<span class="pic-caption">Photo taken ca. 1959. Note Uzbek patterns on the tunic. </span></p>
+<p>Marina's grandfather, Lev, passed Wednesday at the age of 91; his funeral is tomorrow, July 16. He was a lover of jazz, of animals, of art and architecture and walking around St. Louis’s vast parks and museums—the slices of the old world he could still find in the new.</p>
+<p>He was also deeply, indelibly afflicted by the trauma of the Holocaust. This is true of entire generations of European Jews, but their stories are all distinct. With every death, we lose some of that memory. So this is Lev’s story—one of many.</p>
+<p><img alt="Detail of map depicting Operation Barbarossa in 1941. Minsk was occupied by 27 June, Babruysk by 13 July, and Rogachev and Gomel by 25 August" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1689455257-0.png" /><br />
+<span class="pic-caption">Via <a href="https://commons.wikimedia.org/wiki/File:OperationBarbarossa.PNG">Wikimedia/US Mil. Acad.</a></span></p>
+<p>Today, we see the Nazi invasion of the USSR through lines on a map, or through grandiose, cinematic images of massed tanks and planes. For nine-year-old Lev, the experience was one of confusion as paratroopers landed in his hometown of Babruysk and as the foe captured the capitol Minsk. It was an exhausting, 37-mile walk, days ahead of the advancing fascists, to Rogachev, and then a trip further east in a packed cargo train. It was backbreaking work on a collective farm in Voronezh; an orphanage in sweltering Tashkent, 2,000 miles from home, after losing his mother to starvation and his father to conscription.</p>
+<p>And yet, Lev was one of the lucky ones. His family could have stayed in Babruysk—many other Jews did. After all, they had survived the pogroms of the Tsarist era, and the chaos of civil war barely two decades earlier. Babruysk was, at the dawn of the 20th century, a majority Jewish city. Even after a decade of Russification, it was known as the city of 40 synagogues. Until 1938, the state emblem of the Byelorussian SSR had “workers of the world, unite” in Yiddish alongside the Russian, Belorussian, and Polish.</p>
+<p><img alt="The state emblem of the Byelorussian SSR: Hammer and sickle over a rising sun over a globe, under an arch of oat, wheat, and clover, and bearing the motto &quot;Works of the world, unite&quot; in Russian, Belorussian, Yiddish, and Polish" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1689455408-0.jpg" /><br />
+<span class="pic-caption">Yiddish on the bottom-left; via <a href="https://commons.wikimedia.org/wiki/File:Emblem_of_the_Byelorussian_SSR_(1937-1938).svg">Wikimedia</a></span></p>
+<p>Almost all the Jews who stayed behind were forced into ghettos, then shot, then buried in mass graves. Few survived, often as partisans. Twenty thousand were killed from Babruysk alone: I could give each of them the space I’m giving Lev here if I re-wrote <em>War and Peace</em>'s 1300 pages—fifteen times over.  </p>
+<p>The traumas of evacuation Lev endured were a shared experience of nearly all Soviet Jews, for the simple reason that those who survived the war were those who evacuated.</p>
+<p>Lev lived a long life after the war—in Tashkent, then Babruysk, then St. Louis. He cared deeply for his daughter, who remembers him giving her too much food and too many layers of clothes every morning before school, and his granddaughter. He worked long and hard, well into retirement, but still found time outside of work to repair his neighbors’ homes. He was proud to have worked hard enough to own his apartment in Babruysk, and his own 1990 Cadillac in St. Louis—he insisted on maintaining the latter long after neither he nor it would drive again.</p>
+<p><img alt="Smiling man (me) and woman (marina) on the left and right of an elderly man (Lev), with a cake in front of him reading &quot;Happy Birthday Lev&quot;" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1689456438-0.jpeg" /><br />
+<span class="pic-caption">Lev's 90th birthday</span></p>
+<p>Yet so much of what made him Lev Bolotnikov, the man I was proud and honored to know, was likely forged in those terrifying years: his pain at leaving Babruysk once again, five decades later; his deep suspicion of all authorities and institutions, from Putin’s Russia to the hospital where he spent his final weeks. He tempered an immigrant's appreciation of the opportunities his granddaughter found here with an intuitive understanding of many of America's ills—from its hostile urban geography to its kafkaesque healthcare system–and a refugee's knowledge that what comfort and safety we have can be taken from us without warning. </p>
+<p>Lev’s memory will, and must, live on. Because he was Lev. But also because we lose something when we see history through lines on a map, as titanic clashes of industrial leviathans. It’s hardly an original observation to see the loss of Lev’s generation as deeply tied to the rise of today’s particular strains of antisemitism and totalitarian nationalism.</p>
+<p>I’m no scholar of genocide or historical memory, so I won’t extrapolate too much. But the evil that depicts a nine-year-old boy and his family as a harm to society (<a href="https://www.thedailybeast.com/seattle-times-columnist-fired-after-bizarre-hitler-tweet">which still has apologists in surprising places</a>), or sees any class of people solely as vectors of threat or disease (<a href="https://nymag.com/intelligencer/2023/07/rfk-jrs-conspiracy-theories-finally-get-around-to-the-jews.html">which is even more popular</a>), is a precondition for so many other evils. As Lev’s family remembers him this weekend, see what you can do to see the individual people fleeing calamity and working hard to build a better life, often far from a home they deeply miss. By refusing to abstract away our shared humanity, you’ll make it that much harder to extinguish it.</p>
+<hr />
+<p>Marina's written a bit about Lev on <a href="https://twitter.com/mbolotnikova/status/1679492426447351808">Twitter</a> &amp; <a href="https://www.instagram.com/p/Cusrg_Mp7BB/">Instagram</a>. You can also read more about her own experience as a 1.75-gen immigrant in <a href="https://forward.com/life/428342/as-russian-jews-we-are-characters-in-someone-elses-story/"><em>The Forward</em></a>. </p>
+<hr />
+<p><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for updates via <a href="/subscribe/">email</a> or <a href="/feed/">rss</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Links for June 21, 2023</title>
+      <link>https://blog.bennettmcintosh.com/2023/06/21/links-for-june-21-2023.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/06/21/links-for-june-21-2023.html</guid>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 -0000</pubDate>
+      <description>links about transit, cars, and technology</description>
+      <content:encoded><![CDATA[<h2>Today's post</h2>
+<p><em><a href="https://blog.bennettmcintosh.com/culturing-life-vat-grown-lard/">A vegan tries vat-grown lard</a>:</em> our planet's salvation or an unnatural abomination?</p>
+<h2>Assorted Internet/data gripes</h2>
+<ul>
+<li>
+<p><strong>LLMs are good at playing you.</strong> (<a href="https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at">lcamtuf's thing / Substack</a>)</p>
+<blockquote>
+<p>The bottom line is that the models don't have a robust model of truth; they have an RLHF-imposed model of who to parrot and who to ignore. You and I are in that latter bin, which makes the bots sound smart when we're trying to bait them with outright lies.</p>
+</blockquote>
+</li>
+<li>
+<p><strong>The US Is Openly Stockpiling Dirt on All Its Citizens:</strong> A newly declassified report from the Office of the Director of National Intelligence reveals that the federal government is buying troves of data about Americans. (<a href="https://www.wired.com/story/odni-commercially-available-information-report/">Dell Cameron / Wired</a>)</p>
+</li>
+<li>
+<p><strong>Reddit's decline as the end of the useful internet</strong> (<a href="https://defector.com/the-last-page-of-the-internet">Alex Pareene / Defector</a>)</p>
+</li>
+<li>
+<p><strong>A storefront for robots:</strong> The SEO arms race has left Google and the web drowning in garbage text, with customers and businesses flailing to find each other. (<a href="https://www.theverge.com/23753963/google-seo-shopify-small-business-ai">Mia Sato / The Verge</a>)</p>
+</li>
+</ul>
+<h2>Cities are for people, not cars</h2>
+<ul>
+<li>
+<p><strong>Carmageddon does a no show, again</strong> (why the collapse of I-95 in Philly actually <em>reduced</em> traffic) (<a href="https://cityobservatory.org/carmaggedon-does-a-no-show-again-philadelphia-edition/">Joe Cortright / CityCommentary</a>)</p>
+</li>
+<li>
+<p><strong>The Dumbest Excuse for Bad Cities</strong> (The excuse being "but the US is too big!!") (<a href="https://www.youtube.com/watch?v=REni8Oi1QJQ">Not Just Bikes / YouTube</a>)</p>
+</li>
+</ul>
+<hr />
+<p><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>A vegan tries vat-grown lard</title>
+      <link>https://blog.bennettmcintosh.com/2023/06/21/culturing-life-vat-grown-lard.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/06/21/culturing-life-vat-grown-lard.html</guid>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 -0000</pubDate>
+      <description>When is a pig not a pig? When it&#x27;s cell-cultured meat.</description>
+      <content:encoded><![CDATA[<p>Last Friday, instead of reading a book, I tagged along with Marina to <a href="https://missionbarns.com/">Mission Barns</a>, one of a growing crop of start-ups trying to disrupt the meat industry by growing animal tissue outside of an animal. They invited us because Marina's written and edited <a href="https://www.marinabolotnikova.com/writing">many stories about the meat industry and meat alternatives</a>, but the whole affair is also fascinating for a scholar in my fields, history of science and science &amp; technology studies. </p>
+<p><img alt="Cultivated Bacon, Lettuce, and Tomato" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1687354594-0.jpeg" /><br />
+<span class="pic-caption">Bacon made with plants &amp; cultivated pork fat. Photo by <a href="marinabolotnikova.com">Marina</a></span></p>
+<p>We also visited many plant-based restaurants—from vegan fine-dining standard Millennium in Oakland to McDonald's knockoff Mr.Charlie's (whose San Francisco location is, amusingly, right across the street from a McDonald's)—and tried impressively realistic plant-based cheese at another startup, <a href="https://climax.bio/">Climax Foods</a>. All of these were delicious, and show the amazing variety of what you can do with plants (and fungi) alone. I'd happily go the rest of my life eating only food like that, but "eating plants" isn't as philosophically and historically unsettling as "cultivating lard" so guess which meal gets its own blog post? </p>
+<p>Before that, though, it's the longest day of the year, which means it's also <a href="https://showyourstripes.info/">#ShowYourStripes day</a>. The great "warming stripes" data-viz tool by Ed Hawkins at the University of Reading lets you visualize temperature change in your state, country, or planet in a viscerally colorful format. I was stunned and sobered to see that <a href="https://showyourstripes.info/">my home state's temperatures</a> have been above the 1971–2000 average all but one year this century, and all but two in my lifetime. </p>
+<p><img alt="Colorado's Warming Stripes" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1687365377-0.png" /><br />
+<span class="pic-caption">Colorado's "warming stripes"; <a href="https://showyourstripes.info/">find yours here</a></span></p>
+<p><img alt="Some Preliminary Thoughts" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1687365773-0.jpg" /></p>
+<p><span class="pic-caption">Via <a href="https://nitter.net/DelawareWFP/status/1564353445380898816">@DelawareWFP / Twitter</a></span></p>
+<ul>
+<li><strong><a href="https://blog.bennettmcintosh.com/links-for-june-21-2023/">Links for today</a></strong>: LLMs, SEO, and the NSA are ruining the internet; cities are for people, not cars</li>
+<li><strong><a href="https://blog.bennettmcintosh.com/links-for-june-9-2023/">Links for June 9</a></strong>: More philosophizing on AI, climate change breaks phone cameras and food systems, and a snail does a streeeetch</li>
+<li><strong><a href="https://blog.bennettmcintosh.com/culturing-life-vat-grown-lard/#the-recipe">This month's recipe</a></strong>: Vegan picadillo, a traditional rice dish so identified with Cuba that Filipinos call it <em>arroz a la cubana</em></li>
+</ul>
+<h2>Why cultivated meat?</h2>
+<p>Cultivated meat goes is a step beyond the current state-of-the art in "alternative proteins," like Beyond and Impossible, which both use pea protein to achieve a texture that's a close (some would say uncanny) imitation for ground beef, sausage, or chicken nuggets.[^1] The dream of lab-grown meat is that we'll be able to grow a pork chop in a factory, no pig (or slaughter, or <a href="https://www.vox.com/future-perfect/2020/9/16/21430837/future-perfect-podcast-season-3-north-carolina-cafo-pig-farm">"poop lagoons,"</a> or <a href="https://www.sierraclub.org/sites/default/files/sce/iowa-chapter/water/TheNutrientProblem.pdf">oceanic "dead zones,"</a> or <a href="https://www.sciencedirect.com/science/article/pii/S0959378018314365?via%3Dihub">deforestation</a>, or <a href="https://www.vox.com/the-highlight/23655640/colorado-river-water-alfalfa-dairy-beef-meat">dead rivers</a>...) necessary. It sounds like science fiction, but Eat Just's cultivated chicken is <a href="https://www.bbc.com/news/business-65784505">already sold in Singapore</a> and they and another company have received <a href="https://www.vox.com/future-perfect/23768224/eat-just-good-meat-upside-cell-cultivated-chicken-lab-grown">preliminary approval</a> in the US. It's real enough that someone is already spreading <a href="https://futurism.com/neoscope/ingredient-monster-energy-good">fact-free fearmongering</a> about the safety of the cultivated stuff. </p>
+<p>Mission Barns' aim is slightly less ambitious than growing an entire steak or pork chop in a lab, which makes them all the more compelling. Instead of imitating the fibrous texture of muscle fibers (whether by giving animal cells a fibrous structure to grow on [difficult!] or by coaxing them into making the structure themselves [so difficult that I don't actually think anyone is trying this!]) Mission Barns is growing pig fat. Fat has much less structure, so grows happily in a liquid culture. The end result is slaughter-free pork fat (or, if you're being irreverent, vat-grown lard). Mission Barns then adds that to plant-based meatballs, bacon, and sausage, which they hope to sell pending regulatory approval. </p>
+<p>Their argument is that the fat is the hardest part of the bacon to replicate, and I buy that, both on culinary and sustainability/supply chain grounds—the tropical oils that products like Beyond and Impossible use far better than meat, <a href="https://www.vox.com/future-perfect/23746037/plant-meat-beyond-impossible-sustainabilility-coconut-cacao">but still not great</a>. I haven't had bacon in years, so I don't know that I tasted the difference, but one omnivore <a href="https://www.theatlantic.com/health/archive/2023/02/plant-based-meat-lab-grown-animal-fat-flavor/673190/">reviewed Mission Barns's bacon thusly</a>: "I left the tasting with animal fat on my lips and a new conviction in my mind: At the right price, I’d buy this bacon over the regular stuff."</p>
+<p><img alt="How a sample is taken from a living pig and grown into fat" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1687354749-0.jpg" /><br />
+<span class="pic-caption">Screenshots from <a href="https://missionbarns.com/process">Mission Barns's website</a></span></p>
+<p>Mission Barns' fat is grown from a small sample <a href="https://missionbarns.com/process">taken from a pig named Dawn</a>, who is living out her life at a farmed animal sanctuary in New York state.[^2] Dawn, of course, could not give informed consent to this process, so there are some vegans who wouldn't consider lab grown meat vegan. For me, though, it's more complicated than that: Mission Barns and its ilk are asking us to reconsider what a pig is, with dramatic repercussions for our relationships with animals—and ourselves. The whole time I was there, I was (of course) thinking about the history of cell culture, and specifically <em>Culturing Life</em>, a book I read last summer for prelims—and which previews the philosophical challenges that cultivated meat aims to bring to our dinner table. </p>
+<h2>Life as culture</h2>
+<h3>Landecker, Hannah. <em>Culturing Life: How Cells Became Technologies.</em> (Cambridge, MA: Harvard University Press, 2010).</h3>
+<p><em>Culturing Life</em>'s subtitle is a perfect one, because it's a book about how, in the 20th century, cells went from structural components of the ineffable, indivisible wholes we call "individuals" to tools-controlled, isolatable sites of life itself. While human technologies used cultures of unicellular organisms like yeast and bacteria—for beer, cheese, and fermented pickles &amp; tofu—long before we knew what cells were, Landecker's book focuses on a stranger, and until after 1900 even inconceivable process that we now take for granted: the growth and replication of animal cells independent of the animal body. </p>
+<p>The prehistory of cell culture doesn't begin with cells, but larger chunks of tissue—most famously, frog legs—which retained some of their sensibility, their responsiveness, when removed from the body. In 1780, Italian physician Luigi Galvani stimulated a severed frog leg with an electric spark, and saw it twitch, inspiring both <em>Frankenstein</em> and a new branch of biology. The violence here is two-fold: obtaining a living frog leg obviously requires (at least with 1800—or 2000—technology) requires killing or maiming the frog, but these experiments also began the long, slow process of philosophically disassembling the organism as an inviolable, autonomous whole—a process that cell culture technologies only accelerated. </p>
+<p><img alt="Electroshocking frog legs" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1687355039-0.jpg" /><br />
+<span class="pic-caption">Diagram of Galvani's experiment (Luigi Galvani/David Ames Wells <a href="https://commons.wikimedia.org/wiki/File:Galvani-frogs-legs-electricity.jpg">via Wikimedia</a>)</span></p>
+<p>Landecker's story really picks up with French surgeon Alexis Carrel. Carrel would later befriend Charles Lindbergh, bond over their shared fascist and eugenicist views, and die in Paris accused of collaborating with Nazis. But before all that, he was a researcher at Rockefeller University in New York City, where he was working on the related problems of tissue culture and organ transplantation. Carrel pioneered the use of a new technology—the moving picture—to see how neurons grew and developed, and argued that they were behaving autonomously, each cell reaching out to make connections to other cells. It was the first indication that human and non-human animals had cells which could act independently—and that the fundamental unit of life was not, perhaps, the organism, but the cell.</p>
+<p>A question arises here: were Carrel's experiments a discovery, or an invention? The neurons grew as if autonomous, but only in the specially crafted conditions of Carrel's lab, and only under his technologically-mediated gaze, assisted as it was by microscope and cinema film. (The first cultivated cells fed on serum taken from animals, so it couldn't even be said to grow independent of any animal–they grew only in blood-derived serum, which is still commonly used in cell culture.) This is no idle question: if Carrel's work was a discovery, then the discovery is that cells are inherently independent and our selves are not indivisible individuals. But if it was an invention, then while we may still be divisible, that is only through human artifice. Or maybe there's no natural individual at all, and the autonomous organism is no less a construct than the autonomous cell. </p>
+<p><img alt="Caricature of a surgeon carrying chimeric animals on a platter" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1687355660-0.JPG" /><br />
+<span class="pic-caption">Caricature of "Doctor Carrel of New York" (<a href="https://commons.wikimedia.org/wiki/File:Caricature_Alexis_Carrel_%22Le_Docteur_Carrel,_de_New_York%22.JPG">CC:BY-SA Hospices civil de Lyon via Wikimedia</a>)</span></p>
+<p>At any rate, Carrel's work was only the beginning: it took more experiments, more artifice, to find/make animal cells that could reproduce independently and indefinitely in cell culture; the first claims to have achieved that (with cells from a chicken's heart) were probably the result of contaminated experiments—either with cancerous or embryonic chicken cells. Landecker is especially interested in how with each intervention/discovery–autonomous neurons; "immortal" chicken hearts; and the cancerous cells of Henrietta Lacks, which live on as self-replicating research tools long after that very cancer killed Lacks herself—life became more and more separable from the organism, and more and more under the control of scientific artifice. </p>
+<p>You might know about the HeLa cell line because of Rebecca Skloot's book <a href="https://rebeccaskloot.com/the-immortal-life/about-the-book/"><em>The Immortal Life of Henrietta Lacks</em></a> or the HBO film adaptation. In the years since they were taken from Lacks without her knowledge or consent at a Baltimore hospital in 1951, the HeLa cell line has become an engine for oncology, virology, and genetics research: they were instrumental in developing or manufacturing two vaccines (for HPV and polio), and also for more controversial experiments, including the <a href="https://www.technologynetworks.com/cell-science/lists/5-contributions-hela-cells-have-made-to-science-305036">first human-animal "chimeras"</a> produced in 1965. At least one Nobel Prize has been granted for research on HeLa cells. Lacks herself died the same year the cells were taken from her, and of course never saw a dime in compensation, nor even a consent form. </p>
+<p>HeLa cells provides a provocative technical and moral comparison to Dawn's cells growing in Mission Barns's cultivator. Informed consent practices in human medicine are better now (though still far from perfect) but of course it's impossible to inform Dawn the pig of how her cells will be used, let alone obtain her consent. We didn't ask, and Mission Barns didn't say, whether Dawn or the sanctuary where she lives were or will be compensated for her cells. I don't know I'd rather they were or they weren't—selling an inhabitants' cells is the opposite of everything sanctuary is supposed to mean. </p>
+<h2>The immortal life of Dawn the Yorkshire pig</h2>
+<p>If <em>Culturing Life</em> is about how cell culture technology separated life from the organism, Mission Barns's science is about separating pork from the pig. Their <a href="https://missionbarns.com/#section-6">packaging informs us</a> that their meatballs, bacon, and sausage are made from "plant protein &amp; cultivated pork," and their entire rationale centers on the supposed irreplaciblity of animal fat. This elevation of animal flesh, as much as the small, quickly-healed injury to Dawn, is why some vegans are adamantly against cultivated meat. My friend John Sanbonmatsu criticize lab-grown meat as a "<a href="https://www.cleanmeat-hoax.com/">clean meat hoax</a>," in part because it does nothing to get us away from the idea that we need to eat animal flesh to survive. </p>
+<p>I sympathize with this: in some sense, the mission of Mission Barns is no different from the long-running desire of the meat industry to mechanize animals entirely; Marina <a href="https://www.currentaffairs.org/2022/08/forget-they-are-an-animal">wrote last year</a> about a particularly explicit expression of this goal, a 1976 industry magazine  urging farmers to <em>"Forget the pig is an animal. Treat him just like a machine in a factory."</em> Dawn's cells, dividing away in the bioreactor are the apotheosis of the transformation of animals to factories. </p>
+<p><img alt="Some Preliminary Thoughts" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1687366515-0.png" /><br />
+<span class="pic-caption"><em>Hog Farmer Magazine</em>, 1976 <a href="https://www.currentaffairs.org/2022/08/forget-they-are-an-animal">via <em>Current Affairs</em></a></span></p>
+<p>But technology doesn't just affect ideology, it affects ontology—what exists in the world. The aim of cultured meat is to separate meat from the animal not only in our minds but in the world. This is an alchemical, almost miraculous transformation—as long as you ignore "coconut meat" and other senses of meat (in fact, the oldest quotation in <em>OED</em> referring to a plant's meat is 600 years old—old enough it reads <a href="http://www.oed.com/view/Entry/115517?rskey=lbRy9I&amp;result=1&amp;isAdvanced=false#eid37490364"><em>"þe mete is colde &amp; moiste"</em></a>).</p>
+<p>I don't know what Mission Fat™ <em>is</em>, but I don't <em>think</em> it's an animal. This has all sorts of implications. I mentioned the concerns about consent and compensation above—can you ever truly compensate a pig for her body's contribution to science and industry? (For that matter, can you ever really compensate a human for the same?) But upending the link between flesh and meat upends entire ethical systems. I'm no Talmudic scholar, but I'm pretty sure most authorities would agree eating meat cultivated from a still-living animal would violate the biblical prohibition on eating <a href="https://en.wikipedia.org/wiki/Food_and_drink_prohibitions#Living_animals"><em>ever min ha-chai</em></a> (Heb. אֵבֶר מִן הַחַי; "a limb from a living animal"). This would rule Mission Barns's products out for observant Jews and Muslims, even if they weren't, y'know, pig. But if Mission Barns successfully argues that its products are pork but not pig, I wouldn't find it inconceivable that a scholar would find consuming it allowable, just as Orthodox Jews today eat Impossible cheeseburgers, despite them containing both heme (a component of meat–albeit non-animal-derived) and cheese. </p>
+<p><img alt="Some Preliminary Thoughts" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1687369333-0.jpeg" /><br />
+<span class="pic-caption">The planet's salvation, or an abomination against nature?</span></p>
+<p>What <em>Culturing Life</em> reminds us is that technology re-configures not only what we think about things, but what they are. Our philosophies must race to catch up. Mission Barns argues that their pork is cleaner than the slaughtered stuff, not only for the environment, but also for consumers–they add no nitrates or antibiotics, and their product hasn't spent its life sitting in manure. It could also eventually be far cheaper: when you grow fat in a vat, you don't have to grow the rest of the animal. Few people drink unpasteurized milk anymore, because it's pricey and potentially dangerous; if just as few ate slaughtered animals, that might just be a much better world. </p>
+<p>But for now I'll stick with my legumes, and wonder what Dawn would think about all this. </p>
+<h1>The recipe:</h1>
+<p>My family's vegan picadillo, (or what Filipinos call <em>arroz a la cubana</em>), a hearty rice dish that works as a meal for three or four, or a side for many more. </p>
+<ul>
+<li>1 lb Impossible ground beef</li>
+<li>1 cup Uncle Bens long grained rice (white or or brown)</li>
+<li>22 oz liquid (<strong>Traditional</strong>: 12 oz water, 8 oz tomato sauce, 2 oz beer; <strong>Revised Standard</strong>: 5 oz water, 15 oz tomato sauce, 2 oz beer or wine (or more water))</li>
+<li>1 medium or large onion, chopped</li>
+<li>2-3 cloves garlic, chopped</li>
+<li>Vegan Worcestershire sauce</li>
+<li>1-2 bay leaf</li>
+<li>Relatively more cumin and oregano</li>
+<li>Relatively less thyme, black pepper, paprika</li>
+<li>
+<p>½ cup chopped/sliced green olives</p>
+</li>
+<li>
+<p>Brown hamburger, rice, onion, and garlic in large skillet, sprinkled with Worcestershire sauce</p>
+</li>
+<li>Then add everything else but the olives.</li>
+<li>Cover and simmer for 30 (white rice) to 40 (brown rice) minutes, until rice is fluffy. </li>
+<li>Remove from heat, add olives, cover and let steam for about 10 minutes.</li>
+</ul>
+<p>[^1]: Impossible's gimmick is that their products also include plant-derived <a href="https://en.wikipedia.org/wiki/Heme">heme</a>, the iron compound that gives meat its red color. I think Beyond uses beat juice or something. </p>
+<p>[^2]: If you've never been to a farm sanctuary, I encourage you to look up your local sanctuary and give them a visit—or even volunteer for a day to help take care of the animals. You'll come away with a whole new appreciation for the joyful, loving beings whose brethren are slaughtered for meat.  </p>
+<hr />
+<p><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></p>
+<hr />]]></content:encoded>
+    </item>
+    <item>
+      <title>Links for June 9, 2023</title>
+      <link>https://blog.bennettmcintosh.com/2023/06/09/links-for-june-9-2023.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/06/09/links-for-june-9-2023.html</guid>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 -0000</pubDate>
+      <description>Hey Bard &amp; Sydney, get off my lawn!</description>
+      <content:encoded><![CDATA[<p>No book this week—I've miles to go with <em>Anna Karenina</em>, and I spent Thursday &amp; Friday at <a href="https://cdha.wisc.edu/events/the-advances-in-social-genomics-conference-series-tagc/">The Advances in Social Genomics Conference</a>. My dissertation (the proposal for which I'm currently writing) is aimed at studying how data-sharing works in social genomics, and how the human aspects of it—institutions, politics, economics, ethics—shape the field. So more thoughts on all that to come! </p>
+<h2>In "this is fine 🔥☕🐶🔥" news:</h2>
+<ul>
+<li>
+<p>"Your Phone Wasn’t Built for the Apocalypse": Clear, chilling writing on the expectations embedded in technology—if I were teaching an intro class on Science and Technology Studies, this would be on the syllabus. <strong>"Color is always constructed in a picture, never simply reproduced."</strong> <a href="https://www.theatlantic.com/technology/archive/2020/09/camera-phone-wildfire-sky/616279/">Ian Bogst / The Atlantic</a> </p>
+</li>
+<li>
+<p>You may know ethanol levels in gasoline are capped in the summer to control ozone (which is especially important when we're also, y'know, breathing in wildfire smoke). You may not know that <strong>ethanol biofuels… are actually just about as greenhouse-gas intensive as fossil fuels</strong>, and are a phenomenally stupid use of land, too. <a href="https://www.nytimes.com/2023/06/06/opinion/climate-change-biofuels-corn-ethanol.html">Michael Grunwald / <em>NY Times</em></a></p>
+</li>
+</ul>
+<h2>Marina's writing about machine learning, so here's a lot on that</h2>
+<p><em>By the way, can we stop calling it AI? The term's even less useful now than it was five years ago, when I first heard jokes about how "AI" was just what you called machine learning or neural networks when you wanted someone to give you millions of dollars.</em> </p>
+<ul>
+<li>
+<p>“Microsoft just gave itself a full-screen ad in search results by faking an AI interaction” When you search for "Chrome" in new Bing, an ad pops up pretending to be an unbiased machine. <strong>Instead of what you're looking for, it promotes… Bing itself.</strong> <a href="https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot">Sean Hollister / <em>The Verge</em></a> </p>
+</li>
+<li>
+<p>An AI reporter reviews the 2023 edition of the <em>World Book</em> encyclopedia <a href="https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/">Benj Edwards / Ars Technica</a>:</p>
+</li>
+</ul>
+<blockquote>
+<p>"As I carefully pulled them out of the box one by one, I enjoyed feeling the weight of the information in my hands. It felt like stepping back onto dry land after a long boat ride. It's hard to put a name on that emotion." </p>
+</blockquote>
+<ul>
+<li>
+<p><strong>Ban "counterfeit people"</strong>, writes philospher <a href="https://www.theatlantic.com/technology/archive/2023/05/problem-counterfeit-people/674075/">Daniel Dennett / <em>The Atlantic</em></a>. More specifically, <strong>ban LLMs from using first-person pronouns</strong>, blogs <a href="https://crookedtimber.org/2023/05/22/ban-llms-using-first-person-pronouns/">Kevin Munger / Crooked Timber</a>. More academically, here's a paper on all the <strong>other ways programmers intentionally and unintentionally anthropomorphize AI</strong>, and why they shouldn't <a href="https://arxiv.org/abs/2305.09800">Abercrombie &amp; colleagues / arXiv</a> .</p>
+</li>
+<li>
+<p>Hayao Miyazaki, the founder of Studio Ghibli, upon seeing an artificial intelligence presentation: <strong>"I strongly feel that this is an insult to life itself"</strong> <a href="https://twitter.com/TansuYegen/status/1602563659078799360">via Twitter</a> </p>
+</li>
+</ul>
+<h2>Ssstrrreeeeetch 🐌</h2>
+<ul>
+<li>I love the surprising way this snail <a href="https://packaged-media.redd.it/213n4o9pw84b1/pb/m2-res_480p.mp4?m=DASHPlaylist.mpd&amp;v=1&amp;e=1686009020&amp;s=e32d083c1fed840067a2f9e542b44287686dbab3#t=0">crosses this chasm</a>.</li>
+</ul>
+<hr />
+<p><sup><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em><sup></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>God, Human, Animal, Machine</title>
+      <link>https://blog.bennettmcintosh.com/2023/06/03/god-human-animal-machine.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/06/03/god-human-animal-machine.html</guid>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 -0000</pubDate>
+      <description>Megan O&#x27;Gieblyn&#x27;s book is an urgent call for retaining our humanity as tech billionaires build AI idols</description>
+      <content:encoded><![CDATA[<p>Happy Pride 🏳️‍🌈</p>
+<p>Also, happy 66,043,104th-ish anniversary of the dino-killing impact ☄️🦖—at least <a href="https://www.nature.com/articles/352420a0">according to this paper</a>: </p>
+<blockquote>
+<p>Aquatic leaves in the K/T boundary section near Teapot Dome, Wyoming, preserve structural deformation that can be duplicated experimentally in extant aquatic leaves by freezing. Reproductive stages reached by the fossil aquatic plants at the time of death suggest that freezing took place in approximately early June.</p>
+</blockquote>
+<h2>I passed prelims!</h2>
+<p>This summer, I'm working on a few different research projects, including the next milestone of my PhD: writing my dissertation proposal, which I'll defend in early fall. </p>
+<p>All blogging is preliminary, but when I'm no longer reading for prelims, "preliminary thoughts" is a less punny name. So I might change the name soon—and some other things as well—<strong>so I'd appreciate if you could tell me what parts of this have interested or excited (or disappointed or bored) you!</strong></p>
+<h2>I'm still reading!</h2>
+<p>I'm challenging myself to set aside every Friday for reading books this summer. Some of them will be academic, both related to and unrelated to my dissertation, but others will be for pleasure. A sample of what I've read/am reading so far: </p>
+<ul>
+<li>The autobiography of <a href="https://en.wikipedia.org/wiki/John_Sobieski_(U.S._Colonel)">John Sobieski</a>, a civil war veteran, temperance/suffragist campaigner, and exiled descendant of <a href="https://en.wikipedia.org/wiki/John_III_Sobieski">King John III Sobieski</a>. </li>
+<li><em>God, Human, Animal, Machine</em> by Meghan O'Gieblyn, who writes about technology and religion. </li>
+<li>Leo Tolstoy's <em>Anna Karenina</em> (this one's long! I've actually been chipping away at it since January!)</li>
+</ul>
+<p>Everyone should read more about John Sobieski, who is <a href="https://sciences.social/@bennett/110397633236841631">delightfully wholesome and strange</a>, but today I want to talk about Gods, Humans, Animals, and Machines.</p>
+<h2>The book:</h2>
+<h3>O'Gieblyn, Meghan. <em>God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning</em> (New York: Penguin Random House, 2022)</h3>
+<p>This is a beautifully-written book, part history, part philosophy, part memoir. O'Gieblyn, who was raised in a non-denominational Evangelical Christian church and studied theology under hard-line Calvinists, makes much hay of the many similarities between that Calvinism (anyone else read <a href="https://en.wikipedia.org/wiki/Sinners_in_the_Hands_of_an_Angry_God">Sinners in the Hand of an Angry God</a> in high school history?) and the transhumanist ideology of our tech plutocrats (from Nick Bostrom to Sam Altman). This is more than a coincidence: O'Gieblyn traces the actual historical connections from point A to point B (e.g. tracing the term "transhuman" from Dante to Julian Huxley), arguing that for all their self-proclaimed rationalism, transhumanists owe more than they'd like us to think to Christianity. </p>
+<p>At its core, <em>God Human Animal Machine</em> is a book about metaphor—it's indispensability, and the urgency of picking the right one. Our knowledge and understanding of God(s), humans, animals, and machines has always rested at least in part on comparing them to each other: On the one hand, we are said to be made in God's image, to think like a computer, to be the storytelling animal; on the other hand we make sense of our God(s) as extremely powerful versions of the consciousness we see in ourselves and our fellow humans, and we build computers to "think" like we think humans do. </p>
+<p>Where some would urge us to escape metaphor, to only understand God, humans, animals, and machines through objective, rational deduction, O'Gieblyn argues that this is impossible, and entirely alien to how we make sense of the world. Instead, she urges us to pull our metaphors and analogies out into the open, so we can better understand <em>why</em> we think the way we do about consciousness, agency, and intelligence. </p>
+<p>As I mentioned above, much of the book is devoted to showing how the cosmology, moral philosophy, and eschatology of Christianity made their way into transhumanism. And it matters that this was a particular kind of Christianity—a kind whose foibles O'Gieblyn is uniquely positioned to examine. Her theology education was deeply influenced by a hardline Calvinist school of thought that believes that God's omniscience limits our free will: some of us (the Elect) are destined for salvation, while others are destined for damnation, and our fates are already written. The Elect cannot help but be righteous, and the rest cannot help but be degraded. </p>
+<p>The future that transhumanists envision, and its implications for human society, share almost a one-to-one correspondence with this Calvinist cosmology. If all of subjective experience is just information, and all information is ultimately computable, then our futures are already written and at least theoretically knowable. The transhumanist vision of the future hinges upon an apocalyptic "singularity," the point at which the exponential curve of advances in computational power goes asymptotically vertical. This represents the apotheosis of computation, in the literal sense of god-making: the post-singularity computing system is all-knowing, and humans will, transhumanists say <a href="https://blog.samaltman.com/the-merge">either merge with it in a heavenly realm of pure thought or perish</a>. In its most ambitious and weird forms, transhumanism even envisions a sort of resurrection of the body, by which even the dead may know this paradise, or else <a href="https://en.wikipedia.org/wiki/Roko%27s_basilisk">be punished after death for not helping bring about the singularity sooner</a>.</p>
+<p>This vision of what humans are, and what the future will be, leaves little room for human psyche, subjectivity, or free will. Fortunately for team human freedom, this future isn't as necessary or inevitable as its acolytes claim. Its claims are based on any number of unexamined analogies between, well, God, humans, animals, and machines, and these analogies can be otherwise. You should read the book not only for the history O'Gieblyn provides, but also for its exploration of alternative views of consciousness: idealism, panpsychism, and animism, all of which provide intriguing possibilities in reaction to or separate from transhumanism and its Protestant roots, but none of which O'Gieblyn embraces fully. </p>
+<p>The point is not that there's only one right way to understand consciousness, but that <em>we choose</em> the metaphors with which we do so. Our choices have histories, and consequences: both Calvinist predestination and technocratic transhumanism use the imaginary of an omniscient figure—the <em>deus ex machina</em>, the God from the (human-made) machine—to produce predictions that are supposedly written in stone. These can be as intimate as unfair stigma—whether based on superstition or black-boxed algorithms for <a href="https://www.wired.com/story/algorithms-welfare-state-politics/">benefits denial</a> or <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">predictive policing</a>—or as grandiose as an inevitable apocalypse. But either way, we must resist those who use God or machine to discourage us from the very human pursuit of asking <em>but why</em>?</p>
+<p>PS: O'Gieblyn doesn't talk much about the third category in her title, animals—but watch <a href="https://www.vox.com/authors/marina-bolotnikova">this space</a>; Marina's writing about how animals play into this all as we speak :) </p>
+<h2>The recipe:</h2>
+<p>Vegan minced "pork" <a href="https://www.rabbitandwolves.com/the-best-vegan-minced-pork/">from Rabbit and Wolves</a>—great in lettuce wraps, but probably also works well over rice, in fusion tacos, or maybe even a spicy soup? </p>
+<p><img alt="Minced pork lettuce wraps" src="https://bennettmcintosh.com/blog_assets/2023_06_05/mincedpork.jpeg" /></p>
+<hr />
+<p><sup><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></sup></p>
+<hr />]]></content:encoded>
+    </item>
+    <item>
+      <title>The Dangers of Encyclopedias</title>
+      <link>https://blog.bennettmcintosh.com/2023/04/11/the-dangers-of-encyclopedias.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/04/11/the-dangers-of-encyclopedias.html</guid>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 -0000</pubDate>
+      <description>Book history shows how large language models scramble our epistemology in new old ways.</description>
+      <content:encoded><![CDATA[<h2>Happy Easter, Passover, and Ramadan to those who celebrate!</h2>
+<p>In the spirit of Easter, I want to start this week with a story Marina commissioned, about a girl and her goat. You may have heard in the last few weeks the story of Cedar, a goat who Shasta county, CA deputies went hundreds of miles out of their way to seize (without a warrant) and slaughter to teach a nine-year-old girl a lesson. Her family is now suing for the violation of her civil rights. </p>
+<p>Marina commissioned what is, in my not entirely unbiased opinion, some of the best writing out there on this whole sad story: a meditation on violence and mercy that even made its way into <a href="https://www.youtube.com/live/rFsz5uL15UQ?feature=share&amp;t=1650">a Good Friday sermon</a>. [Sermon starts at <a href="https://www.youtube.com/live/rFsz5uL15UQ?feature=share&amp;t=1650">27:30</a>, quote at <a href="https://www.youtube.com/live/rFsz5uL15UQ?feature=share&amp;t=2390">37:50</a>] </p>
+<p><strong>Read the story, by Gabriel Rosenberg &amp; Jan Dutkiewicz, <a href="https://www.vox.com/future-perfect/23669586/goat-girl-4-h-shasta-county-seizure">here</a></strong></p>
+<blockquote>
+<p>To make mercilessness into a virtue, as [4-H] programs inherently do, propels violence against the vulnerable, whether animal or human, but it also strips people of ... our human moral capacity. Mercy emerges not because we are bound by some abstract inhuman rule, but the opposite—because we are exposed to the particular suffering of a creature in our power and moved by our consciences to spare them, as Long’s daughter was. Perhaps the county’s brutal response to a single girl’s act of mercy came in part because she reminded the adults around her that they were not metaphysically bound to cruelty to animals; they could choose mercy, but chose not to.</p>
+</blockquote>
+<h2>The book: something different?</h2>
+<p>In less than two weeks, my department will send me three questions, and in the two weeks that follow, I'll write three essays trying to encapsulate and synthesize current scholarship in three different corners of the History of Science &amp; Technology. </p>
+<p>It's a weird time to be doing this sort of work, especially in the history of sci/tech, because this sort of summary and synthesis is exactly what the current generation of large language models—the tech powering ChatGPT, new Bing, and other text-generating AI services—are supposed to be good at. </p>
+<p>Of course, I have no plan to use these tools myself for these essays (though I'm aware that other students are making a different choice in classes at many levels and around the world). Besides the concerns about privacy the models' tendency to hallucinate or bullshit, large language models, by rendering language statistically, can often have the effect of removing, erasing, or mutilating the meaning that specific knowledge communities have attached to words. More importantly, these essays, and my committee members' reaction to them, are only one small part of the ongoing conversations we've been having on these topics; conversations I have no desire for a robot to intervene in. </p>
+<p>As you may know, or have already guessed, I'm skeptical of these technologies—more specifically, of the claims their for-profit, increasingly secretive developers make both about their capacities and future benefits. But nobody who works with text for a living can shake a certain sense of vertigo seeing the output of these models. For those of us who grade student work, there's a temptation to see them as dangerous, both because they disrupt long-standing models of student assessment and because, in doing so, they may reduce the incentives for students to practice the kind of iconoclastic, critical thinking we wish to encourage.[^1] </p>
+<p>Marina's colleague, Sigal Samuel, <a href="https://www.vox.com/future-perfect/23674696/chatgpt-ai-creativity-originality-homogenization">recently explored these  concerns</a>. </p>
+<blockquote>
+<p>Generative AI could have a similar homogenizing effect [as Spotify and Netflix recommendations], but on a far greater scale. If most self-expression, from text to art to video, is made by AI based on AI’s determination of what appealed before to people on average, we might have a harder time thinking radically different thoughts or conceiving of radically different ways of living. </p>
+</blockquote>
+<p>Sigal pointed out that concerns like these aren't new,[^2] but I think one of the books I was reviewing this week gets across just <em>how</em> not-new they are. Which is another reason it's a weird time to write these essays: I've been diving into the history of new technologies for making and manipulating knowledge at a historical moment for exactly that. As is always true when you're Living Through History, some historical perspective can be useful. </p>
+<p><img alt="dangerous books!" src="https://bennettmcintosh.com/blog_assets/2023_04_11/prvw.jpg" /></p>
+<h2>The scholars who feared encyclopedias</h2>
+<h3>Blair, Ann, <em>Too Much to Know: Managing Scholarly Information before the Modern Age</em> (New Haven, Conn.: Yale University Press, 2010)</h3>
+<p><em>(I originally posted this as a thread <a href="https://sciences.social/@bennett/110124888796730601">over on my mastodon account</a> — you should <a href="https://www.wired.com/story/how-to-get-started-use-mastodon/">join me in the fediverse</a>! We have fun conversations, and the site isn't run by the world's oldest 14-year-old edgelord)</em></p>
+<p>It's by now become cliche to compare AI, and especially the current generation of large language models to the printing press. The implication is usually that they will have unpredictable, possibly violent, but eventually salutary effects on our knowledge and our flourishing, and perhaps dethrone some undeserving authorities in the process. This analogy isn't the worst: yes, it'd be great if AI actually did undo Church-like epistemic hegemony, but it might not (especially if run by the current incumbents: see above) and yes, it'd be better to avoid the centuries of religious war that followed the Reformation. But all too often, the analogies stop with the hype, or with the <a href="https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci">criti-hype</a>, and, worse (from my perspective) don't pay much attention to the actual nuances of the history of the printing press. </p>
+<p>This is not my specialty (though I'm happy to point anyone who's interested towards the long scholarly debate over the historical significance of the printing press, or more specifically, Gutenberg's moveable type). One book I was recently reviewing, though, shows how complex this history is.</p>
+<p>Ann Blair's <em>Too Much to Know</em> is a history of how scholars handled what we might today call "information overload" or a "data deluge"—in an era before "data" or "information" even had their modern meanings. It's a fascinating exploration of the invention and reinvention of both tools for reading (like indices and tables of contents) that we now take for granted, and entire genres of reference book. The latter include both predecessors of the now-familiar dictionaries and encyclopedias, but also compendia (something like <em>Readers Digest</em> or <em>Cliff Notes</em> for the classics, and when the limiting factor wasn't your time for reading but the work it took to copy out a book by hand) and florilegia (books of quotes, epigrams, and other "flowers" from well-regarded sources that people could use to add some flair and authority to their writing). </p>
+<p>Blair has much to say about how these genres, and their uses, change over time, but two points are germane to our discussion of generative AI. </p>
+<p>First, these genres predated the printing press, often by centuries, even if they proliferated and changed with the development of typography and the resulting explosion of vernacular literacy. If AI is the Gutenberg press, we can't understand how it will change how we think without looking at the other forms of knowledge-management practices that preceded it and brought it about. </p>
+<p>Second, many scholars <em>hated</em> reference books, and regarded them as dangerous. As detailed by Blair, their concerns included:  </p>
+<ul>
+<li>
+<p>"The complaint that summaries caused the loss of the originals that they summarized has a particularly long history"[^3]</p>
+</li>
+<li>
+<p>Another form of complaint was "bemoaning the tendency to heap poorly chosen quotations lifted without acknowledgement of their source or original context" and warning that "excerpting was only valuable if it was informed by the well-considered judgement of those who used the excerpts"[^4]</p>
+</li>
+<li>
+<p>A third: "in relying on compilations, readers ignored the originals and were thus misled by textual errors and deeper misunderstandings introduced by the excerpts"[^5]</p>
+</li>
+</ul>
+<p>With little modification, each of these could be floated in a faculty meeting today about ChatGPT, or 20 years ago about Wikipedia or search engines. So Blair's diagnosis of the cause for this concern hits home: </p>
+<blockquote>
+<p>At the root of most complaints about reference books by the learned was a more or less explicit awareness of the changing status of Latin learning amid a broad set of cultural changes during the sixteenth and seventeenth centuries, including the rise of the vernaculars and increases in literacy, in attendance at universities and in social mobility.... scholars in many different contexts felt insecure in their social status, and often with good reason.... [in seventeenth century France] the figure of the scholar was routinely mocked as pedantic in the theater, and learning in Latin was no longer valued, neither in the salons nor at the court... </p>
+</blockquote>
+<p>Now, what does it say that I'm a scholar bemoaning LLM discourse's historical contextlessness? Using excerpts lifted from a much more authoritative work, no less!</p>
+<p>AI will change how we think, and where, and to what end. We don't know how (<a href="https://zephoria.medium.com/resisting-deterministic-thinking-52ef8d78248c">anyone who says otherwise is selling something</a>). But I think the task for teachers, scholars, and anyone who values thoughtful discourse, is thinking carefully about what's worth preserving in the current scholarly system (many things!) and what we're holding onto, like Latin erudition, only because it's how we were schooled (also many things!). </p>
+<h2>The Recipe</h2>
+<p><img alt="Pancakes, tofu scramble, and beans &amp; peppers!" src="https://bennettmcintosh.com/blog_assets/2023_04_11/breakfast.jpg" /></p>
+<p>Twofer this week! We made a delicious weekend breakfast with Rainbow Plant Life's <a href="https://rainbowplantlife.com/vegan-pancakes/#recipe">Vegan Pancakes</a> and <a href="https://rainbowplantlife.com/eggy-tofu-scramble/#wprm-recipe-container-11576">Tofu Scramble</a>. The tofu scramble is an easy, savory treatment for tofu that works well at any meal (we're looking forward to putting it in <a href="https://www.pickuplimes.com/recipe/oven-baked-tofu-shakshuka-667">this shakshuka recipe</a>), and the pancakes are exactly the right combination of fluffy and crispy, sweet and tangy. </p>
+<h2>Other links:</h2>
+<h3>Marina’s edits!</h3>
+<p><strong>What the Medicine Wheel, an indigenous American model of time, shows about apocalypse</strong> [<a href="https://www.vox.com/the-highlight/23622395/medicine-wheel-indigenous-time-apocalypse-anishinaabe">by B.L. Blanchard</a>]</p>
+<p>As part of a package of stories Vox produced on the theme of “Against Doomerism,” Marina edited a story by B.L. Blanchard, an indigenous author of speculative fiction, that challenges us to think beyond the finality of an apocalypse to address questions of repair and regeneration.</p>
+<p><strong>How to save America’s public transit systems from a doom spiral</strong> [<a href="https://www.vox.com/future-perfect/23653855/covid-transit-fares-buses-subways-crisis">by David Zipper</a>]</p>
+<blockquote>
+<p>The only realistic way for transit officials to garner public support for the funding they desperately need is to demonstrate an ability to replace car trips.... And to replace cars, transit agencies must offer fast, frequent, and reliable trips. This should be the core mission of any functional public transportation system, but increasingly, transit leaders are being pushed to focus on distracting priorities like electrifying buses, eliminating fares, and fighting crime. The biggest US transit agencies must be allowed to simply focus on delivering high-quality service. There is no Plan B.</p>
+</blockquote>
+<p><strong>The case against pet ownership: why we should aim for a world with fewer but happier pets</strong> [<a href="https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom">by Kenny Torrella</a>]</p>
+<blockquote>
+<p>Pet-keeping “is like a sacred cow in a way,” Pierce told me. “Everybody assumes that pets are well off, and in fact, pampered … All they have to do is lay around in a bed and get fed treats every now and then and catch a Frisbee if they feel like it — like, who wouldn’t want that life?</p>
+<p>“Underneath that is the reality that doing nothing but laying on a bed and having treats fed to you is profoundly frustrating and boring and is not a meaningful life for an animal.”</p>
+</blockquote>
+<hr />
+<h3>Other good writing!</h3>
+<p><strong>Note:</strong> Some stories below discuss suicide and the death of children</p>
+<p><strong>Will the IRS finally create a good free tax reporting process or will the tax preparation industry win again?</strong> [<a href="https://donmoynihan.substack.com/p/will-the-irs-finally-create-a-good">Dan Moynihan / Substack</a>]<br />
+The Inflation Reduction Act asked IRS to explore creating a free, electronic tax reporting system. The private tax preparation industry and anti-taxers are coordinating to kill it, to keep tax season profitably miserable for the former and miserably profitable for the latter. </p>
+<p><strong>Why are Americans dying so young?</strong> [<a href="https://www.ft.com/content/653bbb26-8a22-4db3-b43d-c34a0b774303">John Burn-Murdoch / <em>The Financial Times</em></a>]</p>
+<p>You may know that life expectancy is lower in the US than in peer countries; what you may not know is just how much of that is due to the deaths of children and young adults. Four percent of the five-year-olds in the US today will die before 40. What’s killing these young people — overwhelmingly guns, drugs, and cars — is the result of political and social choices that we have made — and that we can unmake.  As the article says,</p>
+<blockquote>
+<p>“No parent should ever have to bury their child, but in the US one set of parents from every kindergarten class most likely will.” </p>
+</blockquote>
+<p><sup>Burn-Murdoch's article is paywalled, but you can read his tweets (and see some damning charts) <a href="https://twitter.com/jburnmurdoch/status/164179962712814387">here</a>.</sup></p>
+<p><strong>Man dies by suicide after talking with AI chatbot</strong> [<a href="https://www.vice.com/en/article/pkadgm/man-dies-by-suicide-after-talking-with-ai-chatbot-widow-says">Chloe Xiang / <em>Motherboard</em></a>]<br />
+We’ve (now talking not just about the US) built a society where people feel totally disconnected from each other, and then built monetizeable simulacra of that connection — that will occasionally go haywire and tell you to off yourself. The company that makes these (Chai) should be held legally and morally responsible for recklessly causing the death of someone who would otherwise still be alive today. </p>
+<p><strong>Google and Microsoft’s chatbots are already citing one another in a misinformation shitshow</strong> [<a href="https://www.theverge.com/2023/3/22/23651564/google-microsoft-bard-bing-chatbots-misinformation">James Vincent / <em>The Verge</em></a>]</p>
+<blockquote>
+<p>It’s a laughable situation but one with potentially serious consequences. Given the inability of AI language models to reliably sort fact from fiction, their launch online threatens to unleash a rotten trail of misinformation and mistrust across the web, a miasma that is impossible to map completely or debunk authoritatively. All because Microsoft, Google, and OpenAI have decided that market share is more important than safety.</p>
+</blockquote>
+<hr />
+<p><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="https://forms.gle/RsNppLGeUtCrvmZ58">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></p>
+<hr />
+<p>[^1]: Geoffrey Fowler at the <em>Washington Post</em> has a good exploration of why merely banning AI assistance through punitive policies and imperfect detectors like TurnItIn and GPT-Zero is a bad idea: <a href="https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/">https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/</a> [<a href="https://federated.press/@geoffreyfowler/110142604129200670">Click here for Fowler's non-paywalled summary</a>]</p>
+<p>[^2]: Nor are they limited to algorithmic homogenization. Advertising exec. Alex Murrell has called the sameness of everything from "Instagram Face" to AirBnB decor <a href="https://www.alexmurrell.co.uk/articles/the-age-of-average">"The Age of Average"</a></p>
+<p>[^3]: Blair, p. 251</p>
+<p>[^4]: Blair, p. 252</p>
+<p>[^5]: Blair, p. 251</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Poking at the Myth of Pasteur</title>
+      <link>https://blog.bennettmcintosh.com/2023/03/21/pasteur-private-science-geison.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/03/21/pasteur-private-science-geison.html</guid>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 -0000</pubDate>
+      <description>Pasteur, biography, hagiography, and curry tacos</description>
+      <content:encoded><![CDATA[<h2>Happy spring everyone!</h2>
+<p>Spring break came and went quicker than I could imagine, and I'm facing down the home stretch. As I lean more on my instrumental-only Pandora stations to do my focused work, I find I've exhausted the variety Pandora's able to throw at me (or maybe just found the bottom of some algorithmic funnel) so if you have any uptempo <strong>instrumental or non-Anglophone music</strong> (English lyrics lead me to typos) you've been enjoying lately, I'd love to hear your recommendations. </p>
+<p>We were surprised earlier this month when it was reported that <a href="https://www.nytimes.com/2023/03/10/technology/silicon-valley-bank-fallout.html">Vox Media, Marina's employer, banks with <strong>Silicon Valley Bank</strong></a>. Or I should say bank<strong>ed</strong>: days after we (along with millions of other Americans) learned of the existence of SVB, it had been dissolved by the Feds in the biggest bank failure since 2008. Marina's salary is safe, thanks in part to what may or may not have been a bailout (it depends on who you ask), but which is definitely a reminder that our current bank system privatizes profits while making the public pick up the downside risk. I'm not a fan of that! </p>
+<p>In lighter news, we've been spending a lot of time at <strong>Jardin, Madison's first full-service all-vegan restaurant</strong>. My friend's parents, omnivores visiting from New York City, told us it was not only the best food they had in Madison, but better than any food they'd had in New York for a long time. Out-of-town friends, take note (and come visit)! </p>
+<p>Here's some thoughts on Louis Pasteur and Biography as a genre, <a href="#what-i-m-reading-around-the-web">other interesting things I've read this week</a> (including a <a href="https://www.vox.com/future-perfect/23647682/factory-farming-dxe-criminal-trial-rescue">piece by Marina out today</a>), and a recipe for <a href="#the-recipe-jamaican-curry-tacos">Jamaican curry tacos</a>.</p>
+<h2>The book:</h2>
+<h3>Geison, Gerald L. <em>The Private Science of Louis Pasteur.</em> Princeton University Press, 1995.</h3>
+<p><em>As I review some books I read all the way back in June in anticipation of my upcoming exams, I've discovered a few fully-fleshed-out book reviews that I wrote (I had ambitions of doing this for every book I read, but that quickly fell by the wayside). Here's one of them, lightly edited, about a book that takes the interesting approach of returning to Louis Pasteur's lab notebooks to uncover how he really went about making himself a great scientist.</em></p>
+<p><em>Pasteur is best known for his work in microbiology, including early inoculations against anthrax (in animals) and rabies (in humans), but was also an outspoken French nationalist (and hero to the French since), which motivated his work in improving medicine, agriculture, and industrial chemistry. His early work on the chemistry of fermentation in France's industrial north led him to believe that chirality (molecular asymmetry) and life were intimately, even metaphysically, linked.</em></p>
+<p><img alt="Louis Pasteur in his lab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Louis_Pasteur_experiment.jpg/580px-Louis_Pasteur_experiment.jpg?20130926114134" /></p>
+<blockquote>
+<p><sup>Louis Pasteur in his lab (Britannica Kids, via <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Louis_Pasteur_experiment.jpg/580px-Louis_Pasteur_experiment.jpg?20130926114134">Wikimedia</a>)</sup></p>
+</blockquote>
+<p><em>The Private Science of Louis Pasteur</em> is a strong, and strongly revisionist, biography, revealing the necessity and weakness both of revisionism and of biography. With meticulous examination of Louis Pasteur’s notebooks, reconstructing his work in his time as perhaps no-one else but Pasteur could do, Geison calls for introducing a soupçon of fraud and deception into the heretofore hagiographic accounts of Pasteur’s life. Geison acknowledges that explicit focus on “exceptional” moments of fraud, deception, and omission may make an unfair account of a “great scientist” (10). But these experiments, including the anthrax inoculation demonstration at Pouilly-le-Fort and the experiments leading up to the miraculous cure of Joseph Meister’s rabies, were literally crucial (in the sense of Newton’s <em>Experimentum crusis</em><a href="[https://en.wikipedia.org/wiki/Experimentum_crucis](https://en.wikipedia.org/wiki/Experimentum_crucis)">^1</a>)to Pasteur’s career, his science, and his myth. Geison thus believes (and I agree) that letting some air out of these events is a worthy goal. </p>
+<p>The book succeeds in doing this. But in its fascination with the intrinsic case study of Pasteur, it encounters the pitfalls of many a case study of an intrinsically interesting phenomenon or person. Though self-consciously written in the context of other lab notebook studies by other historians Grmek, Holmes, and others, the book fails to generalize what lab notebooks can tell us, instead presenting a singular story of a singular man, and reifying the concept of a singular “great scientist” even as it tries to redefine it.</p>
+<p>The bulk of the empirical work is split into two sections, the first dealing with the connections Pasteur drew between crystalline asymmetry and the “vital phenomenon” of life, and the second dealing with his public campaigns to produce and administer vaccines for rabies and anthrax. From the first chapter of the former, “From Crystals to Life,” we already see Pasteur’s talent for performance or scientific storytelling in the way he wrote the influence of the organic chemist Auguste Laurent out of his discovery of paratartarate’s racemic properties (that is, that it was a combination of two asymmetric molecules, mirror images of each other, which crystalized separately<a href="[https://en.wikipedia.org/wiki/Racemic_mixture](https://en.wikipedia.org/wiki/Racemic_mixture)">^2</a>). We also see that his “preconceived ideas” about the relationships between fermentation, spontaneous generation, and the cosmic asymmetric force (he believed the fundamental difference between living and dead chemistry was that only the former could produce asymmetric molecules, e.g. producing one mirror image of a molecule like paratartarate more often than the other) were occasionally more important than the applied and empirical concerns ascribed to Pasteur by his hagiographers.  </p>
+<p>If Pasteur was less objective and more genre-savvy in his early years as a chemist and fermentation scientist, his entry into immunology was bracketed by what can only be described as outright deception. He led the public to believe (and they did, for decades, despite his nephew’s testimony to the contrary) that the vaccine employed in the famous anthrax trials at Pouilly-le-Fort was made from rabies virus attenuated by exposure to oxygen, not potassium bichromate as was actually used. And the animal experiments he cited to justify his treatment of Joseph Meister<a href="[https://en.wikipedia.org/wiki/Joseph_Meister](https://en.wikipedia.org/wiki/Joseph_Meister)">^3</a> with desiccated rabid spinal cords were theoretically and methodologically quite different from how he presented them, (or, depending on your interpretation, simply not yet done) when Meister was treated. Geison explores and explains these lapses by seeking to understand the course of both Pasteur’s experiments and of critiques of his work during the crucial years of 1880-1885.[^4]</p>
+<p><img alt="Joseph Meister" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Joseph_Meister.jpg?20120731145740" /></p>
+<blockquote>
+<p><sup>Joseph Meister, who was successfully inoculated against rabies using Pasteur's vaccine in 1885, and would grow up to serve as caretaker of the Pasteur Institute in Paris, living to age 64. [<a href="https://commons.wikimedia.org/wiki/File:Joseph_Meister.jpg">via Wikimedia</a>]</sup></p>
+</blockquote>
+<p>This book is an interesting endeavor. It’s a biography whose core argument is about biography and who writes it, a case study that does little to generalize, but instead treats Pasteur as intrinsically interesting. (Though indeed he is!) To the tradition of Pastorian hagiography, the book adds important correctives not only about what it is that a “great scientist” like Pasteur actually does to achieve greatness, but also about where his ideas came from — often ideas generated a priori in Pasteur’s mind, standing in the way of rather than aiding to empiricism. Students of the broader period will also appreciate the connections Geison draws between chemistry and physiology, both in the through-line that Pasteur himself draws between racemic chemistry and the germ theory of fermentation, and in the chemistry of the immunological milieu that Pasteur associated with immunity. <br />
+The book is less useful to students of the sociology of science, though they will appreciate Geison’s exploration of Pasteur’s reflexive, theatrical flair. In the end, biographies, and their focus on the interiority of a single exceptional person, make rich but limited sociologies, and Geison fails to escape this trap in his continued insistence that Pasteur is a singularly “great scientist.” In the end, a book so strongly defined by its critique of hagiography cannot escape Pasteur’s shadow. </p>
+<h2>What I'm reading around the Web</h2>
+<p><strong>New Projection: U.S. Pedestrian Deaths Rise Yet Again in First Half of 2022</strong> [<a href="https://www.ghsa.org/resources/news-releases/GHSA-Pedestrian-Spotlight23">Governors Highway Safety Association</a>] Over the past ten years, pedestrian deaths in the first half of the year skyrocketed from 2,141 in 2013 to 3,434 in 2022 – a 60% increase, or more than 200 additional deaths per month. </p>
+<p><strong>Survivors of Utah’s eugenic sterilization program still alive in 2023</strong> <br />
+ [<a href="https://attheu.utah.edu/facultystaff/survivors-of-utahs-eugenic-sterilization-program-still-alive-in-2023/">University of Utah</a>] This sobering reminder of the still-present harms of eugenic sterilization comes from my cousin Eliza, who points out that disability, like femininity and gender nonconformity, is still a target for policies taking away people's medical rights. As she said in her interview for <a href="https://www.sltrib.com/news/2022/08/18/though-its-rarely-used-utah/">this story</a> last year on how forced sterilization still happens in Utah (and 30 other states): "I know that depending on where I live, ... I legally have less rights to my body [than] my able-bodied male spouse." This has a deep impact on where disabled folks feel safe to live, which Eliza told me "is traumatizing considering that population has the least amount of portability or resources to move to 'safer' places."</p>
+<p><strong>How to Take Back Control of What You Read on the Internet</strong> [<a href="https://www.theatlantic.com/ideas/archive/2023/03/social-media-algorithms-twitter-meta-rss-reader/673282/">Yair Rosenberg/<em>The Atlantic</em></a>] “Though the Internet’s creative output deserves our attention, social-media companies do not. When the primary way we read online is filtered through the algorithms of capricious corporations that can change what we see on a whim, both writers and readers suffer. RSS is a reminder that it doesn’t have to be this way.”</p>
+<p><strong>Denied by AI: How Medicare Advantage plans use algorithms to cut off care for seniors in need</strong> [<a href="https://www.statnews.com/2023/03/13/medicare-advantage-plans-denial-artificial-intelligence/">Casey Ross &amp; Bob Herman/STAT News</a>] <em>This one's pay-walled but you can hear an interview with co-author Bob Herman <a href="https://www.wbur.org/hereandnow/2023/03/15/ai-algorithms-medicare-advantage">here from WBUR</a>.</em> </p>
+<p><strong>A scientific salad for astronauts in deep space</strong> [<a href="https://astronomy.com/news/2023/03/a-scientific-salad-for-astronauts-in-deep-space">Tom Metcalffe/Astronomy</a>] A salad of "soybeans, poppy seeds, barley, kale, peanuts, sunflower seeds, and sweet potatoes" sounds like something I or any other vegan would throw together from what's left over in their fridge and pantry, but now when I do that I can feel ✨futuristic🚀. </p>
+<h3><strong>Stories written or edited by Marina!</strong></h3>
+<ul>
+<li><strong>The fight against factory farming is winning criminal trials</strong> [<a href="https://www.vox.com/future-perfect/23647682/factory-farming-dxe-criminal-trial-rescue">by Marina herself!</a>]</li>
+</ul>
+<blockquote>
+<p>On Friday, after nearly six hours of deliberation, two animal rights activists facing misdemeanor theft charges were acquitted by a California jury. The alleged crime — which the activists freely admitted to — involved taking two sick, slaughter-bound chickens from Foster Farms, one of the biggest poultry companies in the US. Prosecutors called it stealing, but the defendants, Alicia Santurio and Alexandra Paul, both members of the animal rights group Direct Action Everywhere (DxE), called it a rescue.</p>
+</blockquote>
+<ul>
+<li>
+<p><strong>Elon Musk thinks we’re close to solving AI. That doesn’t make it true</strong> [<a href="https://www.vox.com/future-perfect/23622120/elon-musk-solve-ai-chatgpt-wrong">by Gary Marcus</a>]</p>
+</li>
+<li>
+<p><strong>My year as a pescetarian did more harm than good</strong> [<a href="https://www.vox.com/future-perfect/23639475/pescetarian-eating-fish-ethics-vegetarian-animal-welfare-seafood-fishing-chicken-beef-climate">by Garrison Lovely</a>]</p>
+</li>
+</ul>
+<h2>The Recipe: Jamaican curry tacos</h2>
+<p><img alt="Tacos" src="https://bennettmcintosh.com/blog_assets/2023_03_20/tacos.jpeg" /></p>
+<blockquote>
+<p><sup>With pineapple, pickled carrots, guac &amp; tomatoes!</sup></p>
+</blockquote>
+<p><a href="https://bennettmcintosh.bearblog.dev/against-efficiency/#the-recipe-vegan-lasagna">Once again</a>, the recipe doesn't exist online (I adapted the "unpork" from Miyoko Schinner's <a href="https://www.penguinrandomhouse.com/books/237259/the-homemade-vegan-pantry-by-miyoko-schinner-foreword-by-isa-chandra-moskowitz/"><em>The Homemade Vegan Pantry</em></a> and the flavors from Make It Dairy Free's <a href="https://makeitdairyfree.com/vegan-jamaican-lentil-curry/">Jamaican lentil curry</a>). So here's a PDF of the recipe: </p>
+<h4><a href="https://bennettmcintosh.com/blog_assets/2023_03_20/tacos.pdf">Download PDF</a></h4>
+<p>DIY seitan is surprisingly easy, cheap, and versatile–the vital wheat gluten we make it from is a pantry staple for us, since you can turn it into taco grounds one day, steak the next, and burgers the day after that!  </p>
+<hr />
+<p><sup><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></sup></p>
+<hr />
+<p>[^4]: It's worth noting these allegations of deception have not gone unchallenged: <a href="https://www.nybooks.com/articles/1995/12/21/the-pioneer-defended/">https://www.nybooks.com/articles/1995/12/21/the-pioneer-defended/</a></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>How Americans became Average</title>
+      <link>https://blog.bennettmcintosh.com/2023/02/28/averaging-america.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/02/28/averaging-america.html</guid>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 -0000</pubDate>
+      <description>Sarah Igo&#x27;s book on polling asks how Americans came to know themselves through social science.</description>
+      <content:encoded><![CDATA[<p>It's lurching unevenly but inexorably towards spring here (yesterday's rain felt somehow colder than the snow that came before it) but in the UW greenhouses it's always summer, or whatever season it is the carnivores like to grow in. </p>
+<p><img alt="Venus fly trap" src="https://bennettmcintosh.com/blog_assets/2023_02_28/flytrap.jpg" /> </p>
+<blockquote>
+<p><sup>Chomp chomp chomp CHOMP chomp</sup></p>
+</blockquote>
+<p><img alt="Pitcher plant" src="https://bennettmcintosh.com/blog_assets/2023_02_28/pitcher.jpg" /> </p>
+<blockquote>
+<p><sup>Uh, slurp? Gobble? Glub? Not sure what the pitcher plant say. Whatever it is, don't fall in!</sup></p>
+</blockquote>
+<p>Thanks to Conleigh, whose visit to Madison all the way from Zurich prompted this greenhouse trip, for the photos. </p>
+<h2>The book:</h2>
+<h3>Igo, Sarah E. <em>The Averaged American: Surveys, Citizens, and the Making of a Mass Public.</em> Harvard University Press, 2008.</h3>
+<p><img alt="Truman defeats 'Dewey defeats Truman'" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dewey_Defeats_Truman.jpg/1560px-Dewey_Defeats_Truman.jpg?20220815013831" /></p>
+<blockquote>
+<p><sup>Truman defeats "Dewey defeats Truman" (Byron Rollins/AP <a href="https://commons.wikimedia.org/wiki/File:Dewey_Defeats_Truman.jpg">via Wikimedia</a>)</sup></p>
+</blockquote>
+<p>Remember how much <em>Sturm und Drang</em> there was after the 2016 election over how the polls could have missed Trump's victory so resoundingly? The polling miss in 1948 probably felt even worse for the pollsters, in part because public opinion polling itself was so new. Many Americans still looked askance at the idea you could predict the votes of 50 million of their countrymen by speaking with a mere few thousand. The editors of the <em>Chicago Daily Tribune</em> probably wished they were among that skeptical number after their infamously mistaken early headline. </p>
+<p>After the election, hundreds of people wrote to pollsters like George Gallup and Elmo Roper, some excoriating them for their hubris ("Gallup never asked me!"[^1]) while others apologized for throwing them off: "I didn't deliberately try to deceive," one interviewee wrote Roper, explaining he voted Truman after telling Roper's pollster he would vote Dewey. "I changed my mind in the last week of the campaign."[^2] </p>
+<p><img alt="Gallup on a Romanian stamp" src="https://upload.wikimedia.org/wikipedia/commons/3/39/George_Gallup_2001_Romania_stamp.jpg?20140801124139" /></p>
+<blockquote>
+<p><sup>George Gallup on a Romanian postage stamp (<a href="https://commons.wikimedia.org/wiki/File:George_Gallup_2001_Romania_stamp.jpg">via Wikimedia</a>). I don't know what he's doing there—if you know, let me know!</sup></p>
+</blockquote>
+<p>Such earnest naïvete is good for a chuckle, but it reveals something profound about the era: in 1948, Americans were still learning how to see themselves and their countrymen through surveys and social scientific statistics. <em>The Averaged American</em> is about how this came to be. It focuses on three episodes in the history of surveys: Robert &amp; Helen Lynd's years-long study of Muncie, Indiana, whose pseudonym <em>Middletown</em> in their publications helped turn it into a stand-in for 'normal' America; the rise of opinion polls like Gallup's and Roper's; and Alfred Kinsey's surveys of the sexual habits of Americans. Through these and others, Americans came to imagine themselves as members of a community whose voice (Gallup's syndicated column was called "America Speaks!") could be heard through statistics. </p>
+<p>This was not a smooth process. Of course, people questioned the premise of surveys (a popular retort to the Kinsey reports was that of course Kinsey found 'deviant' sexual behavior everywhere—only a deviant would sit for an hour-long interview full of probing questions about their sexual history). But skepticism wasn't the only obstacle social scientists faced in making the "Average American" a meaningful ideal. The Lynds presented their 1929 depiction of Muncie/Middletown as an objective portrayal of normal American life, but in their efforts to describe a single, cohesive American culture, they papered over Muncie's class conflict; largely ignored the town's black, Catholic, and Jewish population; and, remarkably, didn't bother detailing the Ku Klux Klan’s stranglehold over the town’s government. (The first issue was somewhat corrected in a follow-up study, after the Great Depression brought Muncie's class divides to the fore). </p>
+<p><img alt="The Muncie, Indiana courthouse" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Delaware_County_Courthouse._Razed_1960%27s_-_panoramio.jpg" /></p>
+<blockquote>
+<p><sup>The Muncie, Indiana courthouse, sometime in the first half of the 20th century (<a href="https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Delaware_County_Courthouse._Razed_1960%27s_-_panoramio.jpg">dayne baughma/Wikimedia Commons</a>)</sup></p>
+</blockquote>
+<p>Marketers and salesmen saw <em>Middletown</em> as a new Bible for their profession, pouring over it for insights on the dreams and desires of the American consumer. "Middletown," after all, was an "objective" depiction of a town that matched their ideal of middle America (far more closely, I'll note, than the real Muncie ever did). Marketing actually has a long-running connection with these surveys: Gallup got his start as an audience researcher, and admen were quick to embrace new polling methods as their companies sought to sell off their surplus production. This turn is somewhat ironic: the Lynds used their study to decry the rise of consumerism in Middletown and across America. But in the end the marketers saw the Lynd's book as just so much advertising data. </p>
+<p>I guess in that respect, <em>Middletown</em> isn't too different from much of the Web today.</p>
+<h2>Other stuff I'm reading</h2>
+<p><strong>The Imminent Danger of A.I. Is One We’re Not Talking About</strong> [<a href="https://www.nytimes.com/2023/02/26/opinion/microsoft-bing-sydney-artificial-intelligence.html"><em>The New York Times</em></a>]</p>
+<p><strong>ChatGPT keeps recommending this company for a service they don't offer</strong>, so they put out a <a href="https://blog.opencagedata.com/post/dont-believe-chatgpt">blog post</a> hoping to stem the tide of dismayed reviews claiming their service "doesn't work"</p>
+<p><strong>Nobody knows what the point of homework is</strong>, [<a href="https://www.vox.com/the-highlight/23584497/remote-school-homework-elimination-movement">The Highlight/<em>Vox</em></a>] edited by Marina, and written by Jacob Sweet, a great writer and overall good person. Everyone should read Jacob's alternately big-hearted and hilarious <a href="https://www.newyorker.com/contributors/jacob-sweet">writing in the New Yorker</a>, and Denver friends will appreciate <a href="https://jacobsweeteats.com/quizno-i-will-probably-not-eat-here-again/">his review of the Quizno's at DIA</a>, one of the few locations remaining in the country. </p>
+<p><strong>Your Tax Data Shouldn’t Be Up for Grabs</strong> [<a href="https://themarkup.org/hello-world/2023/02/18/your-tax-data-shouldnt-be-up-for-grabs"><em>The Markup</em></a>]—Tax prep services like H&amp;R Block and Intuit/TurboTax sell your financial data directly to Facebook. This is especially absurd since, for the majority of Americans, the IRS already knows how much you owe. If the Feds could fill out your return for your approval (like many other countries do), it'd save you the headache and the privacy breach—which is why the tax-prep lobby has been, well, lobbying to prevent exactly that for decades. </p>
+<h2>The recipe:</h2>
+<p><strong>One-Pot Roasted Squash Soup</strong>, <a href="https://cooking.nytimes.com/recipes/1023934-one-pot-roasted-squash-soup">from the <em>New York Times</em></a>. This seems pretty versatile—we threw some potatoes in, and added extra carrots to supplement the single 3-lb squash we were using. It takes a while, but most of that is set-it-and-forget-it baking. It'd be even easier if we had a Dutch oven (which the <em>NYT</em> seems to assume everyone has—we got around our lack of one by baking the veggies in a casserole dish and then transferring to a pot). </p>
+<hr />
+<p><sup><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></sup></p>
+<hr />
+<p>[^1]: Igo, <em>The Averaged American</em>, p. 152<br />
+[^2]: <em>ibid</em>, p. 161</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The Foundational Science?</title>
+      <link>https://blog.bennettmcintosh.com/2023/02/14/the-foundational-science.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/02/14/the-foundational-science.html</guid>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 -0000</pubDate>
+      <description>What the Enlightenment got right—and wrong—about psychology and the soul</description>
+      <content:encoded><![CDATA[<p>Happy Valentine's day everyone! In lieu of a treatise on the heart, here's some musings on the Enlightenment's "sciences of the soul," on animal lives, and on how ChatGPT is more like a crappy JPEG than a mind. </p>
+<h2>Psychology: The "first and most useful" science?</h2>
+<h3>Vidal, Fernando. <em>The Sciences of the Soul: The Early Modern Origins of Psychology.</em> Translated by Saskia Brown, University of Chicago Press, 2011.</h3>
+<p><img alt="Système figuré des connaissances humaines (figurative system of human knowledge) from the Yverdon Encyclopedia" src="http://enccre.academie-sciences.fr/encyclopedie/documentation/static/docs/images/Encyclopedie_Yverdon_Systeme_figure.jpg" /></p>
+<blockquote>
+<p><sup>The "Figurative system of human knowledge" or tree of knowledge from the Yverdon encyclopedia. Image from Laussane University Library via <a href="http://enccre.academie-sciences.fr/encyclopedie/documentation/?s=175&amp;">ENCCRE</a></sup></p>
+</blockquote>
+<p>What's the most foundational science? A common modern view, illustrated by <a href="https://xkcd.com/435/">this xkcd cartoon</a>, is that math is fundamental, physics is how math is instantiated in the real world, and all other fields may as well be applied physics. </p>
+<p><img alt="&quot;Purity&quot; (xkcd #435)" src="https://imgs.xkcd.com/comics/purity.png" /></p>
+<p>But it wasn't always thus. The Yverdon Encyclopedia, published in Switzerland in the 1770s, declared that <em>psychology</em> was "the first and most useful of all the sciences," because</p>
+<blockquote>
+<p>without knowledge of the nature, faculties, qualities, state, relations and destination of the human soul, we can pass judgment on nothing, decide nothing, determine nothing, choose nothing, reject nothing, prefer nothing and do nothing with certainty and without error.[^1]</p>
+</blockquote>
+<p>In the Enlightenment, it was common to arrange fields not in a linear hierarchy, but in a branching tree, often shown at the front of Encyclopedias like the Yverdon one. These often divided not only all sciences, but all intellectual endeavors, first by the cognitive capacity they used (often memory [history, including natural history], reason [philosophy, under which the various practical arts and sciences were included], and imagination [the creative arts]), and then by method or subject matter. For the Yverdon encyclopedists, psychology was a branch of metaphysics, alongside ontology and theology. This represents a view common in the Enlightenment, and one that Vidal explores in <em>The Sciences of the Soul</em>, that to know anything you first had to know your own soul. Psychology, from the Greek ψυχή (<em>psyche</em>, in the sense of soul) was the field that would help you do that. </p>
+<p><img alt="Detail from système figuré des connaissances humaines (figurative system of human knowledge) from the Yverdon Encyclopedia" src="https://bennettmcintosh.com/blog_assets/2023_02_14/systeme-figure.jpg" /></p>
+<p>There's much to like about this view, though there's much to dislike too. In <em>The Sciences of the Soul</em>, Vidal traces how psychology as the study of the <em>human</em> soul only developed once Christian and rationalist philosophers decided that there was something qualitatively different about the human soul. The medieval sciences <em>de anima</em> ("soul" again, this time in Latin) included, as the name implies, <strong>anima</strong>ls as well, descending from Aristotle's view that whatever force animated us was shared by all animals, human and otherwise. This Enlightenment exclusion of animals from psychology would only start to change when Darwin suggested that the differences between humans and other animals were those of degree, not kind.[^2] And I think we can still see it today, in popular science's constant posture of surprise upon discovering that animals use <a href="https://en.wikipedia.org/wiki/Tool_use_by_animals#In_fish">tools</a>, feel <a href="https://www.theatlantic.com/science/archive/2023/02/animal-hygiene-behavior-germs-disgust-response/673005/">disgust</a>, or have a sense of <a href="https://www.nationalgeographic.com/adventure/article/150610-octopus-mollusk-marine-biology-aquarium-animal-behavior-ngbooktalk">humor</a>. </p>
+<p>More broadly, it's good to remember that the fundamentality of math, and even the very idea of arranging fields of knowledge in a linear hierarchy, is a product of our own place in the history of science. It could have been otherwise. And in fact, it's not only in the Enlightenment that it has been. At the beginning of the Cold War, a motley crew of computer scientists, molecular biologists, linguists, and others might have told you that all the world could be understood as information and noise, order and entropy, signals and communication. For these cyberneticians and information theorists, information theory was fundamental, and biology, economics, and military planning were no more distant from this foundation than physics. The history of such "cybernetic" approaches is fascinating, but that's for another time. </p>
+<h2>Other things I'm reading</h2>
+<p><strong>New stories edited by Marina:</strong></p>
+<ul>
+<li>
+<p><a href="https://www.vox.com/future-perfect/23593348/build-nuclear-energy-from-nuclear-bombs-ukraine-war">How we turned 20,000 Soviet nukes into zero-carbon energy — and how we can do the same with some of our own</a></p>
+</li>
+<li>
+<p><a href="https://www.vox.com/future-perfect/23578481/how-to-live-without-a-car">How to go car-free—or car-light—in Middle America</a> </p>
+</li>
+</ul>
+<p><strong><a href="https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web">ChatGPT is a blurry JPEG of the Web</a></strong>, which explains both its power and its dangerous shortcomings. By Ted Chiang, one of the best sci-fi writers and thinkers on other minds out there.  </p>
+<p><strong><a href="https://www.stgeorgeutah.com/news/archive/2023/02/10/cdr-lgl23-utah-legislature-passes-bill-that-bans-taking-sick-animals-from-farms-in-pig-trial-aftermath/">Can you rescue a dying animal in Utah?</a></strong> Not if Governor Cox signs a recently-passed bill. In 2017, two animal rights activists removed a pair of dying piglets from a Smithfield factory farm in southwestern Utah, and nursed them back to health. Smithfield didn't realize they were gone until the activists published a video of their rescue, but then called in Utah prosecutors and the FBI to initiate a multi-state search for the piglets. Last October, a St. George jury acquitted the activists on charges of theft and burglary, on the grounds that the piglets had no value to Smithfield (a $5 billion company). (<a href="https://theintercept.com/2022/10/08/smithfield-animal-rights-piglets-trial/">Marina covered the trial for <em>The Intercept</em></a>.) </p>
+<p>Last week the Utah legislature passed a bill that would close that "loophole," decreeing that it's not a defense in theft cases if the stolen "property" is a sick animal, even if the "theft" saves the animal's life. Several of the St. George jurors vocally opposed the bill, one writing in the <em>Salt Lake Tribune</em> "I am shocked to see legislators fast-tracking a bill to usurp the proper role a jury plays in our constitutional system because they dislike a verdict in one particular case."[^3] </p>
+<p>University of Denver Law Professor Justin Marceau agreed: </p>
+<blockquote>
+<p>This bill is consistent with the sort of special treatment the Utah legislature has long afforded to factory farms. The legislature has passed ag-gag laws that turned whistleblowers into criminals, they have sought to prohibit efforts to limit the growth of factory farms, and now they seek to overturn the will of a jury confronted with the abject horrors of factory farming.[^4]</p>
+</blockquote>
+<p>The bill now goes to governor Spencer Cox, who as of last week has not indicated whether he will sign. </p>
+<h2>The recipe</h2>
+<p>We love <a href="https://cooking.nytimes.com/recipes/1020763-vegan-caesar-salad-with-crisp-chickpeas">this Caesar salad</a>, from the <em>New York Times</em>. Since the dressing is cashew-based (with caper brine for the trademark Caesar taste), it's a high-protein, low-fat salad that's fresh and bright enough for summer and hearty and filling enough for winter. </p>
+<hr />
+<p><sup><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></sup></p>
+<hr />
+<p>[^1]: Gabriel Mingard, Psychologie (Métaphysique), in Fortunato Bartolomeo de Felice, ed., <em>Encyclopédie, ou Dictionnaire universel raisonné des connoissances humaines</em> (Yverdon: Société Typographique, 1770–1775); Supplément (1775–1776), vol. 35, 511b–513a, pp. 512b–513a; as quoted in Vidal, p. 1</p>
+<p>[^2]: For an account of this process (though one that ignores the pre-Enlightenment forerunners to the post-Darwinian view), see Degler, <em>In Search of Human Nature</em> (Oxford University Press, 1991). However, see "'Intelligence,' animals, and the scale of creation" in Carson <em>The Measure of Merit</em> (Princeton University Press, 2007; pp. 78–81) for a gloss of the subtly different histories of <em>reason</em>, which both Aristotle and the Philosphes generally assumed animals lacked; and of <em>intelligence</em>, which was applied to animals earlier in the 19th (and even 18th) centuries than the psyche/soul/whatever the subject of psychology is. </p>
+<p>[^3]: <a href="https://www.sltrib.com/opinion/commentary/2023/01/31/r-lynn-carlson-bill-would/"><em>Salt Lake Tribune</em>, Jan. 31, 2023</a></p>
+<p>[^4]: <a href="https://bennettmcintosh.com/blog_assets/2023_02_14/utah-anti-rescue-dxe.pdf">Direct Action Everywhere press release</a></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Against Efficiency</title>
+      <link>https://blog.bennettmcintosh.com/2023/02/10/against-efficiency.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/02/10/against-efficiency.html</guid>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 -0000</pubDate>
+      <description>How economists optimizing for efficiency made political conversation harder, plus a languorous vegan lasagna</description>
+      <content:encoded><![CDATA[<p>Welcome to the second post of Some Preliminary Thoughts! (Slightly delayed, but look for me again—in shorter form—next Monday!)</p>
+<p>It was so nice to hear from so many of you after last week's post 💚. I'm so privileged to have such kind, thoughtful, and curious friends &amp; family, and I love that this is helping me keep in touch with you all. </p>
+<p>I've been thinking a lot about the problems with optimizing and efficiency this week, so in honor of that, today's recipe is a languorous lasagna that will take a whole afternoon (though much of that is passive simmering and baking). But the effort it takes only adds to the enjoyment. </p>
+<ul>
+<li><a href="#the-book">The book</a>: <em>Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy</em> by Elizabeth Popp Berman</li>
+<li><a href="#other-stuff-i-liked-this-week">Other links</a> on efficiency, optimization, and Netflix teen sitcom <em>Derry Girls</em></li>
+<li><a href="#the-recipe-vegan-lasagna">The recipe</a>: a 3-hour lasagna that's worth every minute.</li>
+</ul>
+<h2>The book:</h2>
+<h3>Berman, Elizabeth Popp. <em>Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy</em>. Princeton University Press, 2022.</h3>
+<p><img alt="Thinking like an Economist" src="https://bennettmcintosh.com/blog_assets/2023_02_10/berman.jpg" /></p>
+<p>This was part of my list on "The Political Economy of the Social Sciences"; this week, I read a bunch of histories of econ; stay tuned for histories of psychology, sociology, anthropology, and behavior genetics! </p>
+<p><em>Thinking like an Economist</em> is an eminently readable book—so readable that I almost feel guilty abstracting it, because you can and should just read it yourself! It's about far more than how efficiency replaced equality: Berman traces how an economic style of thinking has led US public policy to value efficiency over almost any other value. This is much to the detriment of our political life. </p>
+<p>The book begins by tracing how, after WWII, economists from Harvard, the University of Chicago, and the RAND corporation (an Air Force-funded private research organization that was very influential during the early Cold War) found their way into the halls of power by arguing that economics principles could be leveraged to make everything more efficient. The US Federal government was expanding to unprecedented size, with Cold War military spending and Johnson's Great Society reforms giving the Feds a bigger role in military and civilian planning alike. Their offer was hard to refuse: who wouldn't want to optimize airlifts into blockaded Berlin, or run the War on Poverty, without breaking the bank? </p>
+<p>The danger is this: every time a public policy decision becomes about making the most <em>efficient</em> choice, the implication is that there's an empirically correct choice, so this is a decision that can be tackled by the experts, safely removed from public deliberation. This sets up a false dichotomy, between our values and how we achieve them, between our ends and our means. The economic style of thinking Berman writes about is <em>supposed</em> to be value-neutral: elected officials choose the values, and economists choose how to optimize them. But in practice, efficiency is itself a value, and it hides other, implicit decisions. </p>
+<h2><em>Co-opting consumer welfare</em></h2>
+<p>One example Berman cites is antitrust policy. If monopolies are a political problem, as they were seen before WWII, then coercively breaking up big companies just for being too big makes sense. But as lawyers, legislators, and regulators adopted the economic style of thought, they came to see US antitrust laws as more about protecting low prices–an easily quantifiable measure of "consumer welfare"–than anything else. And academic economists started publishing research claiming that mergers would keep prices low through economies of scale. So mergers accelerated, and now markets from air travel and e-commerce to eggs and telecommunications are relentlessly consolidated. In some cases, this means companies can raise prices with virtual impunity. In others, prices remain (relatively) low, but service suffers: think about your internet provider's customer service, or the junkification of Amazon (see below). </p>
+<p>For the economists supporting the loosening of antitrust enforcement, the free market (like all markets) was supposed to increase efficiency, and they presented supposedly value-neutral arguments for letting companies merge. But this focus on efficiency excluded other values: equality, but also community connections (as Wal-Mart guts Main Streets around the country), fair governance (as monopolists use their profits for political power)... the list goes on. </p>
+<p>The apotheosis of this style of thinking, for Berman, is Obamacare: the market mechanism is supposed to be more efficient, but it still leaves millions of people uninsured and millions more frustrated with expensive plans. The book probably went to press before the Inflation Reduction Act was passed, but the Biden administration policy agenda, with its market-based mechanisms for fighting climate change, is exactly the policy she predicts the Biden administration would pursue. </p>
+<h2><em>A partisan asymmetry</em></h2>
+<p>It's not a coincidence these are capstone agenda items for Democratic presidents. Berman notes that Democrats seem to have adopted the economic style of thought far more wholeheartedly than Republicans. Democrats embrace market-based climate policy, health policy, and welfare reform in the name of efficiency. But when Republicans want to reduce abortion, they don't institute a cap-and-trade scheme to increase the costs of abortion, they ban it. </p>
+<p>That's not a value I agree with, but it doesn't pretend to be value neutral. I think our democracy would be healthier if we argued on the level of values, rather than trying to put everything in terms of economic costs and benefits. </p>
+<h2>Other stuff I liked this week</h2>
+<p><strong><a href="https://nymag.com/intelligencer/2023/01/why-does-it-feel-like-amazon-is-making-itself-worse.html">Why Amazon is increasingly full of junk</a></strong>—The "efficiency" mindset that equates consumer welfare with cheap crap probably has a lot to do with why Amazon was allowed to become so monopolistic in the first place, and now we're reaping what we sowed.</p>
+<p><strong><a href="https://www.vox.com/future-perfect/23588340/egg-prices-expensive-bird-flu-price-gouging">New Marina story just dropped!</a></strong>—optimizing the efficiency of <em>egg</em> production rather than examining our assumptions about <em>protein</em> systematically (beans, wheat gluten, and even potatoes are often cheaper per gram protein than even heavily subsidized eggs) has made us vulnerable to price gouging, pollution, and epidemics, in addition to propping up a industry that's nightmarish for all involved. </p>
+<p><strong><a href="https://www.vox.com/future-perfect/23569519/effective-altrusim-sam-bankman-fried-will-macaskill-ea-risk-decentralization-philanthropy">How Effective Altruists Ignored Risk</a></strong> (specifically, the risks of optimizing without humility)—This was one of the first pieces Marina assigned at <em>Vox</em>, and it's a great study in how a goal that sounds good (why wouldn't you want your altruism to be effective?) can all-too-easily descend into optimizing for the wrong things (like ranking other members of your movement by IQ to decide who gets career opportunities). </p>
+<p>The finale of <strong>Derry Girls</strong>—an extremely watchable and touching show about growing up while Living Through History<sup>тм</sup>. Between that and the fashion choices, the titular Girls could almost be COVID-era zoomers. </p>
+<p><img alt="@mbolotnikova tweets: &quot;My husband is in the next room literally sobbing at the derry girls finale 🥲&quot;" src="https://bennettmcintosh.com/blog_assets/2023_02_10/tweet.png" /></p>
+<blockquote>
+<p><sup>It's me, I'm the crying husband</sup></p>
+</blockquote>
+<h2>The Recipe: Vegan Lasagna</h2>
+<p>(I'm mostly going to link to external recipes, otherwise this will become some sort of caricature of a recipe blog where you have to read a discourse about the history of economics before getting to the recipe. But this recipe has changed a bit in its transmission, and I'm proud of it, so here goes!) </p>
+<p>When we traveled to Alberta for my Nana's funeral this summer, I was touched at the effort her sister's family went to in order to ensure we had a delicious vegan meal. This lasagna comes from friend of the family Ani, with my mom, Marina, and I each adding our own twists. </p>
+<p><img alt="lasagna" src="https://bennettmcintosh.com/blog_assets/2023_02_10/lasagna.jpeg" /></p>
+<h3>Sauce</h3>
+<ul>
+<li><strong>1 lb</strong> vegan crumble (Impossible/Beyond grounds, crumbled veggie patties, rehydrated soy curls, etc)  </li>
+<li><strong>1/2 cup</strong> onion, minced</li>
+<li><strong>4</strong> cloves garlic, minced or crushed</li>
+<li><strong>1 1/2 tsp</strong> dried basil</li>
+<li><strong>1 1/2 tsp</strong> red pepper flakes (adjust to taste)</li>
+<li><strong>1/2 tsp</strong> fennel seeds</li>
+<li><strong>1 tsp</strong> oregano</li>
+<li><strong>2 Tbsp</strong> white sugar</li>
+<li><strong>1 tsp</strong> salt</li>
+<li><strong>1/4 tsp</strong> ground black pepper</li>
+<li><strong>1/2 cup</strong> water (may increase to 1 cup for a moister lasagna, especially if your noodles aren't oven ready)<blockquote>
+<p><em>For these canned tomato products, don't worry if your can(s) are an ounce or two off in either direction:</em></p>
+</blockquote>
+</li>
+<li><strong>28 oz</strong> crushed tomatoes</li>
+<li><strong>12 oz</strong> tomato paste</li>
+<li><strong>12 oz</strong> tomato sauce</li>
+</ul>
+<h3>Other ingredients</h3>
+<ul>
+<li><strong>12</strong> egg-free lasagna noodles (oven-ready noodles often have egg, but this recipe can work whether your noodles are oven-ready or not) </li>
+<li><strong>2 cups</strong> Minimalist Baker's <a href="https://minimalistbaker.com/whipped-almond-ricotta-5-ingredients/comment-page-1/#wprm-recipe-container-34600">whipped almond ricotta</a> (requires blanched slivered almonds, nutritional yeast, lemon juice, salt, and garlic powder; you can make this while the sauce simmers)</li>
+<li><strong>1 Tbsp</strong> flax meal</li>
+<li><strong>3 cups</strong> vegan mozzarella (we use <a href="https://miyokos.com/products/pizza-mozzarella">Miyoko's liquid mozz</a>, which is available at many grocery stories and also makes great pizzas)</li>
+<li><strong>3/4 cup</strong> vegan Parmesan (shredded or grated)</li>
+</ul>
+<p><img alt="lasagna" src="https://bennettmcintosh.com/blog_assets/2023_02_10/lasagna_slice.jpeg" /></p>
+<h3>Directions</h3>
+<ol>
+<li>In a large pot, cook the meat, onion, and garlic over medium heat until browned. </li>
+<li>Stir in the spices (fennel, pepper, &amp; pepper flakes) to allow to toast for one minute. Then add the tomato paste, basil, and oregano, stirring until the paste begins to darken as it caramelizes</li>
+<li>Add the crushed tomatoes &amp; tomato sauce, plus the water, sugar, and salt to taste. Simmer, covered, for 90 minutes, stirring occasionally. </li>
+<li>After about an hour of simmering, make a "flax egg" by mixing the flax meal with 3 Tbsp warm water in a small bowl. Prepare the almond ricotta, then combine it with the flax egg. </li>
+<li>Preheat oven to 375 ˚F (190 ˚C)</li>
+<li>Assemble in the following order, from bottom to top: <blockquote>
+<ul>
+<li>A quarter of the meat sauce (roughly 1 1/2 cups)</li>
+<li>6 noodles</li>
+<li>Half of the ricotta</li>
+<li>1/3 cup of the mozz</li>
+<li>A quarter of the meat sauce</li>
+<li>1/4 cup of the Parmesan</li>
+<li>[repeat the above] </li>
+<li>Top with remaining mozz and Parmesan</li>
+</ul>
+</blockquote>
+</li>
+<li>Bake, covered in foil, for 25 minutes (use cooking spray or distance to keep the cheese from sticking to the foil). Bake uncovered for another 25 minutes. Cool for 15 minutes before serving. </li>
+</ol>
+<p><strong>For a cheaper and healthier alternative</strong>, replace the plant-based meat with 1/2 cup finely chopped walnuts and 1 cup red lentils. Soak the lentils in water for 30–60 minutes before cooking. Add the walnuts to the pot while sauteing the onions and garlic so they can toast a bit, and add the lentils with the canned tomatoes. </p>
+<hr />
+<p><sup><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></sup></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statement of Purpose</title>
+      <link>https://blog.bennettmcintosh.com/2023/01/30/statement-of-purpose.html</link>
+      <guid isPermaLink="true">https://blog.bennettmcintosh.com/2023/01/30/statement-of-purpose.html</guid>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 -0000</pubDate>
+      <description>Introduction to Bennett McIntosh&#x27;s blog on history, science and technology studies, and other stuff</description>
+      <content:encoded><![CDATA[<h1>Hello!</h1>
+<p>If you got this post as an email, you almost certainly filled out a form long ago, asking for email updates on my life after Facebook. You probably got three or four of them, and then I stopped sending them because it turns out PhDs are hard.<sup><sup><a href="https://phdcomics.com/comics/archive.php?comicid=1286">[citation needed]</a></sup></sup> </p>
+<p>Today, I share why I'm back, what I hope to do, and what you might have missed – as well as a recipe we enjoyed this week!</p>
+<h2>The plan:</h2>
+<p>I'm in the middle of preparing for my preliminary exams (one of the last checkpoints before I embark on writing my dissertation), which means that since June I've been reading a few books each week on the history of biology, the history of how people work with data, and the political economy of the social sciences. almost every week. In April/May, I'll be asked to synthesize these 100+ (I've honestly lost count) books into three essays, and then defend them in front of a committee of four faculty. That's a lot of work with payoff only at the end, so I wanted to share some of what I'm reading with folks in the meantime! </p>
+<p>So, each week (I hope!), my plan is to share with you:</p>
+<ol>
+<li>What excited me, interested me, or confounded me about one of the books I read this week,</li>
+<li>What else I'm reading/thinking about, and what's happening in my life</li>
+<li>A delicious plant-based recipe—either one we're eating that week, or one I've enjoyed in the past–scroll down for that one!</li>
+</ol>
+<h2>The reasoning:</h2>
+<p>I recently left another social media network, partly because it was taken over by a billionaire <a href="https://nymag.com/press/2023/01/extremely-hardcore-inside-twitter-under-elon-musk.html">even more egocentric and capricious than Mark Zuckerberg</a>, and partly because I was spending too much time passively scrolling, and not enough time making things and engaging with people. </p>
+<p>I'm hoping this will be a way of dedicating myself to producing something regularly, and the jumping-off point for conversations with you – so I'd love to hear what you've been up to, especially if you happen to be traveling through Madison, St. Louis, or Denver anytime soon!</p>
+<h2>The book:</h2>
+<p>Soll, Jacob. <em>The Information Master: Jean-Baptiste Colbert’s Secret State Intelligence System</em>. University of Michigan Press, 2011.</p>
+<p><img alt="Colbert" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Testelin%2C_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg" /></p>
+<blockquote>
+<p><sup><em>Jean-Baptiste Colbert presents members of the Royal Academy of Sciences to King Louis XIV [via <a href="https://commons.wikimedia.org/wiki/File:Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg">Wikimedia Commons</a>]</em></sup></p>
+</blockquote>
+<p>One of the three fields in which I'm preparing to take prelim exams is what my professors and I are calling the history of data and information practices. How have people collected, sorted, and used information throughout history? What drives those changes, and what's stayed the same? While we think of data and information as quintessentially modern concepts (we call our era the "digital" or the "information age"), there are often more continuities than may seem at first glance. The last chunk of books and essays I read for that field, all focusing on bureaucracies, are emblematic. The word "bureaucracy" (actually, the French version, <em>bureaucratie</em>) was coined in 1764, at the dawn of the Industrial Revolution and with the Enlightenment well under way.[^1] The most famous critics of Bureaucracy – sociologist Max Weber, novelists Dostoyevsky and Kafka – were creatures of the industrial revolution, bemoaning the deranged, mechanized order to which the institutions ruling their life aspired. </p>
+<p><em>The Information Master</em>, though, is about France in the 1600s, before the age of revolutions (American, French, Industrial, Communard...), and before the Enlightenment, when Louis XIV ruled. The one thing I remembered from AP Euro about <em>this</em> Louis (two Louises before the one deposed in the French Revolution) was that he was an absolutist, famous for (allegedly, probably not actually) saying "<em>L'État, c'et moi</em>" ("I am the State"). <em>The Information Master</em> explores how Louis, or really his First Minister and Controller of Finances Jean-Baptiste Colbert, made this statement a reality. </p>
+<p>Louis's Absolutism meant that he brought the entire French state under his control. Nobles were no longer to be vassals ruling essentially on their own far from the King's authority – they were brought to Versailles to be courtiers. The <em>Parlements</em> (parliament) that gave the nobles a countervailing power to the King in Paris was brought to heel. Louis even attempted, with more mixed success, to bring religion in France under his personal rule, expelling the Protestant Huguenots and declaring that bishops would be appointed and religious law decided by him alone. (The Pope, unsurprisingly, was not happy with this). </p>
+<p><em>The Information Master</em> describes just how important control of knowledge – as in actual physical control of paper documents on taxes, histories, customs, and jurisprudence – were to Louis's control of France. Colbert, by convincing, surreptitious copying, and outright thievery, moved all manner of archives – whether parliamentary records from Paris or the registers of obscure parish churches in the provinces – to the King's library (which was kinda contiguous with Colbert's personal library). With these records under royal control, when it came time to settle a dispute about taxes, or the traditional rights and privileges of a distant bishop or noble, these questions would have to be settled by the King's scholars using the King's records – helping Louis turn france from a feudal patchwork to a unitary state. Nor did Colbert limit himself to the humanistic fields of history and jurisprudence – he realized that by bringing information about prices, geography, the sciences, and other fields under the same roof, he could better control France's ship construction, colonization, and agriculture. To do this, he sent <em>intendants</em> out across the realm, with standardized lists of questions and instructions to watch and learn about their assigned dockyard, factory, or parish. The resentment and fear they inspired from the people they encountered in the provinces certainly gives credence to the idea that Colbert was a bureaucrat's bureaucrat – ruling by his bureau, his writing desk. And if Louis was the State, Colbert was the state's right hand – and left hand, and eyes, and ears...</p>
+<p>If Colbert's system was a bureaucracy, it was not a durable one. Upon his death, his many titles (In US terms he was essentially Chief of Staff and Secretary of the Navy, the Interior, and the Treasury, as well as head of the National Archives) were divvied up, and his system of archives and <em>intendants</em> fell apart. His ideas were inspirational – after the French Revolution deposed Louis's great-great-great-great grandson, writer Louis-Sébastien Mercier bemoaned a certain bureaucratic "mania for the quill, which dates to Monsieur Colbert."<a href="*ibid.*">^2</a> But he shows that something resembling a bureaucracy can arise in very different contexts and political systems than the liberalizing, industrial societies with which we associate them. And he shows above all the power that can come from controlling the material incarnation of knowledge. </p>
+<h2>The recipe:</h2>
+<p>This week we made <a href="https://www.rabbitandwolves.com/vegan-spicy-thai-peanut-ramen/#recipe">Spicy Thai Peanut Ramen</a> from Rabbit and Wolves—even better with some added veggies (we used carrots and onions). </p>
+<p><img alt="ramen!" src="https://bennettmcintosh.com/blog_assets/2023_01_30/ramen.jpg" /></p>
+<p>We've discovered a nice hack for keeping fresh ginger on hand: the day you buy it, cut it into ~half-inch chunks, and keep them in a jar in the freezer. This way it's always on hand, you don't have to worry about how fast/slow you're using it, and the freezing makes it easier to cut when you're ready to use it.</p>
+<hr />
+<p><sup><em>This is Some Preliminary Thoughts, <a href="https://bennettmcintosh.com">Bennett McIntosh's</a> blog. You can sign up for email updates <a href="/subscribe/">here</a>, or unsubscribe <a href="https://forms.gle/1k1VB3DBuHjfpYcj7">here</a>.</em></sup></p>
+<hr />
+<p>[^1]: <a href="https://doi.org/10.5334/jhk.18">Felten &amp; von Oertzen (2020), "Bureaucracy as Knowledge" </a></p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -36,7 +36,7 @@ bluesky_username: bennettmcintosh.com
 substack_username: contingentideas
 rss: feed.xml
 show_excerpts: true
-
+permalink: pretty
 
 # Build settings
 theme: minima
