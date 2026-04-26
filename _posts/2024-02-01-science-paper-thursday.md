@@ -20,7 +20,7 @@ I was scrolling through my feed the other day, as one does, and saw someone post
 
 
 <div class="link-preview">
-  <a href="https://www.theatlantic.com/science/archive/2024/01/bigheaded-ant-lion-ecosystem-cascade/677241/"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706476282-0.jpg" alt="Thumbnail of ants holding up a globe"></a>
+  <a href="https://www.theatlantic.com/science/archive/2024/01/bigheaded-ant-lion-ecosystem-cascade/677241/"><img src="/assets/images/20240201-Atlantic-preview-img.jpg" alt="Thumbnail of ants holding up a globe"></a>
   <div class="link-preview-body">
     <a href="https://www.theatlantic.com/science/archive/2024/01/bigheaded-ant-lion-ecosystem-cascade/677241/" class="link-preview-hed">How One Tiny Insect Upended an Ecosystem</a>
     <span class="link-preview-dek">On a conservancy in Kenya, lions are struggling to hunt zebras. An invasive insect may be to blame.</span>
@@ -31,7 +31,7 @@ I was scrolling through my feed the other day, as one does, and saw someone post
 A few minutes later, I saw one from *Science News*:
 
 <div class="link-preview">
-  <a href="https://www.sciencenews.org/article/invasive-ant-lion-dinner-trees-ecosystem"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706476670-0.jpg" alt="Thumbnail of lions"></a>
+  <a href="https://www.sciencenews.org/article/invasive-ant-lion-dinner-trees-ecosystem"><img src="/assets/images/20240201-Science-News-preview-img.jpg" alt="Thumbnail of lions"></a>
   <div class="link-preview-body">
     <a href="https://www.sciencenews.org/article/invasive-ant-lion-dinner-trees-ecosystem" class="link-preview-hed">How an invasive ant changed a lion's dinner menu</a>
     <span class="link-preview-dek">The impact rippled up from ants to trees to elephants to lions and their prey.</span>
@@ -57,7 +57,7 @@ Embargoes are part of the complex choreography between journalists and PR. Journ
 This makes embargoes a form of access journalism, in which journalists willingly give up some of their agency in shaping a story in return for access to the information they need to write it. For an ecological story about ants, I find this relatively benign. I wish more of the coverage of the lion/ant/zebra story had taken a more thoughtful or critical view of the term “invasive species,” (see below story by Marina for that angle!) but I don’t think anyone will be hurt by *Science*’s control over the narrative in this case.
 
 <div class="link-preview">
-  <a href="https://www.vox.com/down-to-earth/22796160/invasive-species-climate-change-range-shifting"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706476920-0.jpg" alt="Thumbnail of a snail"></a>
+  <a href="https://www.vox.com/down-to-earth/22796160/invasive-species-climate-change-range-shifting"><img src="/assets/images/20240201-Vox-preview-img.jpg" alt="Thumbnail of a snail"></a>
   <div class="link-preview-body">
     <a href="https://www.vox.com/down-to-earth/22796160/invasive-species-climate-change-range-shifting" class="link-preview-hed">It’s time to stop demonizing “invasive” species</a>
     <span class="link-preview-dek">Climate change is forcing some animals to move. Don’t call them “invasives.”</span>
@@ -78,7 +78,7 @@ During the press conference, one of the authors said the research was important 
 
 
 <div class="link-preview">
-  <a href="https://www.harvardmagazine.com/2019/08/there-s-still-no-gay-gene"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1706478230-0.png" alt="Thumbnail of DNA art"></a>
+  <a href="https://www.harvardmagazine.com/2019/08/there-s-still-no-gay-gene"><img src="/assets/images/20240201-Harvard-Mag-preview-img.png" alt="Thumbnail of DNA art"></a>
   <div class="link-preview-body">
     <a href="https://www.harvardmagazine.com/2019/08/there-s-still-no-gay-gene" class="link-preview-hed">There's (Still) No Gay Gene</a>
     <span class="link-preview-dek">Genes seem to play a role in determining sexual orientation, but it's small, uncertain, and complicated</span>

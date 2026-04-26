@@ -21,12 +21,12 @@ Happy Valentine's day everyone! In lieu of a treatise on the heart, here's some 
 
 ### Vidal, Fernando. *The Sciences of the Soul: The Early Modern Origins of Psychology.* Translated by Saskia Brown, University of Chicago Press, 2011.
 
-![Système figuré des connaissances humaines (figurative system of human knowledge) from the Yverdon Encyclopedia](http://enccre.academie-sciences.fr/encyclopedie/documentation/static/docs/images/Encyclopedie_Yverdon_Systeme_figure.jpg)
+![Système figuré des connaissances humaines (figurative system of human knowledge) from the Yverdon Encyclopedia](20230214-Encyclopedie-Yverdon-Systeme-figure.jpg)
 > <sup>The "Figurative system of human knowledge" or tree of knowledge from the Yverdon encyclopedia. Image from Laussane University Library via [ENCCRE](http://enccre.academie-sciences.fr/encyclopedie/documentation/?s=175&)</sup>
 
 What's the most foundational science? A common modern view, illustrated by [this xkcd cartoon](https://xkcd.com/435/), is that math is fundamental, physics is how math is instantiated in the real world, and all other fields may as well be applied physics. 
 
-!["Purity" (xkcd #435)](https://imgs.xkcd.com/comics/purity.png)
+!["Purity" (xkcd #435)](/assets/images/20230214-purity.png)
 
 But it wasn't always thus. The Yverdon Encyclopedia, published in Switzerland in the 1770s, declared that *psychology* was "the first and most useful of all the sciences," because
 
@@ -34,7 +34,7 @@ But it wasn't always thus. The Yverdon Encyclopedia, published in Switzerland in
 
 In the Enlightenment, it was common to arrange fields not in a linear hierarchy, but in a branching tree, often shown at the front of Encyclopedias like the Yverdon one. These often divided not only all sciences, but all intellectual endeavors, first by the cognitive capacity they used (often memory [history, including natural history], reason [philosophy, under which the various practical arts and sciences were included], and imagination [the creative arts]), and then by method or subject matter. For the Yverdon encyclopedists, psychology was a branch of metaphysics, alongside ontology and theology. This represents a view common in the Enlightenment, and one that Vidal explores in *The Sciences of the Soul*, that to know anything you first had to know your own soul. Psychology, from the Greek ψυχή (*psyche*, in the sense of soul) was the field that would help you do that. 
 
-![Detail from système figuré des connaissances humaines (figurative system of human knowledge) from the Yverdon Encyclopedia](https://bennettmcintosh.com/blog_assets/2023_02_14/systeme-figure.jpg)
+![Detail from système figuré des connaissances humaines (figurative system of human knowledge) from the Yverdon Encyclopedia](/assets/images/20230214-systeme-figure.jpg)
 
 There's much to like about this view, though there's much to dislike too. In *The Sciences of the Soul*, Vidal traces how psychology as the study of the *human* soul only developed once Christian and rationalist philosophers decided that there was something qualitatively different about the human soul. The medieval sciences *de anima* ("soul" again, this time in Latin) included, as the name implies, **anima**ls as well, descending from Aristotle's view that whatever force animated us was shared by all animals, human and otherwise. This Enlightenment exclusion of animals from psychology would only start to change when Darwin suggested that the differences between humans and other animals were those of degree, not kind.[^2] And I think we can still see it today, in popular science's constant posture of surprise upon discovering that animals use [tools](https://en.wikipedia.org/wiki/Tool_use_by_animals#In_fish), feel [disgust](https://www.theatlantic.com/science/archive/2023/02/animal-hygiene-behavior-germs-disgust-response/673005/), or have a sense of [humor](https://www.nationalgeographic.com/adventure/article/150610-octopus-mollusk-marine-biology-aquarium-animal-behavior-ngbooktalk). 
 

@@ -40,7 +40,7 @@ I'm hoping this will be a way of dedicating myself to producing something regula
 ## The book:
 Soll, Jacob. *The Information Master: Jean-Baptiste Colbert’s Secret State Intelligence System*. University of Michigan Press, 2011.
 
-![Colbert](https://upload.wikimedia.org/wikipedia/commons/2/26/Testelin%2C_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg)
+![Colbert](/assets/images/20230130-Testelin-Colbert.jpg)
 
 > <sup>*Jean-Baptiste Colbert presents members of the Royal Academy of Sciences to King Louis XIV [via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg)]*</sup>
 
@@ -58,7 +58,7 @@ If Colbert's system was a bureaucracy, it was not a durable one. Upon his death,
 ## The recipe: 
 This week we made [Spicy Thai Peanut Ramen](https://www.rabbitandwolves.com/vegan-spicy-thai-peanut-ramen/#recipe) from Rabbit and Wolves—even better with some added veggies (we used carrots and onions). 
 
-![ramen!](https://bennettmcintosh.com/blog_assets/2023_01_30/ramen.jpg)
+![ramen!](/assets/images/20230130-ramen.jpg)
 
 We've discovered a nice hack for keeping fresh ginger on hand: the day you buy it, cut it into ~half-inch chunks, and keep them in a jar in the freezer. This way it's always on hand, you don't have to worry about how fast/slow you're using it, and the freezing makes it easier to cut when you're ready to use it.
 

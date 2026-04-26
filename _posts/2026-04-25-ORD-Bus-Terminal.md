@@ -2,6 +2,7 @@
 layout: post
 title: This Airport is a Bus Terminal if You Trespass Hard Enough and Believe in Yourself
 date: 2026-04-25
+image: /assets/images/20260425-ord.png
 description: My trip to the Midwest Junto for the History of Science, and the untapped potential of suburban airports as regional ground transportation hubs.
 tags:
   - hist-tech

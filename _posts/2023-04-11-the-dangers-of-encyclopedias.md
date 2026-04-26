@@ -40,7 +40,7 @@ Marina's colleague, Sigal Samuel, [recently explored these  concerns](https://ww
 
 Sigal pointed out that concerns like these aren't new,[^2] but I think one of the books I was reviewing this week gets across just *how* not-new they are. Which is another reason it's a weird time to write these essays: I've been diving into the history of new technologies for making and manipulating knowledge at a historical moment for exactly that. As is always true when you're Living Through History, some historical perspective can be useful. 
 
-![dangerous books!](https://bennettmcintosh.com/blog_assets/2023_04_11/prvw.jpg)
+![dangerous books!](/assets/images/20230411-prvw.jpg)
 
 ## The scholars who feared encyclopedias
 
@@ -76,7 +76,7 @@ AI will change how we think, and where, and to what end. We don't know how ([any
 
 ## The Recipe
 
-![Pancakes, tofu scramble, and beans & peppers!](https://bennettmcintosh.com/blog_assets/2023_04_11/breakfast.jpg)
+![Pancakes, tofu scramble, and beans & peppers!](/assets/images/20230411-breakfast.jpg)
 
 Twofer this week! We made a delicious weekend breakfast with Rainbow Plant Life's [Vegan Pancakes](https://rainbowplantlife.com/vegan-pancakes/#recipe) and [Tofu Scramble](https://rainbowplantlife.com/eggy-tofu-scramble/#wprm-recipe-container-11576). The tofu scramble is an easy, savory treatment for tofu that works well at any meal (we're looking forward to putting it in [this shakshuka recipe](https://www.pickuplimes.com/recipe/oven-baked-tofu-shakshuka-667)), and the pancakes are exactly the right combination of fluffy and crispy, sweet and tangy. 
 

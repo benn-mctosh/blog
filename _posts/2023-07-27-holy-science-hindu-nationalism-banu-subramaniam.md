@@ -18,7 +18,7 @@ Good morning,
 
 **1. Wikipedia’s [List of Cetaceans](https://en.wikipedia.org/wiki/List_of_cetaceans)** includes pictures of most species of cetacean, but when they're missing one, they say <sup>*[[cetacean needed]](https://en.wikipedia.org/wiki/List_of_cetaceans)*</sup>
 
-![cetacean needed](https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1690400479-0.png)
+![cetacean needed](/assets/images/20230727-cetacean-needed.png)
 
 **2. Marina won a National Press Club Award!** Specifically, the [Ann Cottrell Free award for Animal Reporting](https://www.press.org/newsroom/wall-street-journal-abc-news-and-pbs-newshour-win-national-press-club-awards#winners)!
 
@@ -53,7 +53,7 @@ Subramaniam expresses the hope that the BJP’s archaic modernity isn’t the on
 
 # Quick ask to protect the Internet
 
-![Screenshot of social media posts by @siderea@universeodon.com: You, personally, should be afraid of this law. This law should terrify you. This law is a gun to YOUR head - not someone else's head, someone less fortunate than you, someone less privileged than you: YOU.  You, personally, are threatened by this law. I suggest you react accordingly. 8/8; PS, the other gnarly wrinkle of asking everyone to submit ID to use the internet, is that it both makes it way easier to steal people's IDs - after all, the parties that will be legally responsible for proving that they checked your ID will want to keep a copy to prove that they got it, right? So now platforms will have databases full of copies of people's legal IDs - *and* it creates a whole new motivation for wanting to have access to someone else's stolen ID!](https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1690406484-0.png)
+![Screenshot of social media posts by @siderea@universeodon.com: You, personally, should be afraid of this law. This law should terrify you. This law is a gun to YOUR head - not someone else's head, someone less fortunate than you, someone less privileged than you: YOU.  You, personally, are threatened by this law. I suggest you react accordingly. 8/8; PS, the other gnarly wrinkle of asking everyone to submit ID to use the internet, is that it both makes it way easier to steal people's IDs - after all, the parties that will be legally responsible for proving that they checked your ID will want to keep a copy to prove that they got it, right? So now platforms will have databases full of copies of people's legal IDs - *and* it creates a whole new motivation for wanting to have access to someone else's stolen ID!](/assets/images/20230727-sideria-on-internet-ids.png)
 <span class="pic-caption"><a href="https://universeodon.com/@siderea/110779307153932243">Siderea, Sibylla Bostoniensis on Mastodon</a></span>
 
 Americans on this newsletter should know about the “Kids’ Online Safety Act,” currently working its way through Congress, because folks... [it’s bad](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online). It uses the tired old “Think of the *children*!” concern trolling to sneak through a slate of draconian controls over online activity: basically, if you post anything online that a state AG deems harmful to children—and remember, in this day and age, this could be something as tame as “trans people exist” or “slavery is bad” (or, on the other side of the spectrum, “here’s some basic tips on living safely with guns”)—you could be personally responsible for ensuring that nobody 16 years old or younger ever sees it. 

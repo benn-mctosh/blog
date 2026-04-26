@@ -60,7 +60,7 @@ PS: O'Gieblyn doesn't talk much about the third category in her title, animalsâ€
 
 Vegan minced "pork" [from Rabbit and Wolves](https://www.rabbitandwolves.com/the-best-vegan-minced-pork/)â€”great in lettuce wraps, but probably also works well over rice, in fusion tacos, or maybe even a spicy soup? 
 
-![Minced pork lettuce wraps](https://bennettmcintosh.com/blog_assets/2023_06_05/mincedpork.jpeg)
+![Minced pork lettuce wraps](/assets/images/20230603-mincedpork.jpeg)
 
 ***
 

@@ -10,5 +10,8 @@ convert_bearblog.py
 email-stuff*
 _drafts*
 /.obsidian
-/.obsidian
+.obsidian/*
 posse.py
+CLAUDE.md
+.obsidian/workspace.json
+.obsidian/app.json

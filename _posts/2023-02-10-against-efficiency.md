@@ -29,7 +29,7 @@ I've been thinking a lot about the problems with optimizing and efficiency this 
 
 ### Berman, Elizabeth Popp. *Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy*. Princeton University Press, 2022.
 
-![Thinking like an Economist](https://bennettmcintosh.com/blog_assets/2023_02_10/berman.jpg)
+![Thinking like an Economist](/assets/images/20230210-berman.jpg)
 
 This was part of my list on "The Political Economy of the Social Sciences"; this week, I read a bunch of histories of econ; stay tuned for histories of psychology, sociology, anthropology, and behavior genetics! 
 
@@ -65,7 +65,7 @@ That's not a value I agree with, but it doesn't pretend to be value neutral. I t
 The finale of **Derry Girls**—an extremely watchable and touching show about growing up while Living Through History<sup>тм</sup>. Between that and the fashion choices, the titular Girls could almost be COVID-era zoomers. 
 
 
-![@mbolotnikova tweets: "My husband is in the next room literally sobbing at the derry girls finale 🥲"](https://bennettmcintosh.com/blog_assets/2023_02_10/tweet.png)
+![@mbolotnikova tweets: "My husband is in the next room literally sobbing at the derry girls finale 🥲"](/assets/images/20230210-tweet.png)
 
 > <sup>It's me, I'm the crying husband</sup>
 
@@ -75,7 +75,7 @@ The finale of **Derry Girls**—an extremely watchable and touching show about g
 
 When we traveled to Alberta for my Nana's funeral this summer, I was touched at the effort her sister's family went to in order to ensure we had a delicious vegan meal. This lasagna comes from friend of the family Ani, with my mom, Marina, and I each adding our own twists. 
 
-![lasagna](https://bennettmcintosh.com/blog_assets/2023_02_10/lasagna.jpeg)
+![lasagna](/assets/images/20230210-lasagna.jpeg)
 
 ### Sauce
 
@@ -103,7 +103,7 @@ When we traveled to Alberta for my Nana's funeral this summer, I was touched at 
 * **3 cups** vegan mozzarella (we use [Miyoko's liquid mozz](https://miyokos.com/products/pizza-mozzarella), which is available at many grocery stories and also makes great pizzas)
 * **3/4 cup** vegan Parmesan (shredded or grated)
 
-![lasagna](https://bennettmcintosh.com/blog_assets/2023_02_10/lasagna_slice.jpeg)
+![lasagna](20230210-lasagna-slice.jpeg)
 
 ### Directions
 

@@ -33,9 +33,9 @@ Here's some thoughts on Louis Pasteur and Biography as a genre, [other interesti
 
 *Pasteur is best known for his work in microbiology, including early inoculations against anthrax (in animals) and rabies (in humans), but was also an outspoken French nationalist (and hero to the French since), which motivated his work in improving medicine, agriculture, and industrial chemistry. His early work on the chemistry of fermentation in France's industrial north led him to believe that chirality (molecular asymmetry) and life were intimately, even metaphysically, linked.*
 
-![Louis Pasteur in his lab](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Louis_Pasteur_experiment.jpg/580px-Louis_Pasteur_experiment.jpg?20130926114134)
+![Louis Pasteur in his lab](20230321-Louis-Pasteur-experiment.jpg)
 
-> <sup>Louis Pasteur in his lab (Britannica Kids, via [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Louis_Pasteur_experiment.jpg/580px-Louis_Pasteur_experiment.jpg?20130926114134))</sup>
+> <sup>Louis Pasteur in his lab (Britannica Kids, via [Wikimedia](20230321-Louis-Pasteur-experiment.jpg))</sup>
 
 *The Private Science of Louis Pasteur* is a strong, and strongly revisionist, biography, revealing the necessity and weakness both of revisionism and of biography. With meticulous examination of Louis Pasteur’s notebooks, reconstructing his work in his time as perhaps no-one else but Pasteur could do, Geison calls for introducing a soupçon of fraud and deception into the heretofore hagiographic accounts of Pasteur’s life. Geison acknowledges that explicit focus on “exceptional” moments of fraud, deception, and omission may make an unfair account of a “great scientist” (10). But these experiments, including the anthrax inoculation demonstration at Pouilly-le-Fort and the experiments leading up to the miraculous cure of Joseph Meister’s rabies, were literally crucial (in the sense of Newton’s *Experimentum crusis*[^1])to Pasteur’s career, his science, and his myth. Geison thus believes (and I agree) that letting some air out of these events is a worthy goal. 
 
@@ -45,7 +45,7 @@ The bulk of the empirical work is split into two sections, the first dealing wit
 
 If Pasteur was less objective and more genre-savvy in his early years as a chemist and fermentation scientist, his entry into immunology was bracketed by what can only be described as outright deception. He led the public to believe (and they did, for decades, despite his nephew’s testimony to the contrary) that the vaccine employed in the famous anthrax trials at Pouilly-le-Fort was made from rabies virus attenuated by exposure to oxygen, not potassium bichromate as was actually used. And the animal experiments he cited to justify his treatment of Joseph Meister[^3] with desiccated rabid spinal cords were theoretically and methodologically quite different from how he presented them, (or, depending on your interpretation, simply not yet done) when Meister was treated. Geison explores and explains these lapses by seeking to understand the course of both Pasteur’s experiments and of critiques of his work during the crucial years of 1880-1885.[^4]
 
-![Joseph Meister](https://upload.wikimedia.org/wikipedia/commons/9/96/Joseph_Meister.jpg?20120731145740)
+![Joseph Meister](20230321-Joseph-Meister.jpg)
 
 > <sup>Joseph Meister, who was successfully inoculated against rabies using Pasteur's vaccine in 1885, and would grow up to serve as caretaker of the Pasteur Institute in Paris, living to age 64. [[via Wikimedia](https://commons.wikimedia.org/wiki/File:Joseph_Meister.jpg)]</sup>
 
@@ -77,7 +77,7 @@ The book is less useful to students of the sociology of science, though they wil
 
 ## The Recipe: Jamaican curry tacos
 
-![Tacos](https://bennettmcintosh.com/blog_assets/2023_03_20/tacos.jpeg)
+![Tacos](/assets/images/20230321-tacos.jpeg)
 > <sup>With pineapple, pickled carrots, guac & tomatoes!</sup>
 
 [Once again](https://bennettmcintosh.bearblog.dev/against-efficiency/#the-recipe-vegan-lasagna), the recipe doesn't exist online (I adapted the "unpork" from Miyoko Schinner's [*The Homemade Vegan Pantry*](https://www.penguinrandomhouse.com/books/237259/the-homemade-vegan-pantry-by-miyoko-schinner-foreword-by-isa-chandra-moskowitz/) and the flavors from Make It Dairy Free's [Jamaican lentil curry](https://makeitdairyfree.com/vegan-jamaican-lentil-curry/)). So here's a PDF of the recipe: 

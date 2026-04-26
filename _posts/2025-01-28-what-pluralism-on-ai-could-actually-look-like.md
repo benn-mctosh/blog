@@ -2,6 +2,7 @@
 layout: post
 title: What pluralism on AI could actually look like
 date: 2025-01-28
+image: /assets/images/20250128-roboedge.webp
 tags:
   - hist-tec
   - recipes
@@ -12,7 +13,7 @@ A friend sent me Nate Silver’s recent post [“It's time to come to grips with
 
 Briefly, Silver, riffing on the Village/River dichotomy in his recent book *On The Edge*,[^1] thinks that his tribe, the River people, have a better eye for the vast potential upside *and* downside of AI than do a group he variously identifies as “Hipsters Skeptics” the Village, and the Left.His general conclusion is that everyone should accept the possibility that AI has vast upside *and* downside risk, so that we can have serious, pluralist conversations about how to respond to that; I don’t really disagree with that.  But I think Silver has the wrong idea of what that ought to look like. 
 
-![a robot betwixt river and village](https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh/roboedge.webp)
+![a robot betwixt river and village](/assets/images/20250128-roboedge.webp)
 
 There are a few issues with Silver’s analysis. First, some of them are downstream (sorry, river pun) of Silver not having an encyclopaedic understanding of who’s writing on the left about tech. This is not to fault Silver—the “Left” is broad, politically marginalized, and fractured. Many of its members don’t tend to spend a lot of time on Silver’s haunts, Twitter or Substack, and the ones that do are a non-random selection. And I wouldn’t claim to have an encyclopaedic understanding of what left thinking on AI looks like either. Related to this problem is the over-broad generalization inherent to Silver’s River/Village dichotomy. I think he’d grant that it’s only a rough model, and that’s fine, but if you’re going to use a rough model you should have some understanding of its limitations. The worst problems, though, are a failure of imagination of what potential political responses to AI could be. If Silver wants pluralism, it helps to have some sense of what’s already there. 
 
@@ -65,7 +66,7 @@ In short, the kind of AI pluralism Silver is calling for requires not only that 
 
 For new readers: I include a vegan recipe on every post. You can [browse past posts by recipe here](/cookbook/). 
 
-![Recipe photo](https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh/25.webp)
+![Recipe photo](/assets/images/20250128-peanut-tofu.webp)
 
 This recipe, from [Yewande Komolafe at the *NY Times*](https://cooking.nytimes.com/recipes/1020530-baked-tofu-with-peanut-sauce-and-coconut-lime-rice), is a bit of a liar—it takes far more than 25 minutes. But it’s well worth it, a consistent crowd-pleaser. 
 

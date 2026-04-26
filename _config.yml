@@ -20,6 +20,7 @@
 
 title: Contingent Ideas
 author: Bennett McIntosh
+image: /assets/images/manhapple.png
 email: bennettmcintosh@duck.com
 description: >- # this means to ignore newlines until "baseurl:" 
   This blog may feature my research on the history of scientific 
@@ -44,22 +45,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - email-stuff/
+  - bearblog_export.csv
+  - convert_bearblog.py
+  - posse.py
+  - requirements.txt
+  - CLAUDE.md

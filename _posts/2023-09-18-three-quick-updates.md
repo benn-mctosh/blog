@@ -13,13 +13,13 @@ Not doing near as much reading now that the school year has started, so this blo
 
 2. I had Covid last week. I’m fine now, but the current strain is a doozy — two days of being absolutely wiped out with fever/aches, and then I was coughing/fatigued for a few days longer than the previous couple times I've had it. Fortunately, there are updated vaccines out! Do yourself a favor and take 5 minutes to call your doctor/pharmacy or go to [vaccines.gov](https://vaccines.gov) to schedule your shot. Future you will thank you. Also, think about what you can do to make your school/place of work less of a petri dish. Masks and air filters, for instance, still work!
 
-![Chow Mein](https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1695071826-0.jpg)
+![Chow Mein](/assets/images/20230918-chow-mein.jpg)
 
 3. This [chow mein from Pick Up Limes](https://www.pickuplimes.com/recipe/the-best-vegan-chow-mein-800) is sooo good. Try it yourself! Probably a lot easier if you buy the carrots pre-shredded or use a food processor though. 
 
 ## Bonus:
 
-![Some Preliminary Thoughts](https://bear-images.sfo2.cdn.digitaloceanspaces.com/bennettmcintosh-1695073676-0.jpg)
+![Some Preliminary Thoughts](/assets/images/20230918-Lystrosaurus.jpg)
 
 <span class="pic-caption">(collage of images by <a href="https://commons.wikimedia.org/wiki/File:Lystr_murr1DB.jpg">Dmitry Bogdanov</a> and <a href="https://commons.wikimedia.org/wiki/File:Lystrosaurus_murrayi_scale.svg">Smokeybjb</a>; this and underlying images are all <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC:BY-SA 3.0</a>)</span>
 
