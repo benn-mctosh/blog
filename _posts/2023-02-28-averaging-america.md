@@ -31,7 +31,7 @@ Thanks to Conleigh, whose visit to Madison all the way from Zurich prompted this
 
 ### Igo, Sarah E. *The Averaged American: Surveys, Citizens, and the Making of a Mass Public.* Harvard University Press, 2008.
 
-![Truman defeats 'Dewey defeats Truman'](20230228-Dewey-Defeats-Truman.jpg)
+![Truman defeats 'Dewey defeats Truman'](/assets/images/20230228-Dewey-Defeats-Truman.jpg)
 
 > <sup>Truman defeats "Dewey defeats Truman" (Byron Rollins/AP [via Wikimedia](https://commons.wikimedia.org/wiki/File:Dewey_Defeats_Truman.jpg))</sup>
 
@@ -39,7 +39,7 @@ Remember how much *Sturm und Drang* there was after the 2016 election over how t
 
 After the election, hundreds of people wrote to pollsters like George Gallup and Elmo Roper, some excoriating them for their hubris ("Gallup never asked me!"[^1]) while others apologized for throwing them off: "I didn't deliberately try to deceive," one interviewee wrote Roper, explaining he voted Truman after telling Roper's pollster he would vote Dewey. "I changed my mind in the last week of the campaign."[^2] 
 
-![Gallup on a Romanian stamp](20230228-George-Gallup-2001-Romania-stamp.jpg)
+![Gallup on a Romanian stamp](/assets/images/20230228-George-Gallup-2001-Romania-stamp.jpg)
 
 > <sup>George Gallup on a Romanian postage stamp ([via Wikimedia](https://commons.wikimedia.org/wiki/File:George_Gallup_2001_Romania_stamp.jpg)). I don't know what he's doing there—if you know, let me know!</sup>
 
@@ -47,9 +47,9 @@ Such earnest naïvete is good for a chuckle, but it reveals something profound a
 
 This was not a smooth process. Of course, people questioned the premise of surveys (a popular retort to the Kinsey reports was that of course Kinsey found 'deviant' sexual behavior everywhere—only a deviant would sit for an hour-long interview full of probing questions about their sexual history). But skepticism wasn't the only obstacle social scientists faced in making the "Average American" a meaningful ideal. The Lynds presented their 1929 depiction of Muncie/Middletown as an objective portrayal of normal American life, but in their efforts to describe a single, cohesive American culture, they papered over Muncie's class conflict; largely ignored the town's black, Catholic, and Jewish population; and, remarkably, didn't bother detailing the Ku Klux Klan’s stranglehold over the town’s government. (The first issue was somewhat corrected in a follow-up study, after the Great Depression brought Muncie's class divides to the fore). 
 
-![The Muncie, Indiana courthouse](/assets/images/20230228-Old_Delaware_County_Courthouse._Razed_1960%27s_-_panoramio.jpg)
+![The Muncie, Indiana courthouse](/assets/images/20230228-Delaware-County-Courthouse.jpg)
 
-> <sup>The Muncie, Indiana courthouse, sometime in the first half of the 20th century ([dayne baughma/Wikimedia Commons](/assets/images/20230228-Old_Delaware_County_Courthouse._Razed_1960%27s_-_panoramio.jpg))</sup>
+> <sup>The Muncie, Indiana courthouse, sometime in the first half of the 20th century ([dayne baughma/Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Old_Delaware_County_Courthouse._Razed_1960%27s_-_panoramio.jpg))</sup>
 
 Marketers and salesmen saw *Middletown* as a new Bible for their profession, pouring over it for insights on the dreams and desires of the American consumer. "Middletown," after all, was an "objective" depiction of a town that matched their ideal of middle America (far more closely, I'll note, than the real Muncie ever did). Marketing actually has a long-running connection with these surveys: Gallup got his start as an audience researcher, and admen were quick to embrace new polling methods as their companies sought to sell off their surplus production. This turn is somewhat ironic: the Lynds used their study to decry the rise of consumerism in Middletown and across America. But in the end the marketers saw the Lynd's book as just so much advertising data. 
 

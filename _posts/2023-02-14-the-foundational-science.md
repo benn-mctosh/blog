@@ -21,7 +21,7 @@ Happy Valentine's day everyone! In lieu of a treatise on the heart, here's some 
 
 ### Vidal, Fernando. *The Sciences of the Soul: The Early Modern Origins of Psychology.* Translated by Saskia Brown, University of Chicago Press, 2011.
 
-![Système figuré des connaissances humaines (figurative system of human knowledge) from the Yverdon Encyclopedia](20230214-Encyclopedie-Yverdon-Systeme-figure.jpg)
+![Système figuré des connaissances humaines (figurative system of human knowledge) from the Yverdon Encyclopedia](/assets/images/20230214-Encyclopedie-Yverdon-Systeme-figure.jpg)
 > <sup>The "Figurative system of human knowledge" or tree of knowledge from the Yverdon encyclopedia. Image from Laussane University Library via [ENCCRE](http://enccre.academie-sciences.fr/encyclopedie/documentation/?s=175&)</sup>
 
 What's the most foundational science? A common modern view, illustrated by [this xkcd cartoon](https://xkcd.com/435/), is that math is fundamental, physics is how math is instantiated in the real world, and all other fields may as well be applied physics. 

@@ -13,15 +13,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-01-science-paper-thursday.md",
+                "file": "_posts/2023-03-21-pasteur-private-science-geison.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-02-01-science-paper-thursday"
+              "title": "2023-03-21-pasteur-private-science-geison"
+            }
+          },
+          {
+            "id": "2e1bd211af50f7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/Welcome to Jekyll 2!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome to Jekyll 2!"
+            }
+          },
+          {
+            "id": "182e1a4469bb10b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/YYYY-MM-DD-Model-Weights-Like-DNA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YYYY-MM-DD-Model-Weights-Like-DNA"
+            }
+          },
+          {
+            "id": "4b01ce1293236c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-02-28-averaging-america.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023-02-28-averaging-america"
+            }
+          },
+          {
+            "id": "3da763a5ac56f657",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/images/20230918-Lystrosaurus.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "20230918-Lystrosaurus"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 489.5
   },
   "right": {
     "id": "8ca0eccfbd7fbc97",
@@ -94,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-01-science-paper-thursday.md",
+                "file": "_drafts/YYYY-MM-DD-Hyping-Marina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-02-01-science-paper-thursday"
+              "title": "Backlinks for YYYY-MM-DD-Hyping-Marina"
             }
           },
           {
@@ -113,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-01-science-paper-thursday.md",
+                "file": "_drafts/YYYY-MM-DD-Hyping-Marina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-02-01-science-paper-thursday"
+              "title": "Outgoing links from YYYY-MM-DD-Hyping-Marina"
             }
           },
           {
@@ -156,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-01-science-paper-thursday.md",
+                "file": "_drafts/YYYY-MM-DD-Hyping-Marina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-02-01-science-paper-thursday"
+              "title": "Outline of YYYY-MM-DD-Hyping-Marina"
             }
           }
         ]
@@ -183,44 +238,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d3196512f5318c0",
+  "active": "4b01ce1293236c9e",
   "lastOpenFiles": [
-    "_drafts/posse-setup-guide.md",
-    "CNAME",
-    "_drafts/YYYY-MM-DD-Model-Weights-Like-DNA.md",
-    "_site/assets/manhapple.png",
-    "assets/manhapple.png",
-    "_includes/social-compact.html",
-    "_includes/social copy.html",
-    "_site/email-stuff/out.html",
-    "_site/email-stuff/email_template.html",
-    "_site/email-stuff/email.css",
-    "_site/email-stuff/build_email.py",
-    "_site/email-stuff",
-    "out.html",
-    "email-stuff/email_template.html",
-    "_drafts/YYYY-MM-DD-post-template.md",
+    "_posts/2023-03-21-pasteur-private-science-geison.md",
+    "_posts/2023-02-28-averaging-america.md",
+    "__pycache__/posse.cpython-313.pyc",
+    "__pycache__",
+    "assets/images/20230228-flytrap.jpg",
+    "_site/assets/images/20230228-Delaware-County-Courthouse.jpg",
+    "assets/images/20230228-Delaware-County-Courthouse.jpg",
+    "_site/assets/images/20230228-Delaware-County-Courthouse-2.jpg",
+    "assets/images/20230214-systeme-figure.jpg",
+    "_posts/2023-02-14-the-foundational-science.md",
+    "_posts/2023-02-10-against-efficiency.md",
+    "_posts/2023-01-30-statement-of-purpose.md",
+    "_posts/2026-04-25-ORD-Bus-Terminal.md",
     "_posts/2025-01-28-what-pluralism-on-ai-could-actually-look-like.md",
     "_posts/2024-02-01-science-paper-thursday.md",
     "_posts/2023-09-18-three-quick-updates.md",
     "_posts/2023-07-27-holy-science-hindu-nationalism-banu-subramaniam.md",
     "_posts/2023-07-15-lev.md",
     "_posts/2023-06-21-links-for-june-21-2023.md",
-    "_posts/2023-06-09-links-for-june-9-2023.md",
     "_posts/2023-06-21-culturing-life-vat-grown-lard.md",
+    "_posts/2023-06-09-links-for-june-9-2023.md",
     "_posts/2023-06-03-god-human-animal-machine.md",
     "_posts/2023-04-11-the-dangers-of-encyclopedias.md",
-    "_posts/2023-03-21-pasteur-private-science-geison.md",
-    "_posts/2023-02-28-averaging-america.md",
-    "_posts/2023-02-14-the-foundational-science.md",
-    "_posts/2023-02-10-against-efficiency.md",
-    "_posts/2023-01-30-statement-of-purpose.md",
-    "_drafts/2026-03-31-welcome-to-jekyll.md",
-    "books.md",
-    "index.md",
-    "2023/01/30/statement-of-purpose.md",
-    "_site/2023/01/30/statement-of-purpose.md",
-    "recipes.md",
-    "_posts/2026-03-31-welcome-to-jekyll.md"
+    "assets/images/20230411-prvw.jpg",
+    "assets/images/20230214-purity.png",
+    "assets/images/20230214-Encyclopedie-Yverdon-Systeme-figure.jpg",
+    "_site/assets/images/20230214-Encyclopedie-Yverdon-Systeme-figure.jpg",
+    "assets/images/20230210-berman.jpg",
+    "_site/Gemfile.lock",
+    "_site/Gemfile",
+    "_site/CNAME",
+    "_drafts/YYYY-MM-DD-Post-Template.md",
+    "_drafts/YYYY-MM-DD-Model-Weights-Like-DNA.md",
+    "_site/2026/04/25/ORD-Bus-Terminal/index.html",
+    "_site/2026/04/25/ORD-Bus-Terminal",
+    "_site/2025/01/28/what-pluralism-on-ai-could-actually-look-like/index.html",
+    "_site/2025/01/28/what-pluralism-on-ai-could-actually-look-like",
+    "_site/2024/02/01/science-paper-thursday/index.html",
+    "_site/CLAUDE.md",
+    "CLAUDE.md",
+    "_drafts/Posse Setup Guide.md",
+    "_drafts/YYYY-MM-DD-Hyping-Marina.md",
+    "_drafts/YYYY-MM-DD-Limited-Liability-Machines.md",
+    "_drafts/Untitled.md",
+    "_drafts/Welcome to Jekyll 2!.md"
   ]
 }

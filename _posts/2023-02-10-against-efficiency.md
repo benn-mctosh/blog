@@ -103,7 +103,7 @@ When we traveled to Alberta for my Nana's funeral this summer, I was touched at 
 * **3 cups** vegan mozzarella (we use [Miyoko's liquid mozz](https://miyokos.com/products/pizza-mozzarella), which is available at many grocery stories and also makes great pizzas)
 * **3/4 cup** vegan Parmesan (shredded or grated)
 
-![lasagna](20230210-lasagna-slice.jpeg)
+![lasagna](/assets/images/20230210-lasagna-slice.jpeg)
 
 ### Directions
 
