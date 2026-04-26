@@ -82,7 +82,7 @@ The book is less useful to students of the sociology of science, though they wil
 
 [Once again](https://bennettmcintosh.bearblog.dev/against-efficiency/#the-recipe-vegan-lasagna), the recipe doesn't exist online (I adapted the "unpork" from Miyoko Schinner's [*The Homemade Vegan Pantry*](https://www.penguinrandomhouse.com/books/237259/the-homemade-vegan-pantry-by-miyoko-schinner-foreword-by-isa-chandra-moskowitz/) and the flavors from Make It Dairy Free's [Jamaican lentil curry](https://makeitdairyfree.com/vegan-jamaican-lentil-curry/)). So here's a PDF of the recipe: 
 
-#### [Download PDF](https://bennettmcintosh.com/blog_assets/2023_03_20/tacos.pdf)
+#### [Download PDF](/assets/files/20230321-tacos.pdf)
 
 DIY seitan is surprisingly easy, cheap, and versatile–the vital wheat gluten we make it from is a pantry staple for us, since you can turn it into taco grounds one day, steak the next, and burgers the day after that!  
 

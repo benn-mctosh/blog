@@ -75,4 +75,4 @@ We love [this Caesar salad](https://cooking.nytimes.com/recipes/1020763-vegan-ca
 
 [^3]: [*Salt Lake Tribune*, Jan. 31, 2023](https://www.sltrib.com/opinion/commentary/2023/01/31/r-lynn-carlson-bill-would/)
 
-[^4]: [Direct Action Everywhere press release](https://bennettmcintosh.com/blog_assets/2023_02_14/utah-anti-rescue-dxe.pdf)
+[^4]: [Direct Action Everywhere press release](/assets/files/20230214-utah-anti-rescue-dxe.pdf)
