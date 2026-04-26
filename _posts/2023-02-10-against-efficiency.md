@@ -126,6 +126,3 @@ When we traveled to Alberta for my Nana's funeral this summer, I was touched at 
 
 **For a cheaper and healthier alternative**, replace the plant-based meat with 1/2 cup finely chopped walnuts and 1 cup red lentils. Soak the lentils in water for 30–60 minutes before cooking. Add the walnuts to the pot while sauteing the onions and garlic so they can toast a bit, and add the lentils with the canned tomatoes. 
 
-***
-
-<sup>*This is Some Preliminary Thoughts, [Bennett McIntosh's](https://bennettmcintosh.com) blog. You can sign up for email updates [here](/subscribe/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*</sup>

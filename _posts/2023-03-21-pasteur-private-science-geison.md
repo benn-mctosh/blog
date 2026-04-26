@@ -86,11 +86,6 @@ The book is less useful to students of the sociology of science, though they wil
 
 DIY seitan is surprisingly easy, cheap, and versatile–the vital wheat gluten we make it from is a pantry staple for us, since you can turn it into taco grounds one day, steak the next, and burgers the day after that!  
 
-***
-
-<sup>*This is Some Preliminary Thoughts, [Bennett McIntosh's](https://bennettmcintosh.com) blog. You can sign up for email updates [here](/subscribe/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*</sup>
-
-***
 
 [^1]: [https://en.wikipedia.org/wiki/Experimentum_crucis](https://en.wikipedia.org/wiki/Experimentum_crucis)
 

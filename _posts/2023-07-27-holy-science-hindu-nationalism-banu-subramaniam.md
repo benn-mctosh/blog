@@ -85,8 +85,6 @@ If that doesn’t sound like a future you want to live in, the Electronic Fronti
 
 Was surprised I hadn’t shared this [Spicy Garlic Tofu from Pick Up Limes](https://www.pickuplimes.com/recipe/spicy-garlic-tofu-3) yet. It’s been a regular in our meal rotation for some time, and is endlessly customizable too—we add some frozen stir-fry veggies and serve over brown rice, which makes it enough for dinner and lunch the next day too!
 
-***
 
-*This is Some Preliminary Thoughts, [Bennett McIntosh’s](https://bennettmcintosh.com) blog. You can sign up for updates via [email](/subscribe/) or [rss](/feed/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*
 
 [^1]: Whether you call it food sovereignty, economic independence, or autarky, it’s a notable echo of Mussolini’s ambitions for Italy a century ago. It’s not as if economic independence is universally evil—I’d much rather the US be powered by home-generated solar & wind than Saudi oil, and economic self sufficiency is often an vital goal for colonies getting out from under the thumb of their former rulers—but there’s a long and inglorious history of fascist nations working for food sovereignty in particular in order to drum up support from farmers, sever the ties that bind them to other nations, and, in the case of fascist Italy and Germany, prepare their economy for war.

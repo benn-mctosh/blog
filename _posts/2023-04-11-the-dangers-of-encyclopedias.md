@@ -130,7 +130,7 @@ We’ve (now talking not just about the US) built a society where people feel to
 
 *This is Some Preliminary Thoughts, [Bennett McIntosh's](https://bennettmcintosh.com) blog. You can sign up for email updates [here](https://forms.gle/RsNppLGeUtCrvmZ58), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*
 
-***
+
 
 [^1]: Geoffrey Fowler at the *Washington Post* has a good exploration of why merely banning AI assistance through punitive policies and imperfect detectors like TurnItIn and GPT-Zero is a bad idea: [https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) [[Click here for Fowler's non-paywalled summary](https://federated.press/@geoffreyfowler/110142604129200670)]
 

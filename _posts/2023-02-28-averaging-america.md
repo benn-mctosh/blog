@@ -71,11 +71,5 @@ I guess in that respect, *Middletown* isn't too different from much of the Web t
 
 **One-Pot Roasted Squash Soup**, [from the *New York Times*](https://cooking.nytimes.com/recipes/1023934-one-pot-roasted-squash-soup). This seems pretty versatile—we threw some potatoes in, and added extra carrots to supplement the single 3-lb squash we were using. It takes a while, but most of that is set-it-and-forget-it baking. It'd be even easier if we had a Dutch oven (which the *NYT* seems to assume everyone has—we got around our lack of one by baking the veggies in a casserole dish and then transferring to a pot). 
 
-***
-
-<sup>*This is Some Preliminary Thoughts, [Bennett McIntosh's](https://bennettmcintosh.com) blog. You can sign up for email updates [here](/subscribe/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*</sup>
-
-***
-
 [^1]: Igo, *The Averaged American*, p. 152
 [^2]: *ibid*, p. 161

@@ -62,8 +62,3 @@ Vegan minced "pork" [from Rabbit and Wolves](https://www.rabbitandwolves.com/the
 
 ![Minced pork lettuce wraps](/assets/images/20230603-mincedpork.jpeg)
 
-***
-
-<sup>*This is Some Preliminary Thoughts, [Bennett McIntosh's](https://bennettmcintosh.com) blog. You can sign up for email updates [here](/subscribe/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*</sup>
-
-***

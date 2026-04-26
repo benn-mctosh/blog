@@ -68,11 +68,6 @@ The bill now goes to governor Spencer Cox, who as of last week has not indicated
 
 We love [this Caesar salad](https://cooking.nytimes.com/recipes/1020763-vegan-caesar-salad-with-crisp-chickpeas), from the *New York Times*. Since the dressing is cashew-based (with caper brine for the trademark Caesar taste), it's a high-protein, low-fat salad that's fresh and bright enough for summer and hearty and filling enough for winter. 
 
-***
-
-<sup>*This is Some Preliminary Thoughts, [Bennett McIntosh's](https://bennettmcintosh.com) blog. You can sign up for email updates [here](/subscribe/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*</sup>
-
-***
 
 [^1]: Gabriel Mingard, Psychologie (Métaphysique), in Fortunato Bartolomeo de Felice, ed., *Encyclopédie, ou Dictionnaire universel raisonné des connoissances humaines* (Yverdon: Société Typographique, 1770–1775); Supplément (1775–1776), vol. 35, 511b–513a, pp. 512b–513a; as quoted in Vidal, p. 1
 

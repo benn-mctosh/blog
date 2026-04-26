@@ -116,8 +116,3 @@ My family's vegan picadillo, (or what Filipinos call *arroz a la cubana*), a hea
 
 [^2]: If you've never been to a farm sanctuary, I encourage you to look up your local sanctuary and give them a visit—or even volunteer for a day to help take care of the animals. You'll come away with a whole new appreciation for the joyful, loving beings whose brethren are slaughtered for meat.  
 
-***
-
-*This is Some Preliminary Thoughts, [Bennett McIntosh's](https://bennettmcintosh.com) blog. You can sign up for email updates [here](/subscribe/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*
-
-***

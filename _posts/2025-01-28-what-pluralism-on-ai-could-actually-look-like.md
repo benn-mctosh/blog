@@ -70,12 +70,9 @@ For new readers: I include a vegan recipe on every post. You can [browse past po
 
 This recipe, from [Yewande Komolafe at the *NY Times*](https://cooking.nytimes.com/recipes/1020530-baked-tofu-with-peanut-sauce-and-coconut-lime-rice), is a bit of a liar—it takes far more than 25 minutes. But it’s well worth it, a consistent crowd-pleaser. 
 
-***
-
 [^1]: Out last year from [Penguin](https://www.penguinrandomhouse.com/books/529280/on-the-edge-by-nate-silver/). I recommend this review by David Karpf on [Bluesky](https://bsky.app/profile/davekarpf.bsky.social/post/3kzwvdiolld2a) or in *[Foreign Policy](https://foreignpolicy.com/2024/09/20/on-the-edge-book-review-nate-silver-risk/)*
 
 [^2]: Substack says they don’t want to moderate content, and that they’re a platform, not a publisher, but they do, or at least did, some curation in the form of [inviting a select group of writers](https://thehypothesis.substack.com/p/heres-why-substacks-scam-worked-so) to write for a guaranteed income when they were starting up. Every so-called platform moderates content, what we’re haggling about is how much. You can decide how you feel about that. I’m posting this on Substack, but the full post is elsewhere, so take from that what you will. 
 
 [^3]: The world-changing potential of AI, the need to keep that potential under the control of market democracies... 
 
-*This is Some Preliminary Thoughts, [Bennett McIntosh’s](https://bennettmcintosh.com) blog. You can sign up for updates via [email](/subscribe/) or [rss](/feed/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*

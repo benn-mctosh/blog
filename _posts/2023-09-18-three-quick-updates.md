@@ -28,6 +28,3 @@ Not doing near as much reading now that the school year has started, so this blo
 
 We stan a resilient queen. 
 
-***
-
-*This is Some Preliminary Thoughts, [Bennett McIntosh’s](https://bennettmcintosh.com) blog. You can sign up for updates via [email](/subscribe/) or [rss](/feed/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*

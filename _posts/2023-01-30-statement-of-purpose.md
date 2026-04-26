@@ -62,12 +62,6 @@ This week we made [Spicy Thai Peanut Ramen](https://www.rabbitandwolves.com/vega
 
 We've discovered a nice hack for keeping fresh ginger on hand: the day you buy it, cut it into ~half-inch chunks, and keep them in a jar in the freezer. This way it's always on hand, you don't have to worry about how fast/slow you're using it, and the freezing makes it easier to cut when you're ready to use it.
 
-***
-
-<sup>*This is Some Preliminary Thoughts, [Bennett McIntosh's](https://bennettmcintosh.com) blog. You can sign up for email updates [here](/subscribe/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*</sup>
-
-***
-
 [^1]: [Felten & von Oertzen (2020), "Bureaucracy as Knowledge" ](https://doi.org/10.5334/jhk.18)
 
 [^2]: *ibid.*

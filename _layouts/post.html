@@ -19,5 +19,24 @@ layout: default
     {{ content }}
   </div>
 
+  {%- if page.previous or page.next -%}
+  <nav class="post-nav">
+    {%- if page.previous -%}
+    <a class="post-nav-link post-nav-prev" href="{{ page.previous.url | relative_url }}">
+      <span class="post-nav-label">← Previous</span>
+      <span class="post-nav-title">{{ page.previous.title | escape }}</span>
+    </a>
+    {%- else -%}
+    <span class="post-nav-spacer"></span>
+    {%- endif -%}
+    {%- if page.next -%}
+    <a class="post-nav-link post-nav-next" href="{{ page.next.url | relative_url }}">
+      <span class="post-nav-label">Next →</span>
+      <span class="post-nav-title">{{ page.next.title | escape }}</span>
+    </a>
+    {%- endif -%}
+  </nav>
+  {%- endif -%}
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

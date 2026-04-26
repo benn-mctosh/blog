@@ -120,9 +120,6 @@ And here’s the recipe I end every post with: Over winter break, I got really i
 
 
 
-***
-
-*This is Some Preliminary Thoughts, [Bennett McIntosh’s](https://bennettmcintosh.com) blog. You can sign up for updates via [email](/subscribe/) or [rss](/feed/), or unsubscribe [here](https://forms.gle/1k1VB3DBuHjfpYcj7).*
 
 [^1]: American Association for the Advancement of Science
 [^2]: Since I hit publish on this post, good stories on the study in question have come out in, among other places, *[The Atlantic](https://www.theatlantic.com/science/archive/2024/02/invasive-species-large-herbivores-plants/677325/)* and *[The Hill](https://thehill.com/policy/equilibrium-sustainability/4445182-invasive-animals-ecosystems-study/)*.
