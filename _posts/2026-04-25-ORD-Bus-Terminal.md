@@ -2,7 +2,7 @@
 layout: post
 title: This Airport is a Bus Terminal if You Trespass Hard Enough and Believe in Yourself
 date: 2026-04-25
-image: /assets/images/20260425-ord.png
+image: /assets/images/20260425-Not-Flying-Today.png
 description: My trip to the Midwest Junto for the History of Science, and the untapped potential of suburban airports as regional ground transportation hubs.
 tags:
   - hist-tech
@@ -87,7 +87,7 @@ And on the way back:
 
 * **Reading:** Last month, activists plucked more than 20 dogs out of a beagle breeder and research facility outside of Madison. [Read Marina's new Substack on that](https://substack.com/home/post/p-191292792), and check back on [Vox next week](https://www.vox.com/authors/marina-bolotnikova) for her upcoming report on what the second attempt — in which activists attempting a second rescue met tear gas, truncheons, and moats full of manure — means about the status of the animal rights movement today. 
 * **Watching:** We watched Ken Burns's *The American Revolution* when it dropped last year, and since then have been plowing through his other wars—we hit *The Civil War* next and are now on to *The Vietnam War*. All are rich texts on wars that, in different ways, never really ended; I probably learned the most from *The American Revolution* and *The Civil War* was excellent TV even if as history it has, erm, aged poorly. But *The Vietnam War* really lays out how much folly, pride, and blinding masculinity led one US leader after another to keep feeding American soldiers and Vietnamese civilians into the meatgrinder. 
-* **Listening**: WGBH's new narrative podcast [*Catching the Codfather*](https://www.wgbh.org/podcasts/thecodfather) about fish crime in New Bedford leans a little too hard into journalism's "both sides" reflex but is still an excellent history of the rise and fall of New England's biggest fishing port, and the outro music, Jorge Feirrara's [*Viva Viva New Bedford*](https://www.youtube.com/watch?v=7aP1_nh3BBM), absolutely slaps.
+* **Listening**: WGBH's new narrative podcast [*Catching the Codfather*](https://www.wgbh.org/podcasts/thecodfather) about fish crime in New Bedford leans a little too hard into journalism's "both sides" reflex but is still an excellent history of the rise and fall of New England's biggest fishing port, and the outro music, Jorge Feirrara's ["Viva Viva New Bedford"](https://www.youtube.com/watch?v=7aP1_nh3BBM), absolutely slaps.
 
 
 [^1]: It's pronounced DJOON-toh, which apparently is a word Ben Franklin used as a synonym for Congress, nor HOON-tou, like someone misgendering a military regime.
