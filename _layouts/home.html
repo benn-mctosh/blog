@@ -9,6 +9,8 @@ layout: default
 
   {{ content }}
 
+  <div style="text-align:center;margin-bottom:2em"><a href="https://bennettmcintosh.eo.page/8vpjw">Subscribe via email</a> or follow on: {%- include social-compact.html -%}</div>
+
   {%- if site.posts.size > 0 -%}
  <!--   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
     <ul class="post-list">
@@ -30,7 +32,29 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <div style="text-align:center">
+      <button id="load-more-posts">❦ Load more ❦</button>
+    </div>
+
+    <script>
+    (function () {
+      var BATCH = 10;
+      var items = Array.from(document.querySelectorAll('.post-list .post-preview'));
+      var btn = document.getElementById('load-more-posts');
+      var shown = BATCH;
+
+      items.slice(BATCH).forEach(function (el) { el.style.display = 'none'; });
+
+      if (items.length <= BATCH) { btn.style.display = 'none'; }
+
+      btn.addEventListener('click', function () {
+        items.slice(shown, shown + BATCH).forEach(function (el) { el.style.display = ''; });
+        shown += BATCH;
+        if (shown >= items.length) { btn.style.display = 'none'; }
+      });
+    })();
+    </script>
+
   {%- endif -%}
 
 </div>

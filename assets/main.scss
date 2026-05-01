@@ -34,19 +34,15 @@
     padding-left: 5px; padding-right: 5px; vertical-align: text-top;
 }
 
-
 .post-preview, .post {
     box-shadow: 5px 5px #ccccaa;
     background-color: white;
     margin-bottom: 12px;
+    padding:24px;
 }
 
 .post-preview {
-    padding: 12px;
-}
-
-.post {
-    padding: 24px;
+   padding-top: 12px;
 }
 
 blockquote { 
@@ -99,6 +95,23 @@ blockquote {
     font-style: italic;
     color: gray;
   }
+}
+
+#load-more-posts {
+  font-family: inherit;
+  font-size: 1em;
+  padding: 0.6em 1.2em;
+  margin: 1.2em auto;
+  cursor: pointer;
+  border:none;
+  border-radius:5px;
+  box-shadow: 5px 5px #ccccaa;
+  background-color: #3c3c3c;
+  color:white;
+}
+
+#load-more-posts:hover {
+  box-shadow: none;
 }
 
 .post-nav {
